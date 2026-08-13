@@ -1,0 +1,61 @@
+{
+  "items": [
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Quasar GitHub Repo",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-08-12T16:50:34Z",
+            "owner": "quasarframework",
+            "repo": "quasar",
+            "stars": 27209
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Quasar Release Notes",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-08-12T16:50:34Z",
+            "owner": "quasarframework",
+            "repo": "quasar",
+            "stars": 27209
+          }
+        }
+      ],
+      "title": "Official Resources"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Tutorials"
+    },
+    {
+      "description": "Do not forget to watch official video tutorials.",
+      "items": [],
+      "title": "Video Tutorials"
+    },
+    {
+      "description": "Do not forget to read the official blog.",
+      "items": [],
+      "title": "Articles"
+    }
+  ],
+  "metadata": {
+    "last_updated": "2026-08-13T04:10:35.882Z",
+    "original_repository": "quasarframework/quasar-awesome",
+    "original_repository_sha": "dac49060e3d45e111b71c52ab13e9c357d783c6e",
+    "enhanced_repository": "enhansome/quasar-enhansome",
+    "enhanced_repository_description": null,
+    "title": "Awesome Community App Extensions with stars"
+  }
+}
