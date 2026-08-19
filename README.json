@@ -11,10 +11,10 @@
           "repo_info": {
             "archived": false,
             "language": "JavaScript",
-            "last_commit": "2026-08-17T17:14:59Z",
+            "last_commit": "2026-08-18T16:44:55Z",
             "owner": "quasarframework",
             "repo": "quasar",
-            "stars": 27203
+            "stars": 27205
           }
         },
         {
@@ -25,10 +25,10 @@
           "repo_info": {
             "archived": false,
             "language": "JavaScript",
-            "last_commit": "2026-08-17T17:14:59Z",
+            "last_commit": "2026-08-18T16:44:55Z",
             "owner": "quasarframework",
             "repo": "quasar",
-            "stars": 27203
+            "stars": 27205
           }
         }
       ],
@@ -51,7 +51,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-18T02:47:51.582Z",
+    "last_updated": "2026-08-19T02:49:10.672Z",
     "original_repository": "quasarframework/quasar-awesome",
     "original_repository_sha": "9dab436cb3c11c64a086d4f4c672622d09a1d325",
     "enhanced_repository": "enhansome/quasar-enhansome",
