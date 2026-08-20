@@ -1,58 +1,53 @@
 {
   "items": [
     {
-      "description": "",
+      "description": null,
       "items": [
         {
-          "node_type": "item",
-          "title": "Quasar GitHub Repo",
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Quasar GitHub Repo",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 43695474,
+                "language": "JavaScript",
+                "last_commit": "2026-08-19T14:43:30Z",
+                "owner": "quasarframework",
+                "repo": "quasar",
+                "stars": 27205
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Quasar Release Notes",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 43695474,
+                "language": "JavaScript",
+                "last_commit": "2026-08-19T14:43:30Z",
+                "owner": "quasarframework",
+                "repo": "quasar",
+                "stars": 27205
+              }
+            }
+          ],
           "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2026-08-18T16:44:55Z",
-            "owner": "quasarframework",
-            "repo": "quasar",
-            "stars": 27205
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Quasar Release Notes",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2026-08-18T16:44:55Z",
-            "owner": "quasarframework",
-            "repo": "quasar",
-            "stars": 27205
-          }
+          "node_type": "group",
+          "title": "Official Resources"
         }
       ],
-      "title": "Official Resources"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "Tutorials"
-    },
-    {
-      "description": "Do not forget to watch official video tutorials.",
-      "items": [],
-      "title": "Video Tutorials"
-    },
-    {
-      "description": "Do not forget to read the official blog.",
-      "items": [],
-      "title": "Articles"
+      "title": "Resources"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-19T02:49:10.672Z",
+    "last_updated": "2026-08-20T02:48:53.671Z",
     "original_repository": "quasarframework/quasar-awesome",
+    "original_repository_id": 117342615,
     "original_repository_sha": "9dab436cb3c11c64a086d4f4c672622d09a1d325",
     "enhanced_repository": "enhansome/quasar-enhansome",
     "enhanced_repository_description": null,
