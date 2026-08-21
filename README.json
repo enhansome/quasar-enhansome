@@ -14,10 +14,10 @@
                 "archived": false,
                 "id": 43695474,
                 "language": "JavaScript",
-                "last_commit": "2026-08-19T14:43:30Z",
+                "last_commit": "2026-08-20T15:08:26Z",
                 "owner": "quasarframework",
                 "repo": "quasar",
-                "stars": 27205
+                "stars": 27207
               }
             },
             {
@@ -29,10 +29,10 @@
                 "archived": false,
                 "id": 43695474,
                 "language": "JavaScript",
-                "last_commit": "2026-08-19T14:43:30Z",
+                "last_commit": "2026-08-20T15:08:26Z",
                 "owner": "quasarframework",
                 "repo": "quasar",
-                "stars": 27205
+                "stars": 27207
               }
             }
           ],
@@ -45,7 +45,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-20T02:48:53.671Z",
+    "last_updated": "2026-08-21T02:54:49.452Z",
     "original_repository": "quasarframework/quasar-awesome",
     "original_repository_id": 117342615,
     "original_repository_sha": "9dab436cb3c11c64a086d4f4c672622d09a1d325",
