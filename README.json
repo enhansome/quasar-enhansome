@@ -14,10 +14,10 @@
                 "archived": false,
                 "id": 43695474,
                 "language": "JavaScript",
-                "last_commit": "2026-08-21T15:11:41Z",
+                "last_commit": "2026-08-24T13:11:14Z",
                 "owner": "quasarframework",
                 "repo": "quasar",
-                "stars": 27204
+                "stars": 27205
               }
             },
             {
@@ -29,23 +29,2096 @@
                 "archived": false,
                 "id": 43695474,
                 "language": "JavaScript",
-                "last_commit": "2026-08-21T15:11:41Z",
+                "last_commit": "2026-08-24T13:11:14Z",
                 "owner": "quasarframework",
                 "repo": "quasar",
-                "stars": 27204
+                "stars": 27205
               }
             }
           ],
           "description": null,
           "node_type": "group",
           "title": "Official Resources"
+        },
+        {
+          "children": [
+            {
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "Patrick Monteiro",
+                  "description": "YouTube Building a multiplatform application with Quasar Framework. (pt-br) v1.0.5",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 174601231,
+                    "language": "JavaScript",
+                    "last_commit": "2019-03-11T01:20:00Z",
+                    "owner": "patrickmonteiro",
+                    "repo": "quasar-hello-auth",
+                    "stars": 11
+                  }
+                }
+              ],
+              "description": "Do not forget to watch official video tutorials.",
+              "node_type": "group",
+              "title": "Video Tutorials"
+            },
+            {
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "hawkeye64",
+                  "description": "Medium, github Building an Electron File Explorer with Quasar (and Vue) v0.17.18",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 157999025,
+                    "language": "Vue",
+                    "last_commit": "2026-02-16T10:38:02Z",
+                    "owner": "hawkeye64",
+                    "repo": "electron-quasar-file-explorer",
+                    "stars": 181
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "Patrick Monteiro",
+                  "description": "(pt-br) and William Comnisky (en) website (en) Quasar Framework with Social Login using Hello.js v1.0.3",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 174601231,
+                    "language": "JavaScript",
+                    "last_commit": "2019-03-11T01:20:00Z",
+                    "owner": "patrickmonteiro",
+                    "repo": "quasar-hello-auth",
+                    "stars": 11
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "Luciano Pereira",
+                  "description": "Github Simple guide to create a signed apk from a Quasar app with Cordova v1.0",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 199187204,
+                    "language": null,
+                    "last_commit": "2019-07-27T17:03:59Z",
+                    "owner": "lucianopereira86",
+                    "repo": "Quasar-Cordova-Apk",
+                    "stars": 16
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "Luciano Pereira",
+                  "description": "Github Upload and download files to Google Drive by using Quasar v1 and NodeJS API v1.0",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 199009602,
+                    "language": "JavaScript",
+                    "last_commit": "2023-01-04T05:31:01Z",
+                    "owner": "lucianopereira86",
+                    "repo": "Quasar-NodeJS-Google-Drive",
+                    "stars": 11
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "Luciano Pereira",
+                  "description": "Github Extract text from images by using Google Vision, Quasar v1 and NodeJS API v1.0",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 199293882,
+                    "language": "JavaScript",
+                    "last_commit": "2023-01-04T05:36:46Z",
+                    "owner": "lucianopereira86",
+                    "repo": "Quasar-NodeJS-Google-Vision",
+                    "stars": 18
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "Luciano Pereira",
+                  "description": "Github Social network authentication with Quasar, Cordova and HelloJS v1.0",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 197951236,
+                    "language": "Java",
+                    "last_commit": "2023-01-04T04:57:44Z",
+                    "owner": "lucianopereira86",
+                    "repo": "quasar-cordova-hellojs",
+                    "stars": 9
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "Luciano Pereira",
+                  "description": "Github Example of a Quasar app with Google Maps and Cypress automated tests v1.0",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 200143173,
+                    "language": "JavaScript",
+                    "last_commit": "2023-01-04T06:14:25Z",
+                    "owner": "lucianopereira86",
+                    "repo": "Quasar-GoogleMaps-Cypress",
+                    "stars": 9
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "Luciano Pereira",
+                  "description": "Github Building a dynamic portfolio with Quasar and GreenSock v1.0",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 200552811,
+                    "language": "Vue",
+                    "last_commit": "2023-01-04T06:20:08Z",
+                    "owner": "lucianopereira86",
+                    "repo": "Quasar-GreenSock-Portfolio",
+                    "stars": 6
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "Luciano Pereira",
+                  "description": "Github Example of a Quasar PWA connecting with a Bluetooth thermal printer v1.0",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 203197704,
+                    "language": "JavaScript",
+                    "last_commit": "2023-01-04T07:47:09Z",
+                    "owner": "lucianopereira86",
+                    "repo": "Quasar-PWA-Bluetooth-Printer",
+                    "stars": 76
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "remote-dev-tools",
+                  "description": "Vue remote devtools for Cordova and Electron apps made with Quasar",
+                  "children": [],
+                  "repo_info": {
+                    "archived": true,
+                    "id": 186036615,
+                    "language": "JavaScript",
+                    "last_commit": "2019-10-31T15:55:33Z",
+                    "owner": "bloodf",
+                    "repo": "quasar-remote-dev-tools",
+                    "stars": 5
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "alpaca-forms",
+                  "description": "Alpaca form builder built for Quasar",
+                  "children": [],
+                  "repo_info": {
+                    "archived": true,
+                    "id": 184467214,
+                    "language": "Vue",
+                    "last_commit": "2019-05-09T18:40:56Z",
+                    "owner": "221B-io",
+                    "repo": "quasar-alpaca-form-builder",
+                    "stars": 12
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "draggable",
+                  "description": "A Quasar extension that makes elements draggable and movable with keyboard.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": true,
+                    "id": 180568964,
+                    "language": "Vue",
+                    "last_commit": "2021-03-08T03:18:35Z",
+                    "owner": "mesqueeb",
+                    "repo": "quasar-app-extension-draggable",
+                    "stars": 48
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "swipe-to-close",
+                  "description": "A Quasar Framework app extension that allows you to close dialogs by swiping.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": true,
+                    "id": 178321603,
+                    "language": "Vue",
+                    "last_commit": "2021-03-08T03:20:00Z",
+                    "owner": "mesqueeb",
+                    "repo": "quasar-app-extension-swipe-to-close",
+                    "stars": 30
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "qdatetimepicker",
+                  "description": "QDatetimePicker for Quasar",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 177782418,
+                    "language": "JavaScript",
+                    "last_commit": "2022-12-03T04:39:39Z",
+                    "owner": "TobyMosque",
+                    "repo": "app-extension-qdatetimepicker",
+                    "stars": 54
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "qribbon",
+                  "description": "Customisable ribbons with a component builder. Allows ribbons at the top, corners, bottom etc.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 189302576,
+                    "language": "JavaScript",
+                    "last_commit": "2021-11-13T18:00:08Z",
+                    "owner": "quasarframework",
+                    "repo": "quasar-ui-qribbon",
+                    "stars": 44
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "http-authentication",
+                  "description": "HTTP authentication using the Vuex store with basic login, registration and password reset pages.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": true,
+                    "id": 233583420,
+                    "language": "Vue",
+                    "last_commit": "2022-09-12T11:57:47Z",
+                    "owner": "stefanvanherwijnen",
+                    "repo": "quasar-app-extension-http-authentication",
+                    "stars": 66
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "system-environment-variables",
+                  "description": "Loading of system environment variables for deploying on CI environment.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 212206843,
+                    "language": "JavaScript",
+                    "last_commit": "2021-10-21T02:09:54Z",
+                    "owner": "marcorivm",
+                    "repo": "quasar-app-extension-system-environment-variables",
+                    "stars": 10
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "vuelidate-rules",
+                  "description": "A Quasar Framework app extension that allows you to use Vuelidate methods as internal Quasar rules in fields of a form",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 238827221,
+                    "language": "JavaScript",
+                    "last_commit": "2022-06-21T11:30:39Z",
+                    "owner": "cuatromedios",
+                    "repo": "quasar-app-extension-vuelidate-rules",
+                    "stars": 59
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "QGrid",
+                  "description": "QGrid is a Quasar App Extension. It allows you to filter data for each column, Drag and Drop Rows and also allows you to filter data using header filters.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 238053611,
+                    "language": "Vue",
+                    "last_commit": "2026-04-24T23:31:42Z",
+                    "owner": "pratik227",
+                    "repo": "quasar-qgrid",
+                    "stars": 117
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "QHierarchy",
+                  "description": "QHierarchy is a Quasar App Extension. It allows you to display data in hierarchy structure on your page.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 231733067,
+                    "language": "Vue",
+                    "last_commit": "2024-12-16T18:04:16Z",
+                    "owner": "pratik227",
+                    "repo": "quasar-qhierarchy",
+                    "stars": 44
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "QDraggableTree",
+                  "description": "QDraggableTree is a Quasar Framework app extension that allows you to drag and drop the nodes in the Quasar QTree",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 242372143,
+                    "language": "JavaScript",
+                    "last_commit": "2023-07-05T06:34:24Z",
+                    "owner": "mayank091193",
+                    "repo": "quasar-draggable-tree",
+                    "stars": 76
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "APIWrapper",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 238054140,
+                    "language": "JavaScript",
+                    "last_commit": "2021-05-03T18:41:37Z",
+                    "owner": "RobertoLangarica",
+                    "repo": "quasar-app-extension-api-wrapper",
+                    "stars": 42
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "An out of the box API client that wrap axios",
+                  "description": "with common features like: Vuex store integration, masive requests, homogeneous responses, concurrency...",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 23088740,
+                    "language": "JavaScript",
+                    "last_commit": "2026-08-24T13:40:39Z",
+                    "owner": "axios",
+                    "repo": "axios",
+                    "stars": 109202
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "Quasar Tiptap github",
+                  "description": ", demo A modern WYSIWYG rich-text editor built on top of tiptap and Quasar Framework for Vue.js. v1.9.14",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 255872593,
+                    "language": "JavaScript",
+                    "last_commit": "2026-02-06T18:01:18Z",
+                    "owner": "donotebase",
+                    "repo": "quasar-tiptap",
+                    "stars": 322
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "QFilterConfigurator",
+                  "description": "An easy filter viewer v1.0.7",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 210386171,
+                    "language": "Vue",
+                    "last_commit": "2023-01-06T07:01:56Z",
+                    "owner": "cirolosapio",
+                    "repo": "app-extension-q-filter-configurator",
+                    "stars": 16
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "QDatePicker",
+                  "description": "A date selector (single/period) with the comparison functionality v1.0.0-rc.1",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 209840142,
+                    "language": "Vue",
+                    "last_commit": "2023-01-06T07:03:10Z",
+                    "owner": "cirolosapio",
+                    "repo": "app-extension-q-date-picker",
+                    "stars": 10
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "QsSelect",
+                  "description": "A searchable QSelect with which accepts an url v0.4.2",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 274930313,
+                    "language": "Vue",
+                    "last_commit": "2023-01-06T09:51:26Z",
+                    "owner": "cirolosapio",
+                    "repo": "app-extension-qs-select",
+                    "stars": 7
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "QGoogleMap",
+                  "description": ", Docs and Examples QGoogleMap(q-google-map) - Quasar app extension to integrate Google Maps v1.13.2",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 289625244,
+                    "language": "JavaScript",
+                    "last_commit": "2022-12-31T22:48:23Z",
+                    "owner": "mayur091193",
+                    "repo": "q-google-map",
+                    "stars": 29
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "QWidgets",
+                  "description": ", Docs and Examples QWidgets(q-widgets) - An awesome set of beautiful Widgets made with love using Quasar Framework and Vue.js! v1.1.0",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 305325949,
+                    "language": "JavaScript",
+                    "last_commit": "2021-02-02T05:42:36Z",
+                    "owner": "mayank091193",
+                    "repo": "quasar-widgets",
+                    "stars": 14
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "QTableCrud",
+                  "description": ", Docs and Examples QTableCrud(q-table-crud) - All in one QTable with customizable REST Api configuration to create, read, update and delete using axios.js! v1.0.0",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 345785441,
+                    "language": "Vue",
+                    "last_commit": "2021-04-27T23:56:00Z",
+                    "owner": "odranoelBR",
+                    "repo": "vue-quasar-crud",
+                    "stars": 18
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "QSelectApi",
+                  "description": ", Docs and Examples QSelectApi(q-select-api) - QSelect with automatic fetch/populate options from an API using axios.js, easy filtering, and all the QSelect native power! v1.0.0",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 362283823,
+                    "language": "JavaScript",
+                    "last_commit": "2021-05-06T19:43:32Z",
+                    "owner": "odranoelBR",
+                    "repo": "vue-quasar-select-api",
+                    "stars": 6
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "QStatistic",
+                  "description": ", Examples QStatistic allows you to display data statistically.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 546441956,
+                    "language": "JavaScript",
+                    "last_commit": "2023-11-18T08:13:34Z",
+                    "owner": "Junvary",
+                    "repo": "quasar-app-extension-qstatistic",
+                    "stars": 3
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "QCascader",
+                  "description": "QCascader can be used to display and select tree structured data.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 546567524,
+                    "language": "Vue",
+                    "last_commit": "2023-12-02T07:36:33Z",
+                    "owner": "Junvary",
+                    "repo": "quasar-app-extension-qcascader",
+                    "stars": 6
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "ssg",
+                  "description": "A Static Site Generator that supports Quasar v1 and v2",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 243010177,
+                    "language": "JavaScript",
+                    "last_commit": "2026-08-21T19:48:45Z",
+                    "owner": "freddy38510",
+                    "repo": "quasar-app-extension-ssg",
+                    "stars": 169
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "Hybrid Rendering",
+                  "description": "Extension allowing for easy use of SSR, CSR, SSG and ISR in your Quasar.js project.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 783398853,
+                    "language": "JavaScript",
+                    "last_commit": "2025-07-06T20:35:20Z",
+                    "owner": "jirka124",
+                    "repo": "quasar-hybrid-render",
+                    "stars": 5
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "Custom Extra Icons",
+                  "description": "A Quasar Framework extension that allows you to convert SVG icons into a Quasar-compatible format. Once converted, your icons work just like any other Quasar icon, which means you can control their size and color using Quasar's components with built-in props and classes.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 948114723,
+                    "language": "JavaScript",
+                    "last_commit": "2025-03-18T13:05:48Z",
+                    "owner": "vladyslav-mikhieiev",
+                    "repo": "quasar-app-extension-custom-extra-icons",
+                    "stars": 3
+                  }
+                }
+              ],
+              "description": "Do not forget to read the official blog.",
+              "node_type": "group",
+              "title": "Articles"
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Tutorials"
         }
       ],
       "title": "Resources"
+    },
+    {
+      "description": "For older Quasar versions or not supplied through a Quasar App Extension",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Quasar i18n Example",
+          "description": "github, demo An app for demonstration of i18n (Internationalization and localization) in Quasar Framework v1.9.6",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 244903373,
+            "language": "Vue",
+            "last_commit": "2022-12-10T20:26:12Z",
+            "owner": "tomers",
+            "repo": "quasar-i18n-example",
+            "stars": 1
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Multilingual Quasar",
+          "description": "github, demo Shows how to add multi-lingual support to your quasar projects v1.8.2",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 236191727,
+            "language": "JavaScript",
+            "last_commit": "2021-03-10T05:33:13Z",
+            "owner": "ejez",
+            "repo": "quasarmultilingual",
+            "stars": 8
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "QFormBuilder",
+          "description": "github, demo Library allowing users to create drag-and-drop forms, with full rendering of components (for example, Wufoo, SurveyMonkey, etc.) v1.12.8",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 171534492,
+            "language": "Vue",
+            "last_commit": "2023-01-06T01:41:08Z",
+            "owner": "baggachipz",
+            "repo": "q-form-builder",
+            "stars": 153
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Readme Pro",
+          "description": "github, demo An easy and simple way to generate readme written in quasar framework v2.7.7",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 536104421,
+            "language": "Vue",
+            "last_commit": "2022-10-04T09:29:48Z",
+            "owner": "mayur091193",
+            "repo": "readme-pro",
+            "stars": 57
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Quasar Echarts Example",
+          "description": "github, demo Project using Quasar framework and Echarts 📊 📈 📉 v1.15.0",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 229221110,
+            "language": "Vue",
+            "last_commit": "2024-10-03T06:14:42Z",
+            "owner": "pratik227",
+            "repo": "quasar-echarts",
+            "stars": 97
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Quasar Geolocation Example",
+          "description": "github, demo Sample app to demonstrate usage of geolocation with Quasar Framework v1.9.8",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 245279244,
+            "language": "Vue",
+            "last_commit": "2022-12-10T20:37:11Z",
+            "owner": "tomers",
+            "repo": "quasar-geolocation-example",
+            "stars": 12
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Quasar 3D Model",
+          "description": "github, demo Sample application with a 3D file renderer (.stl, .obj, .json, .dae, .ply, .gltf) v1.1.2",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 239341240,
+            "language": "JavaScript",
+            "last_commit": "2022-12-05T08:04:48Z",
+            "owner": "patrickmonteiro",
+            "repo": "quasar-3d-model",
+            "stars": 19
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Quasar Apex Charts",
+          "description": "github, demo Project using Quasar framework and ApexCharts 📊 📈 📉 v1.1.2",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 202029384,
+            "language": "Vue",
+            "last_commit": "2026-02-11T18:08:28Z",
+            "owner": "patrickmonteiro",
+            "repo": "quasar-apexcharts",
+            "stars": 204
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Quasar Barcode Reader",
+          "description": "github, demo Base code for a code reader application: EAN, CODE 128, CODE 39, EAN 8, UPC-A, UPC-C, I2of5, 2of5, CODE 93 e CODABAR with QuaggaJS and Quasar Framework(no dependency on cordova) v1.1.2",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 196859169,
+            "language": "JavaScript",
+            "last_commit": "2023-01-04T04:35:09Z",
+            "owner": "patrickmonteiro",
+            "repo": "quasar-barcode-reader",
+            "stars": 51
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Quasar QRCode Reader",
+          "description": "github, demo A simple Javascript-only QRCode generator and reader (no dependency on cordova). Great for web and PWA solutions. v1.0.6",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 197409567,
+            "language": "JavaScript",
+            "last_commit": "2026-01-27T14:48:56Z",
+            "owner": "patrickmonteiro",
+            "repo": "quasar-qrcode-reader",
+            "stars": 91
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Quasar Speech API",
+          "description": "github, demo Example project using Speech Web API to transcribe speech into text and synthesize text into speech. v1.0.6",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 193531277,
+            "language": "JavaScript",
+            "last_commit": "2022-12-05T10:42:23Z",
+            "owner": "patrickmonteiro",
+            "repo": "quasar-speech-api",
+            "stars": 68
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "QInputEx Component",
+          "description": "github The Advance Input Component for Quasar is used as single-line input box for date, time, password, color, select etc. v1.0.0-beta.1",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 175449319,
+            "language": "JavaScript",
+            "last_commit": "2025-11-18T12:29:23Z",
+            "owner": "snowyu",
+            "repo": "qinputex",
+            "stars": 12
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Quasar Snippets",
+          "description": "github, Marketplace Quasar components' snippets for VSCode that can increase your productivity working on Quasar projects. v2.17.x",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 153459181,
+            "language": null,
+            "last_commit": "2022-11-30T10:54:53Z",
+            "owner": "Abdelaziz18003",
+            "repo": "vscode-quasar-snippets",
+            "stars": 41
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Common Intellisense",
+          "description": "github, Marketplace A VS Code extension that provides better intellisense to Quasar developers. v2",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 857280044,
+            "language": "TypeScript",
+            "last_commit": "2026-07-19T13:12:44Z",
+            "owner": "common-intellisense",
+            "repo": "common-intellisense",
+            "stars": 100
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Quasar Steem Beneficiaries",
+          "description": "githubnpm A Quasar/Vue component for easily adding beneficiaries support to your Steem dapp. v0.17.16",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 168814969,
+            "language": "Vue",
+            "last_commit": "2019-02-04T09:47:04Z",
+            "owner": "irelandscape",
+            "repo": "qv-steem-beneficiaries",
+            "stars": 0
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Quasar calendar",
+          "description": "github A full calendar display in multiple formats that accepts event data and display it in month, week, multi-day, single day and agenda views v0.15.6",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 121135922,
+            "language": "JavaScript",
+            "last_commit": "2022-01-17T20:15:52Z",
+            "owner": "stormseed",
+            "repo": "daykeep-calendar-quasar",
+            "stars": 274
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Laqu-l",
+          "description": "github A complete starter kit that allows you create amazing apps that look native thanks to the Quasar Framework. Powered by an API developed in Laravel Framework using the easy GraphQL queries language. And ready to use the Google Firebase features. v0.15.10",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 132772075,
+            "language": "PHP",
+            "last_commit": "2020-08-16T21:05:41Z",
+            "owner": "laqul",
+            "repo": "laqul",
+            "stars": 133
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "LaraQuasar",
+          "description": "github Laravel + Quasar Framework starter kit in one place laravel 10.x support, with vite and inertia.js v2.13.0",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 602392240,
+            "language": "PHP",
+            "last_commit": "2024-08-09T06:31:44Z",
+            "owner": "laraquasar",
+            "repo": "laraquasar",
+            "stars": 60
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Quasar Cloud",
+          "description": "github An online file manager project (like dropbox) showing usage of axios, vuex, validation, authentication v0.15.10",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "id": 123016140,
+            "language": "Vue",
+            "last_commit": "2018-05-17T13:59:24Z",
+            "owner": "mstaack",
+            "repo": "quasar-cloud-demo",
+            "stars": 56
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Quasar Oh-my-zsh",
+          "description": "github A plugin for Oh-my-zsh v1.0.0",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "id": 196552199,
+            "language": "Shell",
+            "last_commit": "2019-07-29T21:13:39Z",
+            "owner": "sajt",
+            "repo": "oh-my-zsh",
+            "stars": 2
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "APIWrapper",
+          "description": "github, npm A package designed to wrap up the most common features of an api client implementation, with common features like: Vuex store integration, masive requests, homogeneous responses, concurrency... v1",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 238054140,
+            "language": "JavaScript",
+            "last_commit": "2021-05-03T18:41:37Z",
+            "owner": "RobertoLangarica",
+            "repo": "quasar-app-extension-api-wrapper",
+            "stars": 42
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Quasar DevOps",
+          "description": "github A repo dedicated to CI/CD for Quasar Framework v1",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 272867003,
+            "language": "Dockerfile",
+            "last_commit": "2024-11-24T15:53:21Z",
+            "owner": "Qoyyuum",
+            "repo": "quasar-devops",
+            "stars": 36
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Starter kit",
+          "description": "github Starter kit for quickly lifting your project from the ground up; includes public pages (Login, Register, Reset Password) with Cypress testing setup, Router & VUEX are present with a lot more helpful stuff implemented. v1",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 429375835,
+            "language": "JavaScript",
+            "last_commit": "2023-07-28T07:45:15Z",
+            "owner": "MilosPaunovic",
+            "repo": "quasar-v1-starter",
+            "stars": 10
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Starter kit",
+          "description": "github Starter kit for quickly lifting your project from the ground up; includes public pages (Login, Register, Reset Password), Router & Pinia are present with a lot more helpful stuff implemented. v2",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 548329019,
+            "language": "JavaScript",
+            "last_commit": "2023-07-19T23:44:56Z",
+            "owner": "MilosPaunovic",
+            "repo": "quasar-v2-starter",
+            "stars": 12
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "OTA system",
+          "description": "github Auto update system for mobile app, send update to users without app store review v2",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 420741081,
+            "language": "Java",
+            "last_commit": "2026-08-24T14:03:04Z",
+            "owner": "Cap-go",
+            "repo": "capacitor-updater",
+            "stars": 833
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Quasar Firebase Template",
+          "description": "github, demo Email/google sign in, user profiles, password resets, photo uploads to Google Firebase v2.0.3",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 394989156,
+            "language": "Vue",
+            "last_commit": "2021-08-30T13:26:24Z",
+            "owner": "VicVibesPL",
+            "repo": "quasar2-firebase-auth",
+            "stars": 4
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "@simsustech/quasar-components",
+          "description": "github, npm High level components for Quasar Framework. v2.17+",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 558785180,
+            "language": "Vue",
+            "last_commit": "2026-08-13T14:00:19Z",
+            "owner": "simsustech",
+            "repo": "quasar-components",
+            "stars": 0
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "unocss-preset-quasar",
+          "description": "github, npm UnoCSS preset for Quasar Framework v2.17+",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 959152561,
+            "language": "Vue",
+            "last_commit": "2026-08-24T09:44:41Z",
+            "owner": "simsustech",
+            "repo": "unocss-preset-quasar",
+            "stars": 30
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "zova-quasar",
+          "description": "github A vue3 framework with ioc container. With the support of ioc container, defining reactive states no longer needs , nor v2.16.4",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 787670728,
+            "language": "TypeScript",
+            "last_commit": "2026-06-13T02:25:25Z",
+            "owner": "zovajs",
+            "repo": "zova",
+            "stars": 125
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Starter kit",
+          "description": "github, Demo Starter kit., Customized Quasar to be clean UI v2",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 490661750,
+            "language": "Vue",
+            "last_commit": "2026-07-15T08:32:30Z",
+            "owner": "bekaku",
+            "repo": "quasar-starter-template",
+            "stars": 83
+          }
+        }
+      ],
+      "title": "Other Community Components and Tools"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Quasar Admin Vue 3",
+          "description": "github, website A Free and beautiful Quasar Admin template for Vue 3 v2.6.0",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 247474417,
+            "language": "Vue",
+            "last_commit": "2026-07-28T12:10:20Z",
+            "owner": "pratik227",
+            "repo": "quasar-admin",
+            "stars": 862
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Quasar Template",
+          "description": "github, website Beautiful Quasar template for Vue 3 v2.6.0",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 495269500,
+            "language": "Vue",
+            "last_commit": "2025-06-29T12:58:51Z",
+            "owner": "mohitransubhe-supernatural",
+            "repo": "quasar-template",
+            "stars": 21
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "PowerToys for OpenAI™",
+          "description": "Github, Website PowerToys for OpenAI™ is a BEX extension for Chrome/Edge written in Quasar Framework, and using Dexie for storage v2.11.10",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "id": 614251595,
+            "language": "Vue",
+            "last_commit": "2026-02-15T16:27:09Z",
+            "owner": "robert-hoffmann",
+            "repo": "PowerToys4OpenAI",
+            "stars": 43
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Readme Pro",
+          "description": "Github, Website Readme Pro is an open-source readme and github profile generator written in Quasar Framework v2.7.7",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 536104421,
+            "language": "Vue",
+            "last_commit": "2022-10-04T09:29:48Z",
+            "owner": "mayur091193",
+            "repo": "readme-pro",
+            "stars": 57
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Tomatodo",
+          "description": "github,website,android Pomodoro app that rewards with luck wheel after pomodoro sessions v2.0.0",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 391398138,
+            "language": "Vue",
+            "last_commit": "2021-12-19T21:21:21Z",
+            "owner": "emingenc",
+            "repo": "tomatodo",
+            "stars": 11
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "GreaterWMS",
+          "description": "github,website Open Source Warehouse Management System v2.1.0",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 597262493,
+            "language": null,
+            "last_commit": "2023-02-04T02:02:01Z",
+            "owner": "Singosgu",
+            "repo": "GreaterWMS",
+            "stars": 78
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Quasar Gaming Template",
+          "description": "github, website Free Quasar Gaming Template based on Vue js and Quasar Framework. v1.12.12",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 281118305,
+            "language": "Vue",
+            "last_commit": "2023-05-03T09:41:26Z",
+            "owner": "pratik227",
+            "repo": "quasar-gaming",
+            "stars": 23
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Kudos - Company profile template",
+          "description": "github, website Free template for company profile made using Quasar Framework and Vue.js! It is a fully responsive template which you can use for your company or may be for your own portfolio website. v1.9.15",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 260669714,
+            "language": "Vue",
+            "last_commit": "2024-03-26T08:54:21Z",
+            "owner": "mayank091193",
+            "repo": "vue-quasar-company-profile-website",
+            "stars": 223
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Expense Tracker",
+          "description": "github, website A simple application to track expenses and split bills. v2.3.2",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 251601097,
+            "language": "Vue",
+            "last_commit": "2026-04-15T18:59:42Z",
+            "owner": "rbretecher",
+            "repo": "expense-tracker",
+            "stars": 16
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Quasar Scrum",
+          "description": "github, website A Free Quasar Scrum Template : Agile process framework for managing complex tasks v1.9.12",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 252371016,
+            "language": "Vue",
+            "last_commit": "2023-02-04T03:29:10Z",
+            "owner": "mayank091193",
+            "repo": "quasar-scrum",
+            "stars": 77
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Quasar Admin",
+          "description": "github, website A Free and beautiful Quasar Admin template v1.9.3",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 247474417,
+            "language": "Vue",
+            "last_commit": "2026-07-28T12:10:20Z",
+            "owner": "pratik227",
+            "repo": "quasar-admin",
+            "stars": 862
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Quasar Shopping",
+          "description": "github, website Free and Open source eCommerce UI template written in Vue.js/Quasar v1.9.3",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 241942854,
+            "language": "Vue",
+            "last_commit": "2023-03-06T20:48:47Z",
+            "owner": "mayur091193",
+            "repo": "quasar-shopping",
+            "stars": 105
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Quasar CRM Admin",
+          "description": "github, website A free and beautiful Quasar template for CRM needs. v1.8.5",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 240061733,
+            "language": "Vue",
+            "last_commit": "2023-01-05T12:32:31Z",
+            "owner": "mayank091193",
+            "repo": "quasar-admin-crm",
+            "stars": 461
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Personal website template",
+          "description": "github, website Free template for personal website v1.9.15",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 269008030,
+            "language": "Vue",
+            "last_commit": "2026-02-04T04:31:19Z",
+            "owner": "mayank091193",
+            "repo": "mayank-profile",
+            "stars": 27
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Quasar Typescript Admin Template",
+          "description": "github, website 💫 💫 template for quasar admin with typescript 🌝 🌝 support pwa,electron,spa,Ionic v2.10.1",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 283998058,
+            "language": "Vue",
+            "last_commit": "2026-06-18T09:15:27Z",
+            "owner": "dirkhe1051931999",
+            "repo": "quasar-typescript-admin-template",
+            "stars": 162
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Negibox",
+          "description": "github All-in-one downloader based on ARIA2 v1.9.6",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "id": 163286337,
+            "language": "Dart",
+            "last_commit": "2024-11-27T10:42:29Z",
+            "owner": "hugetiny",
+            "repo": "webox",
+            "stars": 369
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Alighieri",
+          "description": "github, website A distraction-free writer tool v1.15.4",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 100827370,
+            "language": "Vue",
+            "last_commit": "2026-02-18T04:23:05Z",
+            "owner": "zuck",
+            "repo": "alighieri",
+            "stars": 133
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Weacast",
+          "description": "github, website Open source platform to gather, expose and make use of weather forecast data v0.13.10",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 472423651,
+            "language": "JavaScript",
+            "last_commit": "2026-03-20T19:04:04Z",
+            "owner": "weacast",
+            "repo": "weacast",
+            "stars": 28
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "CryptoPrice",
+          "description": "github, android An app to inform us of price (USD & EUR) of the main crypto-coins v0.14.4",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 115567226,
+            "language": "JavaScript",
+            "last_commit": "2018-01-18T21:59:20Z",
+            "owner": "lmfresneda",
+            "repo": "crypto-price",
+            "stars": 10
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "SHUhelper",
+          "description": "github, website Open source university online community and toolkits v0.14.7",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 67186502,
+            "language": null,
+            "last_commit": "2020-08-19T20:05:59Z",
+            "owner": "shuosc",
+            "repo": "SHUhelper",
+            "stars": 112
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Karrot (Foodsaving Worldwide)",
+          "description": "github, website A web-app to support foodsaving groups worldwide, with the goal to save our common resources as much as possible v1.14.6",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "id": 63887706,
+            "language": null,
+            "last_commit": "2024-05-20T16:29:02Z",
+            "owner": "karrot-dev",
+            "repo": "karrot-frontend",
+            "stars": 436
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "onvif-nvt-snapshot-vue-sample",
+          "description": "github An onvif-nvt (package) sample project for snapshots and PTZ using Vue 2.5 and Quasar 0.14.7 v0.14.7",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 121765064,
+            "language": "Vue",
+            "last_commit": "2025-07-14T02:53:12Z",
+            "owner": "hawkeye64",
+            "repo": "onvif-nvt-snapshot-vue-sample",
+            "stars": 27
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Takista",
+          "description": "android, github To Do Lists Manager v0.13.4",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 90893845,
+            "language": "JavaScript",
+            "last_commit": "2017-05-15T00:16:53Z",
+            "owner": "sergiuwd",
+            "repo": "Taskista",
+            "stars": 7
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Charging Stations",
+          "description": "github Charging stations viewer hybrid app v0.14",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 115428415,
+            "language": "JavaScript",
+            "last_commit": "2020-07-23T10:54:37Z",
+            "owner": "nestebe",
+            "repo": "charging-stations-tracker",
+            "stars": 6
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Habot",
+          "description": "github A chatbot for openHAB using machine-learning natural language processing from OpenNLP v0.14.6",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 153270765,
+            "language": "Java",
+            "last_commit": "2019-02-08T12:35:55Z",
+            "owner": "ghys",
+            "repo": "habot",
+            "stars": 15
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "TMdb",
+          "description": "website, github Quasar app with The Movie DB catalog v0.14.7",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 112670220,
+            "language": "JavaScript",
+            "last_commit": "2017-12-22T22:15:58Z",
+            "owner": "codingstones",
+            "repo": "tmdb-quasar",
+            "stars": 28
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Voting Daap",
+          "description": "github E-voting v0.14",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 110216204,
+            "language": "JavaScript",
+            "last_commit": "2022-12-22T04:55:43Z",
+            "owner": "Vishwas1",
+            "repo": "voting-daap-2017",
+            "stars": 25
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Stock Scanner",
+          "description": "github Working Demo of Barcode/QR code scanner using VueJs+Quasar+Cordova v0.13.4",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 97591144,
+            "language": "Vue",
+            "last_commit": "2018-07-29T14:26:59Z",
+            "owner": "vikramIde",
+            "repo": "stock_scan1",
+            "stars": 45
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "dockJob",
+          "description": "github, docker hub Job scheduler with a web UI - designed to run inside a container. v0.15.5",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 119206810,
+            "language": "Python",
+            "last_commit": "2023-11-24T08:07:59Z",
+            "owner": "rmetcalf9",
+            "repo": "dockJob",
+            "stars": 21
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Vuenote",
+          "description": "github Vuenote is the simplest note app. v0.15.10",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "id": 120623210,
+            "language": "Vue",
+            "last_commit": "2018-08-05T08:35:21Z",
+            "owner": "ExNG",
+            "repo": "vuenote",
+            "stars": 10
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Realworld Conduit",
+          "description": "github Medium.com clone v0.15.10",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 117684916,
+            "language": "Vue",
+            "last_commit": "2018-05-11T14:37:18Z",
+            "owner": "geoidesic",
+            "repo": "realworld-quasar",
+            "stars": 17
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "vue-quasar-admin",
+          "description": "website,github admin-dashboard v0.15.14",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 133745808,
+            "language": "Vue",
+            "last_commit": "2023-01-04T04:31:52Z",
+            "owner": "wjkang",
+            "repo": "vue-quasar-admin",
+            "stars": 581
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Docsector Reader",
+          "description": "github, npm Documentation rendering engine built with Vue 3, Quasar v2 and Vite. Transform Markdown into beautiful, navigable documentation sites. Successor of quasar-documentation++ v2.18.6",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 134342479,
+            "language": "JavaScript",
+            "last_commit": "2026-08-03T17:44:21Z",
+            "owner": "docsector",
+            "repo": "docsector-reader",
+            "stars": 21
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Dappos Ethereum POS",
+          "description": "github, website A Point of Sale (POS) app like Square! For Ethereum payments. Open in a Mobile wallet and receive customer's payments with an intuitive UI. v0.17",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 134941785,
+            "language": "JavaScript",
+            "last_commit": "2025-03-08T14:21:19Z",
+            "owner": "Dappos",
+            "repo": "Dappos",
+            "stars": 39
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "HyperSign",
+          "description": "Youtube, GitHub Hypersign is a cryptography based SingleSignOn Solution that enables users to securely access [Web/Blockchain/Federated] applications without providing their access credentials [usernames and passwords]. v0.13",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 161156057,
+            "language": "Vue",
+            "last_commit": "2022-12-09T00:33:16Z",
+            "owner": "vikramIde",
+            "repo": "hypersign-mobile",
+            "stars": 5
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "schild.report",
+          "description": "github, German article This electron app is a report generator that works with schild data (German student administration) v0.17.18",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 137659020,
+            "language": "Svelte",
+            "last_commit": "2023-02-03T04:59:03Z",
+            "owner": "schild-report",
+            "repo": "schild.report",
+            "stars": 9
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "P4wnP1_aloa",
+          "description": "website Pentesting Framework for the Rapsberry Pi Zero W v0.17.16",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 131320370,
+            "language": "JavaScript",
+            "last_commit": "2023-10-26T09:01:24Z",
+            "owner": "RoganDawes",
+            "repo": "P4wnP1_aloa",
+            "stars": 4422
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Cashier",
+          "description": "app, source A personal finance app, companion for ledger/hledger rolling",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 522917234,
+            "language": "Vue",
+            "last_commit": "2024-12-18T14:32:31Z",
+            "owner": "alensiljak",
+            "repo": "cashier",
+            "stars": 37
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Exorcism",
+          "description": "github Desktop wallpaper manager 1.0.0-rc.6",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 190929298,
+            "language": "JavaScript",
+            "last_commit": "2021-08-03T03:20:50Z",
+            "owner": "siamx",
+            "repo": "exorcism",
+            "stars": 5
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "SunEngine",
+          "description": "github, website CMS+ site engine with blog, articles and forum functionalities. Asp.Net Core on server side. 1.2.x",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 165876092,
+            "language": "C#",
+            "last_commit": "2023-11-15T16:55:32Z",
+            "owner": "sunengine",
+            "repo": "SunEngine",
+            "stars": 163
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Timesheet",
+          "description": "github, website Self-hosted application to manage project reporting. Golang, Gin used on server. 1.9.2",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 163708611,
+            "language": "Vue",
+            "last_commit": "2025-07-29T09:32:57Z",
+            "owner": "valasek",
+            "repo": "timesheet",
+            "stars": 171
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Stelace Heroes Platform",
+          "description": "github, website Open-source template featuring Stelace platform runner with Quasar UI and super heroes in NYC. 1.0.0",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "id": 193633689,
+            "language": "JavaScript",
+            "last_commit": "2024-01-23T08:27:18Z",
+            "owner": "stelace",
+            "repo": "heroes-platform-demo",
+            "stars": 17
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "issue blog",
+          "description": "github, website A blog tool powered by GitHub issues. 1.0.0",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 196179837,
+            "language": "Vue",
+            "last_commit": "2023-12-26T12:12:44Z",
+            "owner": "ttop5",
+            "repo": "issue-blog",
+            "stars": 46
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Vugify",
+          "description": "github, website Convert Vue HTML syntax to Pug. v1.0.0",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "id": 197433371,
+            "language": "JavaScript",
+            "last_commit": "2022-12-09T18:43:14Z",
+            "owner": "blaconix",
+            "repo": "vugify",
+            "stars": 7
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Gistor",
+          "description": "github, website Powerful UI for your Gist snippets stored on GitHub. v1.2.x",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 216216253,
+            "language": "Vue",
+            "last_commit": "2019-11-06T08:06:15Z",
+            "owner": "mallgroup",
+            "repo": "mal-gistor",
+            "stars": 5
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Privy",
+          "description": "github, Android An educational crypto-toolkit that steps through the math for password security, RSA keypair generation, and hashing algorithms. 1.0.0-beta.17",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 168633517,
+            "language": "Vue",
+            "last_commit": "2022-12-04T17:19:33Z",
+            "owner": "silentsilas",
+            "repo": "Privy",
+            "stars": 4
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "MicroIoT Studio",
+          "description": "github, website MicroIoT Platform web UI management tool v1.5.0",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 214786238,
+            "language": "Vue",
+            "last_commit": "2023-11-12T01:53:32Z",
+            "owner": "MicroIoT",
+            "repo": "studio",
+            "stars": 21
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Api Doc",
+          "description": "github An open source Crud API documenter v1.5.11",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 230288627,
+            "language": "Vue",
+            "last_commit": "2023-06-22T13:03:27Z",
+            "owner": "joaomede",
+            "repo": "Api-Doc",
+            "stars": 15
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Quacker",
+          "description": "github Browser Extension to clean website ADs v1.0.0+",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "id": 231672278,
+            "language": "JavaScript",
+            "last_commit": "2021-08-31T17:56:14Z",
+            "owner": "farwish",
+            "repo": "quacker",
+            "stars": 3
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Dashblocks Template",
+          "description": "github, website A Free and Open Source Quasar Material Admin Template focusing on beautiful Dashboards and In-App Analytics v1",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 190475750,
+            "language": "Vue",
+            "last_commit": "2023-06-01T18:52:00Z",
+            "owner": "slanatech",
+            "repo": "dashblocks-template",
+            "stars": 186
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Github Method",
+          "description": "github, website Cool habit tracker based on Github concept v1",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 258120223,
+            "language": "Vue",
+            "last_commit": "2020-05-19T04:30:36Z",
+            "owner": "cartovarc",
+            "repo": "github-method",
+            "stars": 2
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Afterman",
+          "description": "github Create beutiful docs in markdown and HTML from postman collection v1",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 259151955,
+            "language": "Vue",
+            "last_commit": "2024-10-31T01:48:58Z",
+            "owner": "itsalb3rt",
+            "repo": "afterman",
+            "stars": 48
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "@winwin/hexo-editor",
+          "description": "github, website demo An online editor for Hexo blog. v1.8.6",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "id": 247964806,
+            "language": "JavaScript",
+            "last_commit": "2021-12-30T18:37:09Z",
+            "owner": "YuJianghao",
+            "repo": "winwin-hexo-editor",
+            "stars": 28
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Al-Dig (Al-Quran Digital app)",
+          "description": "github Al-Quran Digital with Indonesian translation (for now) v1.0.0+",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 272424497,
+            "language": "CSS",
+            "last_commit": "2023-02-03T08:59:10Z",
+            "owner": "sm-alfariz",
+            "repo": "aldig",
+            "stars": 7
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Qodo",
+          "description": "github An open-source productivity app. Demonstrate how and what it's like to build multi-platform apps using Quasar v1.9.4",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 267997036,
+            "language": "Vue",
+            "last_commit": "2022-12-12T02:19:44Z",
+            "owner": "yvhr",
+            "repo": "qodo",
+            "stars": 78
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Whoops Monitor",
+          "description": "PWA A monitoring tool that gives you clarity over your application landscape. v1.0.0",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 297767059,
+            "language": "Vue",
+            "last_commit": "2022-12-03T11:55:35Z",
+            "owner": "whoopsmonitor",
+            "repo": "whoopsmonitor",
+            "stars": 22
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Agile Visitors",
+          "description": "Github,Web Application for registering employee entries with the possibility of generating reports, validating and storing users with minimal effort. v1.14.0",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 298894420,
+            "language": "Vue",
+            "last_commit": "2022-07-13T02:05:03Z",
+            "owner": "itsalb3rt",
+            "repo": "agile-visitors",
+            "stars": 24
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "mipa",
+          "description": "Github, PWA A strategic coordination app from collective-change.org to help the world achieve sustainablility by 2030. v1.14.7",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 199357548,
+            "language": "Vue",
+            "last_commit": "2023-01-10T04:07:07Z",
+            "owner": "collective-change",
+            "repo": "mipa",
+            "stars": 5
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Neeto-Vue",
+          "description": "Github Yet another awesome wiz note client that was built by Quasar Framework and Electron. v1.15.0",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 242489047,
+            "language": "JavaScript",
+            "last_commit": "2023-03-05T04:52:37Z",
+            "owner": "TankNee",
+            "repo": "Memocast",
+            "stars": 367
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "CreateVidio",
+          "description": "github, website Dynamic cloud-based video generation. v1",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 291102498,
+            "language": "JavaScript",
+            "last_commit": "2021-04-05T15:30:38Z",
+            "owner": "newflight-co",
+            "repo": "createvid",
+            "stars": 24
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Dadadash",
+          "description": "GitHub Office suite with file browser, document editor, spreadsheet editor, calendar and data tables with CRUDX API's ready to deploy v1.0.0",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 306237342,
+            "language": "Vue",
+            "last_commit": "2024-12-19T14:22:00Z",
+            "owner": "daptin",
+            "repo": "dadadash",
+            "stars": 169
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "gin-quasar-admin",
+          "description": "Github, Website A full-featured management system based on Quasar2,Vue3,Go,Gin,Gorm. v2.10.1",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 420921138,
+            "language": "Vue",
+            "last_commit": "2024-09-19T05:59:30Z",
+            "owner": "Junvary",
+            "repo": "gin-quasar-admin",
+            "stars": 264
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Subtitle Downloader",
+          "description": "github, website A typescript enabled project to download subtitles of movies / tv-series / tv-shows using opensubtitleapi and optionally moviedb api v1",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 281745052,
+            "language": "Vue",
+            "last_commit": "2021-08-28T06:16:14Z",
+            "owner": "mmarifat",
+            "repo": "__subtitle_downloader",
+            "stars": 2
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "hive.ausbit.dev",
+          "description": "website, github Hive blockchain explorer and toolkit for uncensorable social media & text/json storage v1.9.6",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 251264355,
+            "language": "Vue",
+            "last_commit": "2026-02-11T10:58:47Z",
+            "owner": "ausbitbank",
+            "repo": "hive.ausbit.dev-src",
+            "stars": 13
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Invoice Generator",
+          "description": "website, github Generate and download invoices v2.6.0",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 707481063,
+            "language": "Vue",
+            "last_commit": "2023-10-27T17:17:13Z",
+            "owner": "lchnider",
+            "repo": "invoice-generator",
+            "stars": 6
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Petboarding",
+          "description": "website, demo, github Easy, fast and reliable pet boarding booking system. v2.17+",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 385890867,
+            "language": "TypeScript",
+            "last_commit": "2026-08-24T12:30:13Z",
+            "owner": "simsustech",
+            "repo": "petboarding",
+            "stars": 4
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "SlimFact",
+          "description": "website, demo, github Streamlined invoicing made easy. v2.17+",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 762213939,
+            "language": "TypeScript",
+            "last_commit": "2026-08-20T08:03:57Z",
+            "owner": "simsustech",
+            "repo": "slimfact",
+            "stars": 6
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "QChatGPT",
+          "description": "github QChatGPT is a versatile client ChatGPT built with Quasar Framework, supporting Linux, Windows, Mac, Android, and iOS. It offers requests using your ChatGPT API key, local data storage for stable operation, and real-time support. It includes additional features like syntax highlighting for over 20 programming languages, image generation via Dalle 3, and advanced search and chat grouping functionalities. v2.16.4",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 811181067,
+            "language": "Vue",
+            "last_commit": "2024-09-21T06:10:27Z",
+            "owner": "timamus",
+            "repo": "QChatGPT",
+            "stars": 18
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "PileaX AI",
+          "description": "website, github All-in-one AI KnowledgeBase. 🍀 v2.6.0",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1106027710,
+            "language": "Vue",
+            "last_commit": "2026-08-24T03:05:55Z",
+            "owner": "pileax-ai",
+            "repo": "pileax",
+            "stars": 39
+          }
+        }
+      ],
+      "title": "Projects Using Quasar"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T02:55:08.778Z",
+    "last_updated": "2026-08-24T14:08:09.388Z",
     "original_repository": "quasarframework/quasar-awesome",
     "original_repository_id": 117342615,
     "original_repository_sha": "9dab436cb3c11c64a086d4f4c672622d09a1d325",
