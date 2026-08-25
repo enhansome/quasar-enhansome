@@ -17,7 +17,7 @@
                 "last_commit": "2026-08-24T13:11:14Z",
                 "owner": "quasarframework",
                 "repo": "quasar",
-                "stars": 27205
+                "stars": 27204
               }
             },
             {
@@ -32,7 +32,7 @@
                 "last_commit": "2026-08-24T13:11:14Z",
                 "owner": "quasarframework",
                 "repo": "quasar",
-                "stars": 27205
+                "stars": 27204
               }
             }
           ],
@@ -408,7 +408,7 @@
                     "last_commit": "2026-08-24T13:40:39Z",
                     "owner": "axios",
                     "repo": "axios",
-                    "stars": 109202
+                    "stars": 109201
                   }
                 },
                 {
@@ -991,7 +991,7 @@
             "archived": false,
             "id": 420741081,
             "language": "Java",
-            "last_commit": "2026-08-24T14:03:04Z",
+            "last_commit": "2026-08-25T01:25:49Z",
             "owner": "Cap-go",
             "repo": "capacitor-updater",
             "stars": 833
@@ -1069,7 +1069,7 @@
             "last_commit": "2026-07-15T08:32:30Z",
             "owner": "bekaku",
             "repo": "quasar-starter-template",
-            "stars": 83
+            "stars": 82
           }
         }
       ],
@@ -2118,7 +2118,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T14:08:09.388Z",
+    "last_updated": "2026-08-25T02:50:46.552Z",
     "original_repository": "quasarframework/quasar-awesome",
     "original_repository_id": 117342615,
     "original_repository_sha": "9dab436cb3c11c64a086d4f4c672622d09a1d325",
