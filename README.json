@@ -408,7 +408,7 @@
                     "last_commit": "2026-08-24T13:40:39Z",
                     "owner": "axios",
                     "repo": "axios",
-                    "stars": 109201
+                    "stars": 109202
                   }
                 },
                 {
@@ -2118,7 +2118,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T02:50:46.552Z",
+    "last_updated": "2026-08-25T06:00:14.978Z",
     "original_repository": "quasarframework/quasar-awesome",
     "original_repository_id": 117342615,
     "original_repository_sha": "9dab436cb3c11c64a086d4f4c672622d09a1d325",
