@@ -14,10 +14,10 @@
                 "archived": false,
                 "id": 43695474,
                 "language": "JavaScript",
-                "last_commit": "2026-08-24T13:11:14Z",
+                "last_commit": "2026-08-25T15:02:51Z",
                 "owner": "quasarframework",
                 "repo": "quasar",
-                "stars": 27204
+                "stars": 27203
               }
             },
             {
@@ -29,10 +29,10 @@
                 "archived": false,
                 "id": 43695474,
                 "language": "JavaScript",
-                "last_commit": "2026-08-24T13:11:14Z",
+                "last_commit": "2026-08-25T15:02:51Z",
                 "owner": "quasarframework",
                 "repo": "quasar",
-                "stars": 27204
+                "stars": 27203
               }
             }
           ],
@@ -405,10 +405,10 @@
                     "archived": false,
                     "id": 23088740,
                     "language": "JavaScript",
-                    "last_commit": "2026-08-24T13:40:39Z",
+                    "last_commit": "2026-08-25T10:13:12Z",
                     "owner": "axios",
                     "repo": "axios",
-                    "stars": 109202
+                    "stars": 109198
                   }
                 },
                 {
@@ -570,7 +570,7 @@
                     "archived": false,
                     "id": 243010177,
                     "language": "JavaScript",
-                    "last_commit": "2026-08-21T19:48:45Z",
+                    "last_commit": "2026-08-25T15:44:25Z",
                     "owner": "freddy38510",
                     "repo": "quasar-app-extension-ssg",
                     "stars": 169
@@ -991,7 +991,7 @@
             "archived": false,
             "id": 420741081,
             "language": "Java",
-            "last_commit": "2026-08-25T01:25:49Z",
+            "last_commit": "2026-08-25T16:14:17Z",
             "owner": "Cap-go",
             "repo": "capacitor-updater",
             "stars": 833
@@ -2107,7 +2107,7 @@
             "archived": false,
             "id": 1106027710,
             "language": "Vue",
-            "last_commit": "2026-08-24T03:05:55Z",
+            "last_commit": "2026-08-25T08:25:21Z",
             "owner": "pileax-ai",
             "repo": "pileax",
             "stars": 39
@@ -2118,7 +2118,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T06:00:14.978Z",
+    "last_updated": "2026-08-26T02:56:42.519Z",
     "original_repository": "quasarframework/quasar-awesome",
     "original_repository_id": 117342615,
     "original_repository_sha": "9dab436cb3c11c64a086d4f4c672622d09a1d325",
