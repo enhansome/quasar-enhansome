@@ -14,10 +14,10 @@
                 "archived": false,
                 "id": 43695474,
                 "language": "JavaScript",
-                "last_commit": "2026-08-25T15:02:51Z",
+                "last_commit": "2026-08-26T16:43:12Z",
                 "owner": "quasarframework",
                 "repo": "quasar",
-                "stars": 27203
+                "stars": 27201
               }
             },
             {
@@ -29,10 +29,10 @@
                 "archived": false,
                 "id": 43695474,
                 "language": "JavaScript",
-                "last_commit": "2026-08-25T15:02:51Z",
+                "last_commit": "2026-08-26T16:43:12Z",
                 "owner": "quasarframework",
                 "repo": "quasar",
-                "stars": 27203
+                "stars": 27201
               }
             }
           ],
@@ -405,10 +405,10 @@
                     "archived": false,
                     "id": 23088740,
                     "language": "JavaScript",
-                    "last_commit": "2026-08-25T10:13:12Z",
+                    "last_commit": "2026-08-27T07:39:33Z",
                     "owner": "axios",
                     "repo": "axios",
-                    "stars": 109198
+                    "stars": 109193
                   }
                 },
                 {
@@ -570,7 +570,7 @@
                     "archived": false,
                     "id": 243010177,
                     "language": "JavaScript",
-                    "last_commit": "2026-08-25T15:44:25Z",
+                    "last_commit": "2026-08-26T23:01:52Z",
                     "owner": "freddy38510",
                     "repo": "quasar-app-extension-ssg",
                     "stars": 169
@@ -679,7 +679,7 @@
             "last_commit": "2022-10-04T09:29:48Z",
             "owner": "mayur091193",
             "repo": "readme-pro",
-            "stars": 57
+            "stars": 58
           }
         },
         {
@@ -991,7 +991,7 @@
             "archived": false,
             "id": 420741081,
             "language": "Java",
-            "last_commit": "2026-08-25T16:14:17Z",
+            "last_commit": "2026-08-26T10:08:23Z",
             "owner": "Cap-go",
             "repo": "capacitor-updater",
             "stars": 833
@@ -1135,7 +1135,7 @@
             "last_commit": "2022-10-04T09:29:48Z",
             "owner": "mayur091193",
             "repo": "readme-pro",
-            "stars": 57
+            "stars": 58
           }
         },
         {
@@ -1630,7 +1630,7 @@
             "last_commit": "2023-10-26T09:01:24Z",
             "owner": "RoganDawes",
             "repo": "P4wnP1_aloa",
-            "stars": 4422
+            "stars": 4423
           }
         },
         {
@@ -2077,7 +2077,7 @@
             "archived": false,
             "id": 762213939,
             "language": "TypeScript",
-            "last_commit": "2026-08-20T08:03:57Z",
+            "last_commit": "2026-08-26T10:28:11Z",
             "owner": "simsustech",
             "repo": "slimfact",
             "stars": 6
@@ -2118,9 +2118,16 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-26T02:56:42.519Z",
-    "original_repository": "quasarframework/quasar-awesome",
-    "original_repository_id": 117342615,
+    "last_updated": "2026-08-27T12:12:40.918Z",
+    "original_repository_info": {
+      "archived": false,
+      "id": 117342615,
+      "language": null,
+      "last_commit": "2026-08-14T05:28:06Z",
+      "owner": "quasarframework",
+      "repo": "quasar-awesome",
+      "stars": 1871
+    },
     "original_repository_sha": "9dab436cb3c11c64a086d4f4c672622d09a1d325",
     "enhanced_repository": "enhansome/quasar-enhansome",
     "enhanced_repository_description": null,
