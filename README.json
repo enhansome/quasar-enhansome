@@ -14,11 +14,12 @@
                 "archived": false,
                 "id": 43695474,
                 "language": "JavaScript",
-                "last_commit": "2026-08-26T16:43:12Z",
+                "last_commit": "2026-08-28T13:09:47Z",
                 "owner": "quasarframework",
                 "repo": "quasar",
-                "stars": 27201
-              }
+                "stars": 27203
+              },
+              "first_seen": "2026-08-28T13:31:58.112Z"
             },
             {
               "node_type": "item",
@@ -29,11 +30,12 @@
                 "archived": false,
                 "id": 43695474,
                 "language": "JavaScript",
-                "last_commit": "2026-08-26T16:43:12Z",
+                "last_commit": "2026-08-28T13:09:47Z",
                 "owner": "quasarframework",
                 "repo": "quasar",
-                "stars": 27201
-              }
+                "stars": 27203
+              },
+              "first_seen": "2026-08-28T13:31:58.112Z"
             }
           ],
           "description": null,
@@ -57,7 +59,8 @@
                     "owner": "patrickmonteiro",
                     "repo": "quasar-hello-auth",
                     "stars": 11
-                  }
+                  },
+                  "first_seen": "2026-08-28T13:31:58.112Z"
                 }
               ],
               "description": "Do not forget to watch official video tutorials.",
@@ -79,7 +82,8 @@
                     "owner": "hawkeye64",
                     "repo": "electron-quasar-file-explorer",
                     "stars": 181
-                  }
+                  },
+                  "first_seen": "2026-08-28T13:31:58.112Z"
                 },
                 {
                   "node_type": "item",
@@ -94,7 +98,8 @@
                     "owner": "patrickmonteiro",
                     "repo": "quasar-hello-auth",
                     "stars": 11
-                  }
+                  },
+                  "first_seen": "2026-08-28T13:31:58.112Z"
                 },
                 {
                   "node_type": "item",
@@ -109,7 +114,8 @@
                     "owner": "lucianopereira86",
                     "repo": "Quasar-Cordova-Apk",
                     "stars": 16
-                  }
+                  },
+                  "first_seen": "2026-08-28T13:31:58.112Z"
                 },
                 {
                   "node_type": "item",
@@ -124,7 +130,8 @@
                     "owner": "lucianopereira86",
                     "repo": "Quasar-NodeJS-Google-Drive",
                     "stars": 11
-                  }
+                  },
+                  "first_seen": "2026-08-28T13:31:58.112Z"
                 },
                 {
                   "node_type": "item",
@@ -139,7 +146,8 @@
                     "owner": "lucianopereira86",
                     "repo": "Quasar-NodeJS-Google-Vision",
                     "stars": 18
-                  }
+                  },
+                  "first_seen": "2026-08-28T13:31:58.112Z"
                 },
                 {
                   "node_type": "item",
@@ -154,7 +162,8 @@
                     "owner": "lucianopereira86",
                     "repo": "quasar-cordova-hellojs",
                     "stars": 9
-                  }
+                  },
+                  "first_seen": "2026-08-28T13:31:58.112Z"
                 },
                 {
                   "node_type": "item",
@@ -169,7 +178,8 @@
                     "owner": "lucianopereira86",
                     "repo": "Quasar-GoogleMaps-Cypress",
                     "stars": 9
-                  }
+                  },
+                  "first_seen": "2026-08-28T13:31:58.112Z"
                 },
                 {
                   "node_type": "item",
@@ -184,7 +194,8 @@
                     "owner": "lucianopereira86",
                     "repo": "Quasar-GreenSock-Portfolio",
                     "stars": 6
-                  }
+                  },
+                  "first_seen": "2026-08-28T13:31:58.112Z"
                 },
                 {
                   "node_type": "item",
@@ -199,7 +210,8 @@
                     "owner": "lucianopereira86",
                     "repo": "Quasar-PWA-Bluetooth-Printer",
                     "stars": 76
-                  }
+                  },
+                  "first_seen": "2026-08-28T13:31:58.112Z"
                 },
                 {
                   "node_type": "item",
@@ -214,7 +226,8 @@
                     "owner": "bloodf",
                     "repo": "quasar-remote-dev-tools",
                     "stars": 5
-                  }
+                  },
+                  "first_seen": "2026-08-28T13:31:58.112Z"
                 },
                 {
                   "node_type": "item",
@@ -229,7 +242,8 @@
                     "owner": "221B-io",
                     "repo": "quasar-alpaca-form-builder",
                     "stars": 12
-                  }
+                  },
+                  "first_seen": "2026-08-28T13:31:58.112Z"
                 },
                 {
                   "node_type": "item",
@@ -244,7 +258,8 @@
                     "owner": "mesqueeb",
                     "repo": "quasar-app-extension-draggable",
                     "stars": 48
-                  }
+                  },
+                  "first_seen": "2026-08-28T13:31:58.112Z"
                 },
                 {
                   "node_type": "item",
@@ -259,7 +274,8 @@
                     "owner": "mesqueeb",
                     "repo": "quasar-app-extension-swipe-to-close",
                     "stars": 30
-                  }
+                  },
+                  "first_seen": "2026-08-28T13:31:58.112Z"
                 },
                 {
                   "node_type": "item",
@@ -274,7 +290,8 @@
                     "owner": "TobyMosque",
                     "repo": "app-extension-qdatetimepicker",
                     "stars": 54
-                  }
+                  },
+                  "first_seen": "2026-08-28T13:31:58.112Z"
                 },
                 {
                   "node_type": "item",
@@ -289,7 +306,8 @@
                     "owner": "quasarframework",
                     "repo": "quasar-ui-qribbon",
                     "stars": 44
-                  }
+                  },
+                  "first_seen": "2026-08-28T13:31:58.112Z"
                 },
                 {
                   "node_type": "item",
@@ -304,7 +322,8 @@
                     "owner": "stefanvanherwijnen",
                     "repo": "quasar-app-extension-http-authentication",
                     "stars": 66
-                  }
+                  },
+                  "first_seen": "2026-08-28T13:31:58.112Z"
                 },
                 {
                   "node_type": "item",
@@ -319,7 +338,8 @@
                     "owner": "marcorivm",
                     "repo": "quasar-app-extension-system-environment-variables",
                     "stars": 10
-                  }
+                  },
+                  "first_seen": "2026-08-28T13:31:58.112Z"
                 },
                 {
                   "node_type": "item",
@@ -334,7 +354,8 @@
                     "owner": "cuatromedios",
                     "repo": "quasar-app-extension-vuelidate-rules",
                     "stars": 59
-                  }
+                  },
+                  "first_seen": "2026-08-28T13:31:58.112Z"
                 },
                 {
                   "node_type": "item",
@@ -349,7 +370,8 @@
                     "owner": "pratik227",
                     "repo": "quasar-qgrid",
                     "stars": 117
-                  }
+                  },
+                  "first_seen": "2026-08-28T13:31:58.112Z"
                 },
                 {
                   "node_type": "item",
@@ -364,7 +386,8 @@
                     "owner": "pratik227",
                     "repo": "quasar-qhierarchy",
                     "stars": 44
-                  }
+                  },
+                  "first_seen": "2026-08-28T13:31:58.112Z"
                 },
                 {
                   "node_type": "item",
@@ -379,7 +402,8 @@
                     "owner": "mayank091193",
                     "repo": "quasar-draggable-tree",
                     "stars": 76
-                  }
+                  },
+                  "first_seen": "2026-08-28T13:31:58.112Z"
                 },
                 {
                   "node_type": "item",
@@ -394,7 +418,8 @@
                     "owner": "RobertoLangarica",
                     "repo": "quasar-app-extension-api-wrapper",
                     "stars": 42
-                  }
+                  },
+                  "first_seen": "2026-08-28T13:31:58.112Z"
                 },
                 {
                   "node_type": "item",
@@ -405,11 +430,12 @@
                     "archived": false,
                     "id": 23088740,
                     "language": "JavaScript",
-                    "last_commit": "2026-08-27T07:39:33Z",
+                    "last_commit": "2026-08-27T15:40:25Z",
                     "owner": "axios",
                     "repo": "axios",
-                    "stars": 109193
-                  }
+                    "stars": 109192
+                  },
+                  "first_seen": "2026-08-28T13:31:58.112Z"
                 },
                 {
                   "node_type": "item",
@@ -424,7 +450,8 @@
                     "owner": "donotebase",
                     "repo": "quasar-tiptap",
                     "stars": 322
-                  }
+                  },
+                  "first_seen": "2026-08-28T13:31:58.112Z"
                 },
                 {
                   "node_type": "item",
@@ -439,7 +466,8 @@
                     "owner": "cirolosapio",
                     "repo": "app-extension-q-filter-configurator",
                     "stars": 16
-                  }
+                  },
+                  "first_seen": "2026-08-28T13:31:58.112Z"
                 },
                 {
                   "node_type": "item",
@@ -454,7 +482,8 @@
                     "owner": "cirolosapio",
                     "repo": "app-extension-q-date-picker",
                     "stars": 10
-                  }
+                  },
+                  "first_seen": "2026-08-28T13:31:58.112Z"
                 },
                 {
                   "node_type": "item",
@@ -469,7 +498,8 @@
                     "owner": "cirolosapio",
                     "repo": "app-extension-qs-select",
                     "stars": 7
-                  }
+                  },
+                  "first_seen": "2026-08-28T13:31:58.112Z"
                 },
                 {
                   "node_type": "item",
@@ -484,7 +514,8 @@
                     "owner": "mayur091193",
                     "repo": "q-google-map",
                     "stars": 29
-                  }
+                  },
+                  "first_seen": "2026-08-28T13:31:58.112Z"
                 },
                 {
                   "node_type": "item",
@@ -499,7 +530,8 @@
                     "owner": "mayank091193",
                     "repo": "quasar-widgets",
                     "stars": 14
-                  }
+                  },
+                  "first_seen": "2026-08-28T13:31:58.112Z"
                 },
                 {
                   "node_type": "item",
@@ -514,7 +546,8 @@
                     "owner": "odranoelBR",
                     "repo": "vue-quasar-crud",
                     "stars": 18
-                  }
+                  },
+                  "first_seen": "2026-08-28T13:31:58.112Z"
                 },
                 {
                   "node_type": "item",
@@ -529,7 +562,8 @@
                     "owner": "odranoelBR",
                     "repo": "vue-quasar-select-api",
                     "stars": 6
-                  }
+                  },
+                  "first_seen": "2026-08-28T13:31:58.112Z"
                 },
                 {
                   "node_type": "item",
@@ -544,7 +578,8 @@
                     "owner": "Junvary",
                     "repo": "quasar-app-extension-qstatistic",
                     "stars": 3
-                  }
+                  },
+                  "first_seen": "2026-08-28T13:31:58.112Z"
                 },
                 {
                   "node_type": "item",
@@ -559,7 +594,8 @@
                     "owner": "Junvary",
                     "repo": "quasar-app-extension-qcascader",
                     "stars": 6
-                  }
+                  },
+                  "first_seen": "2026-08-28T13:31:58.112Z"
                 },
                 {
                   "node_type": "item",
@@ -570,11 +606,12 @@
                     "archived": false,
                     "id": 243010177,
                     "language": "JavaScript",
-                    "last_commit": "2026-08-26T23:01:52Z",
+                    "last_commit": "2026-08-28T03:05:38Z",
                     "owner": "freddy38510",
                     "repo": "quasar-app-extension-ssg",
                     "stars": 169
-                  }
+                  },
+                  "first_seen": "2026-08-28T13:31:58.112Z"
                 },
                 {
                   "node_type": "item",
@@ -589,7 +626,8 @@
                     "owner": "jirka124",
                     "repo": "quasar-hybrid-render",
                     "stars": 5
-                  }
+                  },
+                  "first_seen": "2026-08-28T13:31:58.112Z"
                 },
                 {
                   "node_type": "item",
@@ -604,7 +642,8 @@
                     "owner": "vladyslav-mikhieiev",
                     "repo": "quasar-app-extension-custom-extra-icons",
                     "stars": 3
-                  }
+                  },
+                  "first_seen": "2026-08-28T13:31:58.112Z"
                 }
               ],
               "description": "Do not forget to read the official blog.",
@@ -635,7 +674,8 @@
             "owner": "tomers",
             "repo": "quasar-i18n-example",
             "stars": 1
-          }
+          },
+          "first_seen": "2026-08-28T13:31:58.112Z"
         },
         {
           "node_type": "item",
@@ -650,7 +690,8 @@
             "owner": "ejez",
             "repo": "quasarmultilingual",
             "stars": 8
-          }
+          },
+          "first_seen": "2026-08-28T13:31:58.112Z"
         },
         {
           "node_type": "item",
@@ -665,7 +706,8 @@
             "owner": "baggachipz",
             "repo": "q-form-builder",
             "stars": 153
-          }
+          },
+          "first_seen": "2026-08-28T13:31:58.112Z"
         },
         {
           "node_type": "item",
@@ -680,7 +722,8 @@
             "owner": "mayur091193",
             "repo": "readme-pro",
             "stars": 58
-          }
+          },
+          "first_seen": "2026-08-28T13:31:58.112Z"
         },
         {
           "node_type": "item",
@@ -695,7 +738,8 @@
             "owner": "pratik227",
             "repo": "quasar-echarts",
             "stars": 97
-          }
+          },
+          "first_seen": "2026-08-28T13:31:58.112Z"
         },
         {
           "node_type": "item",
@@ -710,7 +754,8 @@
             "owner": "tomers",
             "repo": "quasar-geolocation-example",
             "stars": 12
-          }
+          },
+          "first_seen": "2026-08-28T13:31:58.112Z"
         },
         {
           "node_type": "item",
@@ -725,7 +770,8 @@
             "owner": "patrickmonteiro",
             "repo": "quasar-3d-model",
             "stars": 19
-          }
+          },
+          "first_seen": "2026-08-28T13:31:58.112Z"
         },
         {
           "node_type": "item",
@@ -740,7 +786,8 @@
             "owner": "patrickmonteiro",
             "repo": "quasar-apexcharts",
             "stars": 204
-          }
+          },
+          "first_seen": "2026-08-28T13:31:58.112Z"
         },
         {
           "node_type": "item",
@@ -755,7 +802,8 @@
             "owner": "patrickmonteiro",
             "repo": "quasar-barcode-reader",
             "stars": 51
-          }
+          },
+          "first_seen": "2026-08-28T13:31:58.112Z"
         },
         {
           "node_type": "item",
@@ -770,7 +818,8 @@
             "owner": "patrickmonteiro",
             "repo": "quasar-qrcode-reader",
             "stars": 91
-          }
+          },
+          "first_seen": "2026-08-28T13:31:58.112Z"
         },
         {
           "node_type": "item",
@@ -785,7 +834,8 @@
             "owner": "patrickmonteiro",
             "repo": "quasar-speech-api",
             "stars": 68
-          }
+          },
+          "first_seen": "2026-08-28T13:31:58.112Z"
         },
         {
           "node_type": "item",
@@ -800,7 +850,8 @@
             "owner": "snowyu",
             "repo": "qinputex",
             "stars": 12
-          }
+          },
+          "first_seen": "2026-08-28T13:31:58.112Z"
         },
         {
           "node_type": "item",
@@ -815,7 +866,8 @@
             "owner": "Abdelaziz18003",
             "repo": "vscode-quasar-snippets",
             "stars": 41
-          }
+          },
+          "first_seen": "2026-08-28T13:31:58.112Z"
         },
         {
           "node_type": "item",
@@ -830,7 +882,8 @@
             "owner": "common-intellisense",
             "repo": "common-intellisense",
             "stars": 100
-          }
+          },
+          "first_seen": "2026-08-28T13:31:58.112Z"
         },
         {
           "node_type": "item",
@@ -845,7 +898,8 @@
             "owner": "irelandscape",
             "repo": "qv-steem-beneficiaries",
             "stars": 0
-          }
+          },
+          "first_seen": "2026-08-28T13:31:58.112Z"
         },
         {
           "node_type": "item",
@@ -860,7 +914,8 @@
             "owner": "stormseed",
             "repo": "daykeep-calendar-quasar",
             "stars": 274
-          }
+          },
+          "first_seen": "2026-08-28T13:31:58.112Z"
         },
         {
           "node_type": "item",
@@ -875,7 +930,8 @@
             "owner": "laqul",
             "repo": "laqul",
             "stars": 133
-          }
+          },
+          "first_seen": "2026-08-28T13:31:58.112Z"
         },
         {
           "node_type": "item",
@@ -890,7 +946,8 @@
             "owner": "laraquasar",
             "repo": "laraquasar",
             "stars": 60
-          }
+          },
+          "first_seen": "2026-08-28T13:31:58.112Z"
         },
         {
           "node_type": "item",
@@ -905,7 +962,8 @@
             "owner": "mstaack",
             "repo": "quasar-cloud-demo",
             "stars": 56
-          }
+          },
+          "first_seen": "2026-08-28T13:31:58.112Z"
         },
         {
           "node_type": "item",
@@ -920,7 +978,8 @@
             "owner": "sajt",
             "repo": "oh-my-zsh",
             "stars": 2
-          }
+          },
+          "first_seen": "2026-08-28T13:31:58.112Z"
         },
         {
           "node_type": "item",
@@ -935,7 +994,8 @@
             "owner": "RobertoLangarica",
             "repo": "quasar-app-extension-api-wrapper",
             "stars": 42
-          }
+          },
+          "first_seen": "2026-08-28T13:31:58.112Z"
         },
         {
           "node_type": "item",
@@ -950,7 +1010,8 @@
             "owner": "Qoyyuum",
             "repo": "quasar-devops",
             "stars": 36
-          }
+          },
+          "first_seen": "2026-08-28T13:31:58.112Z"
         },
         {
           "node_type": "item",
@@ -965,7 +1026,8 @@
             "owner": "MilosPaunovic",
             "repo": "quasar-v1-starter",
             "stars": 10
-          }
+          },
+          "first_seen": "2026-08-28T13:31:58.112Z"
         },
         {
           "node_type": "item",
@@ -980,7 +1042,8 @@
             "owner": "MilosPaunovic",
             "repo": "quasar-v2-starter",
             "stars": 12
-          }
+          },
+          "first_seen": "2026-08-28T13:31:58.112Z"
         },
         {
           "node_type": "item",
@@ -995,7 +1058,8 @@
             "owner": "Cap-go",
             "repo": "capacitor-updater",
             "stars": 833
-          }
+          },
+          "first_seen": "2026-08-28T13:31:58.112Z"
         },
         {
           "node_type": "item",
@@ -1010,7 +1074,8 @@
             "owner": "VicVibesPL",
             "repo": "quasar2-firebase-auth",
             "stars": 4
-          }
+          },
+          "first_seen": "2026-08-28T13:31:58.112Z"
         },
         {
           "node_type": "item",
@@ -1025,7 +1090,8 @@
             "owner": "simsustech",
             "repo": "quasar-components",
             "stars": 0
-          }
+          },
+          "first_seen": "2026-08-28T13:31:58.112Z"
         },
         {
           "node_type": "item",
@@ -1040,7 +1106,8 @@
             "owner": "simsustech",
             "repo": "unocss-preset-quasar",
             "stars": 30
-          }
+          },
+          "first_seen": "2026-08-28T13:31:58.112Z"
         },
         {
           "node_type": "item",
@@ -1055,7 +1122,8 @@
             "owner": "zovajs",
             "repo": "zova",
             "stars": 125
-          }
+          },
+          "first_seen": "2026-08-28T13:31:58.112Z"
         },
         {
           "node_type": "item",
@@ -1070,7 +1138,8 @@
             "owner": "bekaku",
             "repo": "quasar-starter-template",
             "stars": 82
-          }
+          },
+          "first_seen": "2026-08-28T13:31:58.112Z"
         }
       ],
       "title": "Other Community Components and Tools"
@@ -1091,7 +1160,8 @@
             "owner": "pratik227",
             "repo": "quasar-admin",
             "stars": 862
-          }
+          },
+          "first_seen": "2026-08-28T13:31:58.112Z"
         },
         {
           "node_type": "item",
@@ -1106,7 +1176,8 @@
             "owner": "mohitransubhe-supernatural",
             "repo": "quasar-template",
             "stars": 21
-          }
+          },
+          "first_seen": "2026-08-28T13:31:58.112Z"
         },
         {
           "node_type": "item",
@@ -1121,7 +1192,8 @@
             "owner": "robert-hoffmann",
             "repo": "PowerToys4OpenAI",
             "stars": 43
-          }
+          },
+          "first_seen": "2026-08-28T13:31:58.112Z"
         },
         {
           "node_type": "item",
@@ -1136,7 +1208,8 @@
             "owner": "mayur091193",
             "repo": "readme-pro",
             "stars": 58
-          }
+          },
+          "first_seen": "2026-08-28T13:31:58.112Z"
         },
         {
           "node_type": "item",
@@ -1151,7 +1224,8 @@
             "owner": "emingenc",
             "repo": "tomatodo",
             "stars": 11
-          }
+          },
+          "first_seen": "2026-08-28T13:31:58.112Z"
         },
         {
           "node_type": "item",
@@ -1166,7 +1240,8 @@
             "owner": "Singosgu",
             "repo": "GreaterWMS",
             "stars": 78
-          }
+          },
+          "first_seen": "2026-08-28T13:31:58.112Z"
         },
         {
           "node_type": "item",
@@ -1181,7 +1256,8 @@
             "owner": "pratik227",
             "repo": "quasar-gaming",
             "stars": 23
-          }
+          },
+          "first_seen": "2026-08-28T13:31:58.112Z"
         },
         {
           "node_type": "item",
@@ -1196,7 +1272,8 @@
             "owner": "mayank091193",
             "repo": "vue-quasar-company-profile-website",
             "stars": 223
-          }
+          },
+          "first_seen": "2026-08-28T13:31:58.112Z"
         },
         {
           "node_type": "item",
@@ -1211,7 +1288,8 @@
             "owner": "rbretecher",
             "repo": "expense-tracker",
             "stars": 16
-          }
+          },
+          "first_seen": "2026-08-28T13:31:58.112Z"
         },
         {
           "node_type": "item",
@@ -1226,7 +1304,8 @@
             "owner": "mayank091193",
             "repo": "quasar-scrum",
             "stars": 77
-          }
+          },
+          "first_seen": "2026-08-28T13:31:58.112Z"
         },
         {
           "node_type": "item",
@@ -1241,7 +1320,8 @@
             "owner": "pratik227",
             "repo": "quasar-admin",
             "stars": 862
-          }
+          },
+          "first_seen": "2026-08-28T13:31:58.112Z"
         },
         {
           "node_type": "item",
@@ -1256,7 +1336,8 @@
             "owner": "mayur091193",
             "repo": "quasar-shopping",
             "stars": 105
-          }
+          },
+          "first_seen": "2026-08-28T13:31:58.112Z"
         },
         {
           "node_type": "item",
@@ -1271,7 +1352,8 @@
             "owner": "mayank091193",
             "repo": "quasar-admin-crm",
             "stars": 461
-          }
+          },
+          "first_seen": "2026-08-28T13:31:58.112Z"
         },
         {
           "node_type": "item",
@@ -1286,7 +1368,8 @@
             "owner": "mayank091193",
             "repo": "mayank-profile",
             "stars": 27
-          }
+          },
+          "first_seen": "2026-08-28T13:31:58.112Z"
         },
         {
           "node_type": "item",
@@ -1301,7 +1384,8 @@
             "owner": "dirkhe1051931999",
             "repo": "quasar-typescript-admin-template",
             "stars": 162
-          }
+          },
+          "first_seen": "2026-08-28T13:31:58.112Z"
         },
         {
           "node_type": "item",
@@ -1316,7 +1400,8 @@
             "owner": "hugetiny",
             "repo": "webox",
             "stars": 369
-          }
+          },
+          "first_seen": "2026-08-28T13:31:58.112Z"
         },
         {
           "node_type": "item",
@@ -1331,7 +1416,8 @@
             "owner": "zuck",
             "repo": "alighieri",
             "stars": 133
-          }
+          },
+          "first_seen": "2026-08-28T13:31:58.112Z"
         },
         {
           "node_type": "item",
@@ -1346,7 +1432,8 @@
             "owner": "weacast",
             "repo": "weacast",
             "stars": 28
-          }
+          },
+          "first_seen": "2026-08-28T13:31:58.112Z"
         },
         {
           "node_type": "item",
@@ -1361,7 +1448,8 @@
             "owner": "lmfresneda",
             "repo": "crypto-price",
             "stars": 10
-          }
+          },
+          "first_seen": "2026-08-28T13:31:58.112Z"
         },
         {
           "node_type": "item",
@@ -1376,7 +1464,8 @@
             "owner": "shuosc",
             "repo": "SHUhelper",
             "stars": 112
-          }
+          },
+          "first_seen": "2026-08-28T13:31:58.112Z"
         },
         {
           "node_type": "item",
@@ -1391,7 +1480,8 @@
             "owner": "karrot-dev",
             "repo": "karrot-frontend",
             "stars": 436
-          }
+          },
+          "first_seen": "2026-08-28T13:31:58.112Z"
         },
         {
           "node_type": "item",
@@ -1406,7 +1496,8 @@
             "owner": "hawkeye64",
             "repo": "onvif-nvt-snapshot-vue-sample",
             "stars": 27
-          }
+          },
+          "first_seen": "2026-08-28T13:31:58.112Z"
         },
         {
           "node_type": "item",
@@ -1421,7 +1512,8 @@
             "owner": "sergiuwd",
             "repo": "Taskista",
             "stars": 7
-          }
+          },
+          "first_seen": "2026-08-28T13:31:58.112Z"
         },
         {
           "node_type": "item",
@@ -1436,7 +1528,8 @@
             "owner": "nestebe",
             "repo": "charging-stations-tracker",
             "stars": 6
-          }
+          },
+          "first_seen": "2026-08-28T13:31:58.112Z"
         },
         {
           "node_type": "item",
@@ -1451,7 +1544,8 @@
             "owner": "ghys",
             "repo": "habot",
             "stars": 15
-          }
+          },
+          "first_seen": "2026-08-28T13:31:58.112Z"
         },
         {
           "node_type": "item",
@@ -1466,7 +1560,8 @@
             "owner": "codingstones",
             "repo": "tmdb-quasar",
             "stars": 28
-          }
+          },
+          "first_seen": "2026-08-28T13:31:58.112Z"
         },
         {
           "node_type": "item",
@@ -1481,7 +1576,8 @@
             "owner": "Vishwas1",
             "repo": "voting-daap-2017",
             "stars": 25
-          }
+          },
+          "first_seen": "2026-08-28T13:31:58.112Z"
         },
         {
           "node_type": "item",
@@ -1496,7 +1592,8 @@
             "owner": "vikramIde",
             "repo": "stock_scan1",
             "stars": 45
-          }
+          },
+          "first_seen": "2026-08-28T13:31:58.112Z"
         },
         {
           "node_type": "item",
@@ -1511,7 +1608,8 @@
             "owner": "rmetcalf9",
             "repo": "dockJob",
             "stars": 21
-          }
+          },
+          "first_seen": "2026-08-28T13:31:58.112Z"
         },
         {
           "node_type": "item",
@@ -1526,7 +1624,8 @@
             "owner": "ExNG",
             "repo": "vuenote",
             "stars": 10
-          }
+          },
+          "first_seen": "2026-08-28T13:31:58.112Z"
         },
         {
           "node_type": "item",
@@ -1541,7 +1640,8 @@
             "owner": "geoidesic",
             "repo": "realworld-quasar",
             "stars": 17
-          }
+          },
+          "first_seen": "2026-08-28T13:31:58.112Z"
         },
         {
           "node_type": "item",
@@ -1556,7 +1656,8 @@
             "owner": "wjkang",
             "repo": "vue-quasar-admin",
             "stars": 581
-          }
+          },
+          "first_seen": "2026-08-28T13:31:58.112Z"
         },
         {
           "node_type": "item",
@@ -1571,7 +1672,8 @@
             "owner": "docsector",
             "repo": "docsector-reader",
             "stars": 21
-          }
+          },
+          "first_seen": "2026-08-28T13:31:58.112Z"
         },
         {
           "node_type": "item",
@@ -1586,7 +1688,8 @@
             "owner": "Dappos",
             "repo": "Dappos",
             "stars": 39
-          }
+          },
+          "first_seen": "2026-08-28T13:31:58.112Z"
         },
         {
           "node_type": "item",
@@ -1601,7 +1704,8 @@
             "owner": "vikramIde",
             "repo": "hypersign-mobile",
             "stars": 5
-          }
+          },
+          "first_seen": "2026-08-28T13:31:58.112Z"
         },
         {
           "node_type": "item",
@@ -1616,7 +1720,8 @@
             "owner": "schild-report",
             "repo": "schild.report",
             "stars": 9
-          }
+          },
+          "first_seen": "2026-08-28T13:31:58.112Z"
         },
         {
           "node_type": "item",
@@ -1631,7 +1736,8 @@
             "owner": "RoganDawes",
             "repo": "P4wnP1_aloa",
             "stars": 4423
-          }
+          },
+          "first_seen": "2026-08-28T13:31:58.112Z"
         },
         {
           "node_type": "item",
@@ -1646,7 +1752,8 @@
             "owner": "alensiljak",
             "repo": "cashier",
             "stars": 37
-          }
+          },
+          "first_seen": "2026-08-28T13:31:58.112Z"
         },
         {
           "node_type": "item",
@@ -1661,7 +1768,8 @@
             "owner": "siamx",
             "repo": "exorcism",
             "stars": 5
-          }
+          },
+          "first_seen": "2026-08-28T13:31:58.112Z"
         },
         {
           "node_type": "item",
@@ -1676,7 +1784,8 @@
             "owner": "sunengine",
             "repo": "SunEngine",
             "stars": 163
-          }
+          },
+          "first_seen": "2026-08-28T13:31:58.112Z"
         },
         {
           "node_type": "item",
@@ -1691,7 +1800,8 @@
             "owner": "valasek",
             "repo": "timesheet",
             "stars": 171
-          }
+          },
+          "first_seen": "2026-08-28T13:31:58.112Z"
         },
         {
           "node_type": "item",
@@ -1706,7 +1816,8 @@
             "owner": "stelace",
             "repo": "heroes-platform-demo",
             "stars": 17
-          }
+          },
+          "first_seen": "2026-08-28T13:31:58.112Z"
         },
         {
           "node_type": "item",
@@ -1721,7 +1832,8 @@
             "owner": "ttop5",
             "repo": "issue-blog",
             "stars": 46
-          }
+          },
+          "first_seen": "2026-08-28T13:31:58.112Z"
         },
         {
           "node_type": "item",
@@ -1736,7 +1848,8 @@
             "owner": "blaconix",
             "repo": "vugify",
             "stars": 7
-          }
+          },
+          "first_seen": "2026-08-28T13:31:58.112Z"
         },
         {
           "node_type": "item",
@@ -1751,7 +1864,8 @@
             "owner": "mallgroup",
             "repo": "mal-gistor",
             "stars": 5
-          }
+          },
+          "first_seen": "2026-08-28T13:31:58.112Z"
         },
         {
           "node_type": "item",
@@ -1766,7 +1880,8 @@
             "owner": "silentsilas",
             "repo": "Privy",
             "stars": 4
-          }
+          },
+          "first_seen": "2026-08-28T13:31:58.112Z"
         },
         {
           "node_type": "item",
@@ -1781,7 +1896,8 @@
             "owner": "MicroIoT",
             "repo": "studio",
             "stars": 21
-          }
+          },
+          "first_seen": "2026-08-28T13:31:58.112Z"
         },
         {
           "node_type": "item",
@@ -1796,7 +1912,8 @@
             "owner": "joaomede",
             "repo": "Api-Doc",
             "stars": 15
-          }
+          },
+          "first_seen": "2026-08-28T13:31:58.112Z"
         },
         {
           "node_type": "item",
@@ -1811,7 +1928,8 @@
             "owner": "farwish",
             "repo": "quacker",
             "stars": 3
-          }
+          },
+          "first_seen": "2026-08-28T13:31:58.112Z"
         },
         {
           "node_type": "item",
@@ -1826,7 +1944,8 @@
             "owner": "slanatech",
             "repo": "dashblocks-template",
             "stars": 186
-          }
+          },
+          "first_seen": "2026-08-28T13:31:58.112Z"
         },
         {
           "node_type": "item",
@@ -1841,7 +1960,8 @@
             "owner": "cartovarc",
             "repo": "github-method",
             "stars": 2
-          }
+          },
+          "first_seen": "2026-08-28T13:31:58.112Z"
         },
         {
           "node_type": "item",
@@ -1856,7 +1976,8 @@
             "owner": "itsalb3rt",
             "repo": "afterman",
             "stars": 48
-          }
+          },
+          "first_seen": "2026-08-28T13:31:58.112Z"
         },
         {
           "node_type": "item",
@@ -1871,7 +1992,8 @@
             "owner": "YuJianghao",
             "repo": "winwin-hexo-editor",
             "stars": 28
-          }
+          },
+          "first_seen": "2026-08-28T13:31:58.112Z"
         },
         {
           "node_type": "item",
@@ -1886,7 +2008,8 @@
             "owner": "sm-alfariz",
             "repo": "aldig",
             "stars": 7
-          }
+          },
+          "first_seen": "2026-08-28T13:31:58.112Z"
         },
         {
           "node_type": "item",
@@ -1901,7 +2024,8 @@
             "owner": "yvhr",
             "repo": "qodo",
             "stars": 78
-          }
+          },
+          "first_seen": "2026-08-28T13:31:58.112Z"
         },
         {
           "node_type": "item",
@@ -1916,7 +2040,8 @@
             "owner": "whoopsmonitor",
             "repo": "whoopsmonitor",
             "stars": 22
-          }
+          },
+          "first_seen": "2026-08-28T13:31:58.112Z"
         },
         {
           "node_type": "item",
@@ -1931,7 +2056,8 @@
             "owner": "itsalb3rt",
             "repo": "agile-visitors",
             "stars": 24
-          }
+          },
+          "first_seen": "2026-08-28T13:31:58.112Z"
         },
         {
           "node_type": "item",
@@ -1946,7 +2072,8 @@
             "owner": "collective-change",
             "repo": "mipa",
             "stars": 5
-          }
+          },
+          "first_seen": "2026-08-28T13:31:58.112Z"
         },
         {
           "node_type": "item",
@@ -1961,7 +2088,8 @@
             "owner": "TankNee",
             "repo": "Memocast",
             "stars": 367
-          }
+          },
+          "first_seen": "2026-08-28T13:31:58.112Z"
         },
         {
           "node_type": "item",
@@ -1976,7 +2104,8 @@
             "owner": "newflight-co",
             "repo": "createvid",
             "stars": 24
-          }
+          },
+          "first_seen": "2026-08-28T13:31:58.112Z"
         },
         {
           "node_type": "item",
@@ -1991,7 +2120,8 @@
             "owner": "daptin",
             "repo": "dadadash",
             "stars": 169
-          }
+          },
+          "first_seen": "2026-08-28T13:31:58.112Z"
         },
         {
           "node_type": "item",
@@ -2006,7 +2136,8 @@
             "owner": "Junvary",
             "repo": "gin-quasar-admin",
             "stars": 264
-          }
+          },
+          "first_seen": "2026-08-28T13:31:58.112Z"
         },
         {
           "node_type": "item",
@@ -2021,7 +2152,8 @@
             "owner": "mmarifat",
             "repo": "__subtitle_downloader",
             "stars": 2
-          }
+          },
+          "first_seen": "2026-08-28T13:31:58.112Z"
         },
         {
           "node_type": "item",
@@ -2036,7 +2168,8 @@
             "owner": "ausbitbank",
             "repo": "hive.ausbit.dev-src",
             "stars": 13
-          }
+          },
+          "first_seen": "2026-08-28T13:31:58.112Z"
         },
         {
           "node_type": "item",
@@ -2051,7 +2184,8 @@
             "owner": "lchnider",
             "repo": "invoice-generator",
             "stars": 6
-          }
+          },
+          "first_seen": "2026-08-28T13:31:58.112Z"
         },
         {
           "node_type": "item",
@@ -2066,7 +2200,8 @@
             "owner": "simsustech",
             "repo": "petboarding",
             "stars": 4
-          }
+          },
+          "first_seen": "2026-08-28T13:31:58.112Z"
         },
         {
           "node_type": "item",
@@ -2081,7 +2216,8 @@
             "owner": "simsustech",
             "repo": "slimfact",
             "stars": 6
-          }
+          },
+          "first_seen": "2026-08-28T13:31:58.112Z"
         },
         {
           "node_type": "item",
@@ -2096,7 +2232,8 @@
             "owner": "timamus",
             "repo": "QChatGPT",
             "stars": 18
-          }
+          },
+          "first_seen": "2026-08-28T13:31:58.112Z"
         },
         {
           "node_type": "item",
@@ -2107,18 +2244,19 @@
             "archived": false,
             "id": 1106027710,
             "language": "Vue",
-            "last_commit": "2026-08-25T08:25:21Z",
+            "last_commit": "2026-08-28T08:24:30Z",
             "owner": "pileax-ai",
             "repo": "pileax",
             "stars": 39
-          }
+          },
+          "first_seen": "2026-08-28T13:31:58.112Z"
         }
       ],
       "title": "Projects Using Quasar"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T12:12:40.918Z",
+    "last_updated": "2026-08-28T13:31:58.112Z",
     "original_repository_info": {
       "archived": false,
       "id": 117342615,
