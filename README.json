@@ -12,12 +12,37 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Quasar Framework - Build high-performance VueJS user interfaces in record time",
+                "homepage": "https://quasar.dev",
                 "id": 43695474,
                 "language": "JavaScript",
-                "last_commit": "2026-08-28T13:09:47Z",
+                "license": "MIT",
+                "last_commit": "2026-08-28T17:08:48Z",
+                "open_issues": 214,
                 "owner": "quasarframework",
                 "repo": "quasar",
-                "stars": 27203
+                "stars": 27204,
+                "topics": [
+                  "android",
+                  "browser-extension",
+                  "electron",
+                  "ios",
+                  "javascript",
+                  "material",
+                  "material-components",
+                  "material-design",
+                  "material-theme",
+                  "pwa",
+                  "quasar-framework",
+                  "server-side-rendering",
+                  "ssr",
+                  "vue",
+                  "vue-component",
+                  "vue-components",
+                  "vue3",
+                  "vuejs",
+                  "vuejs3"
+                ]
               },
               "first_seen": "2026-08-28T13:31:58.112Z"
             },
@@ -28,12 +53,37 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Quasar Framework - Build high-performance VueJS user interfaces in record time",
+                "homepage": "https://quasar.dev",
                 "id": 43695474,
                 "language": "JavaScript",
-                "last_commit": "2026-08-28T13:09:47Z",
+                "license": "MIT",
+                "last_commit": "2026-08-28T17:08:48Z",
+                "open_issues": 214,
                 "owner": "quasarframework",
                 "repo": "quasar",
-                "stars": 27203
+                "stars": 27204,
+                "topics": [
+                  "android",
+                  "browser-extension",
+                  "electron",
+                  "ios",
+                  "javascript",
+                  "material",
+                  "material-components",
+                  "material-design",
+                  "material-theme",
+                  "pwa",
+                  "quasar-framework",
+                  "server-side-rendering",
+                  "ssr",
+                  "vue",
+                  "vue-component",
+                  "vue-components",
+                  "vue3",
+                  "vuejs",
+                  "vuejs3"
+                ]
               },
               "first_seen": "2026-08-28T13:31:58.112Z"
             }
@@ -53,12 +103,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Quasar Framework com autenticação com redes sociais.",
+                    "homepage": null,
                     "id": 174601231,
                     "language": "JavaScript",
+                    "license": null,
                     "last_commit": "2019-03-11T01:20:00Z",
+                    "open_issues": 0,
                     "owner": "patrickmonteiro",
                     "repo": "quasar-hello-auth",
-                    "stars": 11
+                    "stars": 11,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T13:31:58.112Z"
                 }
@@ -76,12 +131,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "A Simple File Explorer using Vue/Quasar/Electron",
+                    "homepage": null,
                     "id": 157999025,
                     "language": "Vue",
+                    "license": "MIT",
                     "last_commit": "2026-02-16T10:38:02Z",
+                    "open_issues": 6,
                     "owner": "hawkeye64",
                     "repo": "electron-quasar-file-explorer",
-                    "stars": 181
+                    "stars": 181,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T13:31:58.112Z"
                 },
@@ -92,12 +152,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Quasar Framework com autenticação com redes sociais.",
+                    "homepage": null,
                     "id": 174601231,
                     "language": "JavaScript",
+                    "license": null,
                     "last_commit": "2019-03-11T01:20:00Z",
+                    "open_issues": 0,
                     "owner": "patrickmonteiro",
                     "repo": "quasar-hello-auth",
-                    "stars": 11
+                    "stars": 11,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T13:31:58.112Z"
                 },
@@ -108,12 +173,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Simple guide to create a signed apk from a Quasar app with Cordova.",
+                    "homepage": null,
                     "id": 199187204,
                     "language": null,
+                    "license": null,
                     "last_commit": "2019-07-27T17:03:59Z",
+                    "open_issues": 0,
                     "owner": "lucianopereira86",
                     "repo": "Quasar-Cordova-Apk",
-                    "stars": 16
+                    "stars": 16,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T13:31:58.112Z"
                 },
@@ -124,12 +194,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Upload and download files to Google Drive by using Quasar v1 and NodeJS API.",
+                    "homepage": null,
                     "id": 199009602,
                     "language": "JavaScript",
+                    "license": null,
                     "last_commit": "2023-01-04T05:31:01Z",
+                    "open_issues": 9,
                     "owner": "lucianopereira86",
                     "repo": "Quasar-NodeJS-Google-Drive",
-                    "stars": 11
+                    "stars": 11,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T13:31:58.112Z"
                 },
@@ -140,12 +215,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Extract text from images by using Google Vision, Quasar v1 and NodeJS API.",
+                    "homepage": null,
                     "id": 199293882,
                     "language": "JavaScript",
+                    "license": null,
                     "last_commit": "2023-01-04T05:36:46Z",
+                    "open_issues": 8,
                     "owner": "lucianopereira86",
                     "repo": "Quasar-NodeJS-Google-Vision",
-                    "stars": 18
+                    "stars": 18,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T13:31:58.112Z"
                 },
@@ -156,12 +236,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Quasar hybrid app with social network authentication and Cordova",
+                    "homepage": null,
                     "id": 197951236,
                     "language": "Java",
+                    "license": null,
                     "last_commit": "2023-01-04T04:57:44Z",
+                    "open_issues": 6,
                     "owner": "lucianopereira86",
                     "repo": "quasar-cordova-hellojs",
-                    "stars": 9
+                    "stars": 9,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T13:31:58.112Z"
                 },
@@ -172,12 +257,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Simple example of a Quasar app with Google Maps and Cypress automated tests",
+                    "homepage": null,
                     "id": 200143173,
                     "language": "JavaScript",
+                    "license": null,
                     "last_commit": "2023-01-04T06:14:25Z",
+                    "open_issues": 6,
                     "owner": "lucianopereira86",
                     "repo": "Quasar-GoogleMaps-Cypress",
-                    "stars": 9
+                    "stars": 9,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T13:31:58.112Z"
                 },
@@ -188,12 +278,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Building a dynamic portfolio with Quasar and Green Sock.",
+                    "homepage": null,
                     "id": 200552811,
                     "language": "Vue",
+                    "license": null,
                     "last_commit": "2023-01-04T06:20:08Z",
+                    "open_issues": 6,
                     "owner": "lucianopereira86",
                     "repo": "Quasar-GreenSock-Portfolio",
-                    "stars": 6
+                    "stars": 6,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T13:31:58.112Z"
                 },
@@ -204,12 +299,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Example of a Quasar PWA connecting with a Bluetooth thermal printer",
+                    "homepage": null,
                     "id": 203197704,
                     "language": "JavaScript",
+                    "license": null,
                     "last_commit": "2023-01-04T07:47:09Z",
+                    "open_issues": 6,
                     "owner": "lucianopereira86",
                     "repo": "Quasar-PWA-Bluetooth-Printer",
-                    "stars": 76
+                    "stars": 76,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T13:31:58.112Z"
                 },
@@ -220,12 +320,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": true,
+                    "description": "Quasar Plugin for Remote Vue Dev Tools",
+                    "homepage": null,
                     "id": 186036615,
                     "language": "JavaScript",
+                    "license": null,
                     "last_commit": "2019-10-31T15:55:33Z",
+                    "open_issues": 0,
                     "owner": "bloodf",
                     "repo": "quasar-remote-dev-tools",
-                    "stars": 5
+                    "stars": 5,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T13:31:58.112Z"
                 },
@@ -236,12 +341,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": true,
+                    "description": null,
+                    "homepage": null,
                     "id": 184467214,
                     "language": "Vue",
+                    "license": null,
                     "last_commit": "2019-05-09T18:40:56Z",
+                    "open_issues": 0,
                     "owner": "221B-io",
                     "repo": "quasar-alpaca-form-builder",
-                    "stars": 12
+                    "stars": 12,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T13:31:58.112Z"
                 },
@@ -252,12 +362,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": true,
+                    "description": "A Quasar extension that makes elements draggable and movable with keyboard.",
+                    "homepage": null,
                     "id": 180568964,
                     "language": "Vue",
+                    "license": "MIT",
                     "last_commit": "2021-03-08T03:18:35Z",
+                    "open_issues": 6,
                     "owner": "mesqueeb",
                     "repo": "quasar-app-extension-draggable",
-                    "stars": 48
+                    "stars": 48,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T13:31:58.112Z"
                 },
@@ -268,12 +383,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": true,
+                    "description": "A Quasar extension that allows you to close dialogs by swiping.",
+                    "homepage": null,
                     "id": 178321603,
                     "language": "Vue",
+                    "license": "MIT",
                     "last_commit": "2021-03-08T03:20:00Z",
+                    "open_issues": 4,
                     "owner": "mesqueeb",
                     "repo": "quasar-app-extension-swipe-to-close",
-                    "stars": 30
+                    "stars": 30,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T13:31:58.112Z"
                 },
@@ -284,12 +404,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "QDateTimePicker for Quasar ",
+                    "homepage": null,
                     "id": 177782418,
                     "language": "JavaScript",
+                    "license": "MIT",
                     "last_commit": "2022-12-03T04:39:39Z",
+                    "open_issues": 33,
                     "owner": "TobyMosque",
                     "repo": "app-extension-qdatetimepicker",
-                    "stars": 54
+                    "stars": 54,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T13:31:58.112Z"
                 },
@@ -300,12 +425,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "A Ribbon component for Quasar Framework v1.0",
+                    "homepage": "https://quasarframework.github.io/quasar-ui-qribbon/docs",
                     "id": 189302576,
                     "language": "JavaScript",
+                    "license": "MIT",
                     "last_commit": "2021-11-13T18:00:08Z",
+                    "open_issues": 3,
                     "owner": "quasarframework",
                     "repo": "quasar-ui-qribbon",
-                    "stars": 44
+                    "stars": 44,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T13:31:58.112Z"
                 },
@@ -316,12 +446,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": true,
+                    "description": "Token based authentication for Quasar Framework",
+                    "homepage": null,
                     "id": 233583420,
                     "language": "Vue",
+                    "license": "MIT",
                     "last_commit": "2022-09-12T11:57:47Z",
+                    "open_issues": 3,
                     "owner": "stefanvanherwijnen",
                     "repo": "quasar-app-extension-http-authentication",
-                    "stars": 66
+                    "stars": 66,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T13:31:58.112Z"
                 },
@@ -332,12 +467,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": null,
+                    "homepage": null,
                     "id": 212206843,
                     "language": "JavaScript",
+                    "license": null,
                     "last_commit": "2021-10-21T02:09:54Z",
+                    "open_issues": 0,
                     "owner": "marcorivm",
                     "repo": "quasar-app-extension-system-environment-variables",
-                    "stars": 10
+                    "stars": 10,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T13:31:58.112Z"
                 },
@@ -348,12 +488,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Use Vuelidate methods as internal Quasar rules for validation",
+                    "homepage": null,
                     "id": 238827221,
                     "language": "JavaScript",
+                    "license": "MIT",
                     "last_commit": "2022-06-21T11:30:39Z",
+                    "open_issues": 9,
                     "owner": "cuatromedios",
                     "repo": "quasar-app-extension-vuelidate-rules",
-                    "stars": 59
+                    "stars": 59,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T13:31:58.112Z"
                 },
@@ -364,12 +509,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "QGrid is a Quasar App Extension.  It allows you to filter data for each column, Drag and Drop Rows and also allows you to filter data using header filters. ",
+                    "homepage": "https://next-quasar-qgrid.netlify.app/",
                     "id": 238053611,
                     "language": "Vue",
+                    "license": "MIT",
                     "last_commit": "2026-04-24T23:31:42Z",
+                    "open_issues": 2,
                     "owner": "pratik227",
                     "repo": "quasar-qgrid",
-                    "stars": 117
+                    "stars": 117,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T13:31:58.112Z"
                 },
@@ -380,12 +530,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "QHierarchy allows you to display data in hierarchy structure. ",
+                    "homepage": "https://next-quasar-qhierarchy.netlify.app",
                     "id": 231733067,
                     "language": "Vue",
+                    "license": "MIT",
                     "last_commit": "2024-12-16T18:04:16Z",
+                    "open_issues": 4,
                     "owner": "pratik227",
                     "repo": "quasar-qhierarchy",
-                    "stars": 44
+                    "stars": 44,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T13:31:58.112Z"
                 },
@@ -396,12 +551,23 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "QDraggableTree is a component that displays hierarchical data with drag and drop ability.",
+                    "homepage": "https://next-quasar-draggable-tree.netlify.com/",
                     "id": 242372143,
                     "language": "JavaScript",
+                    "license": "MIT",
                     "last_commit": "2023-07-05T06:34:24Z",
+                    "open_issues": 6,
                     "owner": "mayank091193",
                     "repo": "quasar-draggable-tree",
-                    "stars": 76
+                    "stars": 76,
+                    "topics": [
+                      "app-extension",
+                      "javascript",
+                      "quasar-application",
+                      "quasarframework",
+                      "vuejs"
+                    ]
                   },
                   "first_seen": "2026-08-28T13:31:58.112Z"
                 },
@@ -412,12 +578,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": null,
+                    "homepage": null,
                     "id": 238054140,
                     "language": "JavaScript",
+                    "license": "MIT",
                     "last_commit": "2021-05-03T18:41:37Z",
+                    "open_issues": 0,
                     "owner": "RobertoLangarica",
                     "repo": "quasar-app-extension-api-wrapper",
-                    "stars": 42
+                    "stars": 42,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T13:31:58.112Z"
                 },
@@ -428,12 +599,23 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Promise based HTTP client for the browser and node.js",
+                    "homepage": "https://axios-http.com",
                     "id": 23088740,
                     "language": "JavaScript",
-                    "last_commit": "2026-08-27T15:40:25Z",
+                    "license": "MIT",
+                    "last_commit": "2026-08-28T19:18:21Z",
+                    "open_issues": 78,
                     "owner": "axios",
                     "repo": "axios",
-                    "stars": 109192
+                    "stars": 109192,
+                    "topics": [
+                      "hacktoberfest",
+                      "http-client",
+                      "javascript",
+                      "nodejs",
+                      "promise"
+                    ]
                   },
                   "first_seen": "2026-08-28T13:31:58.112Z"
                 },
@@ -444,12 +626,25 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "A modern WYSIWYG rich-text editor built on top of tiptap and Quasar for Vue.js. ",
+                    "homepage": "https://donotebase.github.io/quasar-tiptap",
                     "id": 255872593,
                     "language": "JavaScript",
+                    "license": "MIT",
                     "last_commit": "2026-02-06T18:01:18Z",
+                    "open_issues": 48,
                     "owner": "donotebase",
                     "repo": "quasar-tiptap",
-                    "stars": 322
+                    "stars": 322,
+                    "topics": [
+                      "donote",
+                      "quasar",
+                      "quasar-editor",
+                      "rich-text",
+                      "tiptap",
+                      "vue",
+                      "wysiwyg-editor"
+                    ]
                   },
                   "first_seen": "2026-08-28T13:31:58.112Z"
                 },
@@ -460,12 +655,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "QFilterConfigurator App Extension for Quasar",
+                    "homepage": "https://heartbeatlv.github.io/app-extension-q-filter-configurator",
                     "id": 210386171,
                     "language": "Vue",
+                    "license": "MIT",
                     "last_commit": "2023-01-06T07:01:56Z",
+                    "open_issues": 35,
                     "owner": "cirolosapio",
                     "repo": "app-extension-q-filter-configurator",
-                    "stars": 16
+                    "stars": 16,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T13:31:58.112Z"
                 },
@@ -476,12 +676,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "QDatePicker App Extension for Quasar",
+                    "homepage": "https://heartbeatlv.github.io/app-extension-q-date-picker",
                     "id": 209840142,
                     "language": "Vue",
+                    "license": "MIT",
                     "last_commit": "2023-01-06T07:03:10Z",
+                    "open_issues": 34,
                     "owner": "cirolosapio",
                     "repo": "app-extension-q-date-picker",
-                    "stars": 10
+                    "stars": 10,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T13:31:58.112Z"
                 },
@@ -492,12 +697,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "QsSelect App Extension for Quasar ",
+                    "homepage": "https://heartbeatlv.github.io/app-extension-qs-select",
                     "id": 274930313,
                     "language": "Vue",
+                    "license": "MIT",
                     "last_commit": "2023-01-06T09:51:26Z",
+                    "open_issues": 36,
                     "owner": "cirolosapio",
                     "repo": "app-extension-qs-select",
-                    "stars": 7
+                    "stars": 7,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T13:31:58.112Z"
                 },
@@ -508,12 +718,21 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "q-google-map - Quasar app extension to integrate Google Maps https://q-google-map.netlify.app",
+                    "homepage": "https://www.npmjs.com/package/quasar-app-extension-q-google-map",
                     "id": 289625244,
                     "language": "JavaScript",
+                    "license": "MIT",
                     "last_commit": "2022-12-31T22:48:23Z",
+                    "open_issues": 9,
                     "owner": "mayur091193",
                     "repo": "q-google-map",
-                    "stars": 29
+                    "stars": 29,
+                    "topics": [
+                      "app-extension",
+                      "google-maps",
+                      "quasar"
+                    ]
                   },
                   "first_seen": "2026-08-28T13:31:58.112Z"
                 },
@@ -524,12 +743,23 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "An awesome set of beautiful Widgets made with love using Quasar Framework and Vue.js! Give it a star if you find it useful.",
+                    "homepage": "https://quasar-widgets.netlify.app/",
                     "id": 305325949,
                     "language": "JavaScript",
+                    "license": "MIT",
                     "last_commit": "2021-02-02T05:42:36Z",
+                    "open_issues": 0,
                     "owner": "mayank091193",
                     "repo": "quasar-widgets",
-                    "stars": 14
+                    "stars": 14,
+                    "topics": [
+                      "css",
+                      "html",
+                      "quasar-framework",
+                      "vuejs",
+                      "widgets"
+                    ]
                   },
                   "first_seen": "2026-08-28T13:31:58.112Z"
                 },
@@ -540,12 +770,23 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Quasar QTable Crud Rest API",
+                    "homepage": "https://vue-quasar-crud.netlify.app/",
                     "id": 345785441,
                     "language": "Vue",
+                    "license": "MIT",
                     "last_commit": "2021-04-27T23:56:00Z",
+                    "open_issues": 0,
                     "owner": "odranoelBR",
                     "repo": "vue-quasar-crud",
-                    "stars": 18
+                    "stars": 18,
+                    "topics": [
+                      "axios",
+                      "crud",
+                      "quasar-framework",
+                      "rest",
+                      "vuejs"
+                    ]
                   },
                   "first_seen": "2026-08-28T13:31:58.112Z"
                 },
@@ -556,12 +797,24 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Quasar QSelect fetching data with axios.",
+                    "homepage": "https://vue-quasar-select-api.netlify.app/",
                     "id": 362283823,
                     "language": "JavaScript",
+                    "license": "MIT",
                     "last_commit": "2021-05-06T19:43:32Z",
+                    "open_issues": 1,
                     "owner": "odranoelBR",
                     "repo": "vue-quasar-select-api",
-                    "stars": 6
+                    "stars": 6,
+                    "topics": [
+                      "api",
+                      "automatic",
+                      "axios",
+                      "filter",
+                      "select",
+                      "vues"
+                    ]
                   },
                   "first_seen": "2026-08-28T13:31:58.112Z"
                 },
@@ -572,12 +825,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "QStatistic allows you to display data statistically.",
+                    "homepage": "https://quasar-qstatistic.netlify.app/",
                     "id": 546441956,
                     "language": "JavaScript",
+                    "license": "MIT",
                     "last_commit": "2023-11-18T08:13:34Z",
+                    "open_issues": 0,
                     "owner": "Junvary",
                     "repo": "quasar-app-extension-qstatistic",
-                    "stars": 3
+                    "stars": 3,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T13:31:58.112Z"
                 },
@@ -588,12 +846,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "QCascader can be used to display and select tree structured data.",
+                    "homepage": "https://quasar-qcascader.netlify.app/",
                     "id": 546567524,
                     "language": "Vue",
+                    "license": "MIT",
                     "last_commit": "2023-12-02T07:36:33Z",
+                    "open_issues": 0,
                     "owner": "Junvary",
                     "repo": "quasar-app-extension-qcascader",
-                    "stars": 6
+                    "stars": 6,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T13:31:58.112Z"
                 },
@@ -604,12 +867,23 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Static Site Generator App Extension for Quasar.",
+                    "homepage": null,
                     "id": 243010177,
                     "language": "JavaScript",
+                    "license": "MIT",
                     "last_commit": "2026-08-28T03:05:38Z",
+                    "open_issues": 38,
                     "owner": "freddy38510",
                     "repo": "quasar-app-extension-ssg",
-                    "stars": 169
+                    "stars": 169,
+                    "topics": [
+                      "jamstack",
+                      "quasar",
+                      "ssg",
+                      "static-site-generator",
+                      "vue"
+                    ]
                   },
                   "first_seen": "2026-08-28T13:31:58.112Z"
                 },
@@ -620,12 +894,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "A extension giving an easy access to widely used rendering techniques on web in your Quasar.js app.",
+                    "homepage": null,
                     "id": 783398853,
                     "language": "JavaScript",
+                    "license": "MIT",
                     "last_commit": "2025-07-06T20:35:20Z",
+                    "open_issues": 0,
                     "owner": "jirka124",
                     "repo": "quasar-hybrid-render",
-                    "stars": 5
+                    "stars": 5,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T13:31:58.112Z"
                 },
@@ -636,12 +915,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Custom Extra SVG icons for Quasar Framework",
+                    "homepage": null,
                     "id": 948114723,
                     "language": "JavaScript",
+                    "license": "MIT",
                     "last_commit": "2025-03-18T13:05:48Z",
+                    "open_issues": 0,
                     "owner": "vladyslav-mikhieiev",
                     "repo": "quasar-app-extension-custom-extra-icons",
-                    "stars": 3
+                    "stars": 3,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T13:31:58.112Z"
                 }
@@ -668,12 +952,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A sample app to demonstrate Quasar's i18n capabilities",
+            "homepage": null,
             "id": 244903373,
             "language": "Vue",
+            "license": null,
             "last_commit": "2022-12-10T20:26:12Z",
+            "open_issues": 23,
             "owner": "tomers",
             "repo": "quasar-i18n-example",
-            "stars": 1
+            "stars": 1,
+            "topics": []
           },
           "first_seen": "2026-08-28T13:31:58.112Z"
         },
@@ -684,12 +973,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Add multi-lingual support to your quasar projects",
+            "homepage": null,
             "id": 236191727,
             "language": "JavaScript",
+            "license": null,
             "last_commit": "2021-03-10T05:33:13Z",
+            "open_issues": 5,
             "owner": "ejez",
             "repo": "quasarmultilingual",
-            "stars": 8
+            "stars": 8,
+            "topics": []
           },
           "first_seen": "2026-08-28T13:31:58.112Z"
         },
@@ -700,12 +994,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Form Building using drag-and-drop. Uses Quasar Framework and Vue.",
+            "homepage": null,
             "id": 171534492,
             "language": "Vue",
+            "license": "MIT",
             "last_commit": "2023-01-06T01:41:08Z",
+            "open_issues": 26,
             "owner": "baggachipz",
             "repo": "q-form-builder",
-            "stars": 153
+            "stars": 153,
+            "topics": []
           },
           "first_seen": "2026-08-28T13:31:58.112Z"
         },
@@ -716,12 +1015,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Simple and Easy way to create any ReadMe. Make readme in just few clicks!",
+            "homepage": "https://readmepro.netlify.app/",
             "id": 536104421,
             "language": "Vue",
+            "license": null,
             "last_commit": "2022-10-04T09:29:48Z",
+            "open_issues": 0,
             "owner": "mayur091193",
             "repo": "readme-pro",
-            "stars": 58
+            "stars": 58,
+            "topics": [
+              "quasar-framework",
+              "readme",
+              "readme-generator",
+              "readme-profile",
+              "readme-template",
+              "vuejs"
+            ]
           },
           "first_seen": "2026-08-28T13:31:58.112Z"
         },
@@ -732,12 +1043,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Demo Project using Quasar and ECharts 5. https://quasar-echarts-v5.netlify.app/",
+            "homepage": null,
             "id": 229221110,
             "language": "Vue",
+            "license": null,
             "last_commit": "2024-10-03T06:14:42Z",
+            "open_issues": 1,
             "owner": "pratik227",
             "repo": "quasar-echarts",
-            "stars": 97
+            "stars": 97,
+            "topics": [
+              "hacktoberfest",
+              "hacktoberfest2024"
+            ]
           },
           "first_seen": "2026-08-28T13:31:58.112Z"
         },
@@ -748,12 +1067,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Sample app demonstrating usage of geolocation with Quasar Framework",
+            "homepage": null,
             "id": 245279244,
             "language": "Vue",
+            "license": null,
             "last_commit": "2022-12-10T20:37:11Z",
+            "open_issues": 25,
             "owner": "tomers",
             "repo": "quasar-geolocation-example",
-            "stars": 12
+            "stars": 12,
+            "topics": []
           },
           "first_seen": "2026-08-28T13:31:58.112Z"
         },
@@ -764,12 +1088,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Sample application for displaying 3d models",
+            "homepage": "http://quasar3d.surge.sh",
             "id": 239341240,
             "language": "JavaScript",
+            "license": null,
             "last_commit": "2022-12-05T08:04:48Z",
+            "open_issues": 19,
             "owner": "patrickmonteiro",
             "repo": "quasar-3d-model",
-            "stars": 19
+            "stars": 19,
+            "topics": []
           },
           "first_seen": "2026-08-28T13:31:58.112Z"
         },
@@ -780,12 +1109,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "📊 📈 📉 Project using Quasar Framework and ApexCharts.",
+            "homepage": "https://quasar-apexcharts.netlify.app/#/",
             "id": 202029384,
             "language": "Vue",
+            "license": null,
             "last_commit": "2026-02-11T18:08:28Z",
+            "open_issues": 7,
             "owner": "patrickmonteiro",
             "repo": "quasar-apexcharts",
-            "stars": 204
+            "stars": 204,
+            "topics": [
+              "apexcharts",
+              "charts",
+              "hacktoberfest",
+              "javascript",
+              "quasar-framework",
+              "responsive",
+              "vue",
+              "vuejs"
+            ]
           },
           "first_seen": "2026-08-28T13:31:58.112Z"
         },
@@ -796,12 +1139,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "📱📷 Base code for a code reader application:   EAN, CODE 128, CODE 39, EAN 8, UPC-A, UPC-C, I2of5, 2of5, CODE 93 e CODABAR with QuaggaJS and Quasar Framework",
+            "homepage": "https://quasar-barcode-reader.surge.sh/#/",
             "id": 196859169,
             "language": "JavaScript",
+            "license": null,
             "last_commit": "2023-01-04T04:35:09Z",
+            "open_issues": 27,
             "owner": "patrickmonteiro",
             "repo": "quasar-barcode-reader",
-            "stars": 51
+            "stars": 51,
+            "topics": [
+              "barcorde-reader",
+              "javascript",
+              "quasar-framework",
+              "vuejs"
+            ]
           },
           "first_seen": "2026-08-28T13:31:58.112Z"
         },
@@ -812,12 +1165,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": " 📷🔳 A simple QRCode reader and Genarator.",
+            "homepage": "https://quasar-qrcode-reader.netlify.app/#/",
             "id": 197409567,
             "language": "JavaScript",
+            "license": null,
             "last_commit": "2026-01-27T14:48:56Z",
+            "open_issues": 25,
             "owner": "patrickmonteiro",
             "repo": "quasar-qrcode-reader",
-            "stars": 91
+            "stars": 91,
+            "topics": [
+              "javascript",
+              "qrcode",
+              "quasar-framework",
+              "vue"
+            ]
           },
           "first_seen": "2026-08-28T13:31:58.112Z"
         },
@@ -828,12 +1191,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "🎤 🔉 Projeto de um SPA desenvolvido com Quasar Framework 1.0 + Speech API para capturar áudio e transformar em texto, ou utilizar um texto como base para a aplicação emitir um áudio.",
+            "homepage": "https://quasarspeechapi.netlify.app/#/",
             "id": 193531277,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2022-12-05T10:42:23Z",
+            "open_issues": 23,
             "owner": "patrickmonteiro",
             "repo": "quasar-speech-api",
-            "stars": 68
+            "stars": 68,
+            "topics": [
+              "hacktoberfest",
+              "quasar-framework",
+              "speech-recognition",
+              "speech-synthesis",
+              "speech-to-text"
+            ]
           },
           "first_seen": "2026-08-28T13:31:58.112Z"
         },
@@ -844,12 +1218,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "The Advance Input Component for Quasar@v1 is used as single-line input box for date, time, password, color, selete search etc.",
+            "homepage": null,
             "id": 175449319,
             "language": "JavaScript",
+            "license": null,
             "last_commit": "2025-11-18T12:29:23Z",
+            "open_issues": 5,
             "owner": "snowyu",
             "repo": "qinputex",
-            "stars": 12
+            "stars": 12,
+            "topics": [
+              "qinput-component",
+              "quasar"
+            ]
           },
           "first_seen": "2026-08-28T13:31:58.112Z"
         },
@@ -860,12 +1242,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "vscode snippets for quasar-framework",
+            "homepage": "https://marketplace.visualstudio.com/items?itemName=abdelaziz18003.quasar-snippets",
             "id": 153459181,
             "language": null,
+            "license": "MIT",
             "last_commit": "2022-11-30T10:54:53Z",
+            "open_issues": 1,
             "owner": "Abdelaziz18003",
             "repo": "vscode-quasar-snippets",
-            "stars": 41
+            "stars": 41,
+            "topics": [
+              "quasar-framework",
+              "snippets",
+              "vscode"
+            ]
           },
           "first_seen": "2026-08-28T13:31:58.112Z"
         },
@@ -876,12 +1267,35 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Universal Component Intellisense for Any Frameworks",
+            "homepage": "https://marketplace.visualstudio.com/items?itemName=simonhe.common-intellisense",
             "id": 857280044,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2026-07-19T13:12:44Z",
+            "open_issues": 1,
             "owner": "common-intellisense",
             "repo": "common-intellisense",
-            "stars": 100
+            "stars": 100,
+            "topics": [
+              "ant-design",
+              "arco-design",
+              "element-ui",
+              "intellisense",
+              "nextui",
+              "nutui",
+              "nuxtui",
+              "nuxtui-pro",
+              "primevue",
+              "quasar",
+              "radix-ui",
+              "shadcn-ui",
+              "taro-ui",
+              "uview",
+              "uview-plus",
+              "vscode",
+              "vuetify"
+            ]
           },
           "first_seen": "2026-08-28T13:31:58.112Z"
         },
@@ -892,12 +1306,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A Quasar / Vue component for managing Steem beneficiaries",
+            "homepage": null,
             "id": 168814969,
             "language": "Vue",
+            "license": "MIT",
             "last_commit": "2019-02-04T09:47:04Z",
+            "open_issues": 0,
             "owner": "irelandscape",
             "repo": "qv-steem-beneficiaries",
-            "stars": 0
+            "stars": 0,
+            "topics": []
           },
           "first_seen": "2026-08-28T13:31:58.112Z"
         },
@@ -908,12 +1327,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A full event display calendar for the Quasar framework that has multiple viewing formats.",
+            "homepage": null,
             "id": 121135922,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2022-01-17T20:15:52Z",
+            "open_issues": 45,
             "owner": "stormseed",
             "repo": "daykeep-calendar-quasar",
-            "stars": 274
+            "stars": 274,
+            "topics": []
           },
           "first_seen": "2026-08-28T13:31:58.112Z"
         },
@@ -924,12 +1348,38 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": " A complete starter kit that allows you create amazing apps that look native thanks to the Quasar Framework. Powered by an API developed in Laravel Framework using the easy GraphQL queries language. And ready to use the Google Firebase features.",
+            "homepage": "https://laqul.github.io/",
             "id": 132772075,
             "language": "PHP",
+            "license": "MIT",
             "last_commit": "2020-08-16T21:05:41Z",
+            "open_issues": 8,
             "owner": "laqul",
             "repo": "laqul",
-            "stars": 133
+            "stars": 133,
+            "topics": [
+              "api",
+              "api-client",
+              "dashboard",
+              "firebase",
+              "firebase-auth",
+              "firebase-cloud-messaging",
+              "graphql",
+              "javascript",
+              "laravel",
+              "login-system",
+              "mobile-app",
+              "oauth2",
+              "php",
+              "pwa",
+              "quasar-framework",
+              "registration-system",
+              "social-login",
+              "spa",
+              "token-authetication",
+              "user-roles"
+            ]
           },
           "first_seen": "2026-08-28T13:31:58.112Z"
         },
@@ -940,12 +1390,29 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Laravel + Quasar Framework in one place laravel 10.x support",
+            "homepage": "https://packagist.org/packages/laraquasar/laraquasar",
             "id": 602392240,
             "language": "PHP",
+            "license": "Apache-2.0",
             "last_commit": "2024-08-09T06:31:44Z",
+            "open_issues": 5,
             "owner": "laraquasar",
             "repo": "laraquasar",
-            "stars": 60
+            "stars": 60,
+            "topics": [
+              "frontend",
+              "inertiajs",
+              "jsframework",
+              "laravel",
+              "laravel-template",
+              "laravel-ui",
+              "laravel10",
+              "quasar-framework",
+              "vite",
+              "vue",
+              "vuejs"
+            ]
           },
           "first_seen": "2026-08-28T13:31:58.112Z"
         },
@@ -956,12 +1423,23 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Demo Project using Quasar & VueJs.  Shows Vuex,Vuelidate,Axios etc...",
+            "homepage": null,
             "id": 123016140,
             "language": "Vue",
+            "license": "MIT",
             "last_commit": "2018-05-17T13:59:24Z",
+            "open_issues": 1,
             "owner": "mstaack",
             "repo": "quasar-cloud-demo",
-            "stars": 56
+            "stars": 56,
+            "topics": [
+              "axios",
+              "filemanager",
+              "quasar",
+              "vuejs",
+              "vuex"
+            ]
           },
           "first_seen": "2026-08-28T13:31:58.112Z"
         },
@@ -972,12 +1450,17 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "🙃 A delightful community-driven (with 1,300+ contributors) framework for managing your zsh configuration. Includes 200+ optional plugins (rails, git, OSX, hub, capistrano, brew, ant, php, python, etc), over 140 themes to spice up your morning, and an auto-update tool so that makes it easy to keep up with the latest updates from the community.",
+            "homepage": "https://ohmyz.sh/",
             "id": 196552199,
             "language": "Shell",
+            "license": "NOASSERTION",
             "last_commit": "2019-07-29T21:13:39Z",
+            "open_issues": 0,
             "owner": "sajt",
             "repo": "oh-my-zsh",
-            "stars": 2
+            "stars": 2,
+            "topics": []
           },
           "first_seen": "2026-08-28T13:31:58.112Z"
         },
@@ -988,12 +1471,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 238054140,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2021-05-03T18:41:37Z",
+            "open_issues": 0,
             "owner": "RobertoLangarica",
             "repo": "quasar-app-extension-api-wrapper",
-            "stars": 42
+            "stars": 42,
+            "topics": []
           },
           "first_seen": "2026-08-28T13:31:58.112Z"
         },
@@ -1004,12 +1492,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A repo collection for all devops stuff to quickly test and deploy quasar framework apps of all modes and platforms.",
+            "homepage": null,
             "id": 272867003,
             "language": "Dockerfile",
+            "license": "MIT",
             "last_commit": "2024-11-24T15:53:21Z",
+            "open_issues": 4,
             "owner": "Qoyyuum",
             "repo": "quasar-devops",
-            "stars": 36
+            "stars": 36,
+            "topics": [
+              "cd",
+              "ci",
+              "devops",
+              "kubernetes",
+              "quasar-framework"
+            ]
           },
           "first_seen": "2026-08-28T13:31:58.112Z"
         },
@@ -1020,12 +1519,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Quasar starter template used to quickly set up bare application frame which is allowing you to focus more on the core features.",
+            "homepage": null,
             "id": 429375835,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2023-07-28T07:45:15Z",
+            "open_issues": 6,
             "owner": "MilosPaunovic",
             "repo": "quasar-v1-starter",
-            "stars": 10
+            "stars": 10,
+            "topics": [
+              "axios",
+              "cypress",
+              "quasar",
+              "sentry",
+              "vue"
+            ]
           },
           "first_seen": "2026-08-28T13:31:58.112Z"
         },
@@ -1036,12 +1546,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Quasar starter template used to quickly set up bare application frame which is allowing you to focus more on the core features.",
+            "homepage": null,
             "id": 548329019,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2023-07-19T23:44:56Z",
+            "open_issues": 3,
             "owner": "MilosPaunovic",
             "repo": "quasar-v2-starter",
-            "stars": 12
+            "stars": 12,
+            "topics": [
+              "axios",
+              "quasar",
+              "sentry",
+              "vue"
+            ]
           },
           "first_seen": "2026-08-28T13:31:58.112Z"
         },
@@ -1052,12 +1572,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Capacitor plugin for Instant updates: Ship updates, fixes, changes, and features within minutes",
+            "homepage": "https://capgo.app/docs/plugins/updater/",
             "id": 420741081,
             "language": "Java",
+            "license": "MPL-2.0",
             "last_commit": "2026-08-26T10:08:23Z",
+            "open_issues": 8,
             "owner": "Cap-go",
             "repo": "capacitor-updater",
-            "stars": 833
+            "stars": 834,
+            "topics": [
+              "android",
+              "capacitor",
+              "capacitor-plugin",
+              "cordova",
+              "hot-reload",
+              "ionic",
+              "ios",
+              "typescript"
+            ]
           },
           "first_seen": "2026-08-28T13:31:58.112Z"
         },
@@ -1068,12 +1602,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Boilerplate project for Quasar 2 implementing Firebase Auth and Storage.  ",
+            "homepage": null,
             "id": 394989156,
             "language": "Vue",
+            "license": null,
             "last_commit": "2021-08-30T13:26:24Z",
+            "open_issues": 0,
             "owner": "VicVibesPL",
             "repo": "quasar2-firebase-auth",
-            "stars": 4
+            "stars": 4,
+            "topics": []
           },
           "first_seen": "2026-08-28T13:31:58.112Z"
         },
@@ -1084,12 +1623,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "High level components for Quasar framework",
+            "homepage": null,
             "id": 558785180,
             "language": "Vue",
+            "license": "MIT",
             "last_commit": "2026-08-13T14:00:19Z",
+            "open_issues": 0,
             "owner": "simsustech",
             "repo": "quasar-components",
-            "stars": 0
+            "stars": 0,
+            "topics": []
           },
           "first_seen": "2026-08-28T13:31:58.112Z"
         },
@@ -1100,12 +1644,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "UnoCSS preset for Quasar Framework",
+            "homepage": null,
             "id": 959152561,
             "language": "Vue",
+            "license": "MIT",
             "last_commit": "2026-08-24T09:44:41Z",
+            "open_issues": 2,
             "owner": "simsustech",
             "repo": "unocss-preset-quasar",
-            "stars": 30
+            "stars": 30,
+            "topics": []
           },
           "first_seen": "2026-08-28T13:31:58.112Z"
         },
@@ -1116,12 +1665,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Zova: The Intuitive Frontend Framework = Vue3 Reactive + React TSX + Angular IOC",
+            "homepage": "https://docs.cabloy.com",
             "id": 787670728,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2026-06-13T02:25:25Z",
+            "open_issues": 0,
             "owner": "zovajs",
             "repo": "zova",
-            "stars": 125
+            "stars": 125,
+            "topics": [
+              "ioc",
+              "ssr",
+              "tsx",
+              "typescript",
+              "vue3"
+            ]
           },
           "first_seen": "2026-08-28T13:31:58.112Z"
         },
@@ -1132,12 +1692,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Vue JS 3 + Typescript + Quasar 2 Starter template + Docker",
+            "homepage": "https://quasar-starter-template.vercel.app/",
             "id": 490661750,
             "language": "Vue",
+            "license": null,
             "last_commit": "2026-07-15T08:32:30Z",
+            "open_issues": 0,
             "owner": "bekaku",
             "repo": "quasar-starter-template",
-            "stars": 82
+            "stars": 82,
+            "topics": [
+              "quasar",
+              "ssr",
+              "typescript",
+              "vue"
+            ]
           },
           "first_seen": "2026-08-28T13:31:58.112Z"
         }
@@ -1154,12 +1724,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Free Quasar Admin Template based on Vue.js and used Quasar Framework. ",
+            "homepage": "https://next-quasar-admin.netlify.app/",
             "id": 247474417,
             "language": "Vue",
+            "license": "MIT",
             "last_commit": "2026-07-28T12:10:20Z",
+            "open_issues": 0,
             "owner": "pratik227",
             "repo": "quasar-admin",
-            "stars": 862
+            "stars": 862,
+            "topics": [
+              "vue",
+              "vuejs"
+            ]
           },
           "first_seen": "2026-08-28T13:31:58.112Z"
         },
@@ -1170,12 +1748,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Featuring beautiful Quasar template",
+            "homepage": "https://quasar-template.netlify.app/",
             "id": 495269500,
             "language": "Vue",
+            "license": null,
             "last_commit": "2025-06-29T12:58:51Z",
+            "open_issues": 0,
             "owner": "mohitransubhe-supernatural",
             "repo": "quasar-template",
-            "stars": 21
+            "stars": 21,
+            "topics": [
+              "css",
+              "dashboard",
+              "javascript",
+              "quasar-framework",
+              "vue3",
+              "vuejs"
+            ]
           },
           "first_seen": "2026-08-28T13:31:58.112Z"
         },
@@ -1186,12 +1776,35 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "GPT chat extension for Chrome, Edge, and Opera. Direct integration with search results. Full chat interface with history management. No server needed & cost effective.",
+            "homepage": null,
             "id": 614251595,
             "language": "Vue",
+            "license": null,
             "last_commit": "2026-02-15T16:27:09Z",
+            "open_issues": 3,
             "owner": "robert-hoffmann",
             "repo": "PowerToys4OpenAI",
-            "stars": 43
+            "stars": 43,
+            "topics": [
+              "ai",
+              "browser-extension",
+              "chatbot",
+              "chatgpt-api",
+              "chrome-extension",
+              "gpt-3",
+              "gpt-3-5-turbo",
+              "gpt-4",
+              "gpt3",
+              "gpt4",
+              "openai",
+              "openai-api",
+              "quasar",
+              "quasar-framework",
+              "typescript",
+              "vue3",
+              "vuejs"
+            ]
           },
           "first_seen": "2026-08-28T13:31:58.112Z"
         },
@@ -1202,12 +1815,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Simple and Easy way to create any ReadMe. Make readme in just few clicks!",
+            "homepage": "https://readmepro.netlify.app/",
             "id": 536104421,
             "language": "Vue",
+            "license": null,
             "last_commit": "2022-10-04T09:29:48Z",
+            "open_issues": 0,
             "owner": "mayur091193",
             "repo": "readme-pro",
-            "stars": 58
+            "stars": 58,
+            "topics": [
+              "quasar-framework",
+              "readme",
+              "readme-generator",
+              "readme-profile",
+              "readme-template",
+              "vuejs"
+            ]
           },
           "first_seen": "2026-08-28T13:31:58.112Z"
         },
@@ -1218,12 +1843,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Pomodoro app that rewards with luck wheel after pomodoro sessions",
+            "homepage": "https://emingenc.github.io/tomatodo",
             "id": 391398138,
             "language": "Vue",
+            "license": "MIT",
             "last_commit": "2021-12-19T21:21:21Z",
+            "open_issues": 7,
             "owner": "emingenc",
             "repo": "tomatodo",
-            "stars": 11
+            "stars": 11,
+            "topics": []
           },
           "first_seen": "2026-08-28T13:31:58.112Z"
         },
@@ -1234,12 +1864,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "This Inventory management system is the currently Ford Asia Pacific after-sales logistics warehousing supply chain process . After I leave Ford , I start this project . In order to help some who need it .  OneAPP Type . Support scanner PDA, mobile APP, desktop exe, website as well .",
+            "homepage": "https://www.56yhz.com/",
             "id": 597262493,
             "language": null,
+            "license": "Apache-2.0",
             "last_commit": "2023-02-04T02:02:01Z",
+            "open_issues": 0,
             "owner": "Singosgu",
             "repo": "GreaterWMS",
-            "stars": 78
+            "stars": 78,
+            "topics": []
           },
           "first_seen": "2026-08-28T13:31:58.112Z"
         },
@@ -1250,12 +1885,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Free Quasar Gaming Template based on Vue js and Quasar Framework.",
+            "homepage": "https://quasar-gaming.netlify.app/",
             "id": 281118305,
             "language": "Vue",
+            "license": "MIT",
             "last_commit": "2023-05-03T09:41:26Z",
+            "open_issues": 0,
             "owner": "pratik227",
             "repo": "quasar-gaming",
-            "stars": 23
+            "stars": 23,
+            "topics": [
+              "hacktoberfest",
+              "hacktoberfest2023"
+            ]
           },
           "first_seen": "2026-08-28T13:31:58.112Z"
         },
@@ -1266,12 +1909,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Kudos - Company profile website made using Vue.js and Quasar Framework",
+            "homepage": "https://quasar-company-profile-template.netlify.app/",
             "id": 260669714,
             "language": "Vue",
+            "license": "MIT",
             "last_commit": "2024-03-26T08:54:21Z",
+            "open_issues": 3,
             "owner": "mayank091193",
             "repo": "vue-quasar-company-profile-website",
-            "stars": 223
+            "stars": 223,
+            "topics": [
+              "company-profile",
+              "javascript",
+              "portfolio",
+              "quasar-framework",
+              "vuejs"
+            ]
           },
           "first_seen": "2026-08-28T13:31:58.112Z"
         },
@@ -1282,12 +1936,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A simple application to track expenses and split bills.",
+            "homepage": null,
             "id": 251601097,
             "language": "Vue",
+            "license": null,
             "last_commit": "2026-04-15T18:59:42Z",
+            "open_issues": 12,
             "owner": "rbretecher",
             "repo": "expense-tracker",
-            "stars": 16
+            "stars": 16,
+            "topics": []
           },
           "first_seen": "2026-08-28T13:31:58.112Z"
         },
@@ -1298,12 +1957,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Quasar Scrum - Free Project Management Template - Agile process framework for managing complex tasks",
+            "homepage": "https://quasar-scrum.netlify.com/",
             "id": 252371016,
             "language": "Vue",
+            "license": "MIT",
             "last_commit": "2023-02-04T03:29:10Z",
+            "open_issues": 8,
             "owner": "mayank091193",
             "repo": "quasar-scrum",
-            "stars": 77
+            "stars": 77,
+            "topics": [
+              "dashboard",
+              "draggable",
+              "quasar-framework",
+              "quasar-scrum",
+              "scrum",
+              "scrum-agile",
+              "taskboard",
+              "vuejs"
+            ]
           },
           "first_seen": "2026-08-28T13:31:58.112Z"
         },
@@ -1314,12 +1987,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Free Quasar Admin Template based on Vue.js and used Quasar Framework. ",
+            "homepage": "https://next-quasar-admin.netlify.app/",
             "id": 247474417,
             "language": "Vue",
+            "license": "MIT",
             "last_commit": "2026-07-28T12:10:20Z",
+            "open_issues": 0,
             "owner": "pratik227",
             "repo": "quasar-admin",
-            "stars": 862
+            "stars": 862,
+            "topics": [
+              "vue",
+              "vuejs"
+            ]
           },
           "first_seen": "2026-08-28T13:31:58.112Z"
         },
@@ -1330,12 +2011,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Free and Open source eCommerce UI template written in Vue.js/Quasar",
+            "homepage": "https://quasar-shopping.netlify.com",
             "id": 241942854,
             "language": "Vue",
+            "license": "MIT",
             "last_commit": "2023-03-06T20:48:47Z",
+            "open_issues": 17,
             "owner": "mayur091193",
             "repo": "quasar-shopping",
-            "stars": 105
+            "stars": 105,
+            "topics": []
           },
           "first_seen": "2026-08-28T13:31:58.112Z"
         },
@@ -1346,12 +2032,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Quasar CRM Admin | VueJS Admin | Featuring 3 different dashboards | Give it a star if you find it useful.",
+            "homepage": "https://quasar-admin-crm-template.netlify.app/",
             "id": 240061733,
             "language": "Vue",
+            "license": "MIT",
             "last_commit": "2023-01-05T12:32:31Z",
+            "open_issues": 7,
             "owner": "mayank091193",
             "repo": "quasar-admin-crm",
-            "stars": 461
+            "stars": 461,
+            "topics": [
+              "crm",
+              "css",
+              "dashboard",
+              "javascript",
+              "profile",
+              "quasar-admin-crm",
+              "quasar-framework",
+              "vuejs"
+            ]
           },
           "first_seen": "2026-08-28T13:31:58.112Z"
         },
@@ -1362,12 +2062,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "My Profile | Made using Quasar Framework and Vue.js",
+            "homepage": "https://mayank-patel.netlify.app/#/",
             "id": 269008030,
             "language": "Vue",
+            "license": "MIT",
             "last_commit": "2026-02-04T04:31:19Z",
+            "open_issues": 10,
             "owner": "mayank091193",
             "repo": "mayank-profile",
-            "stars": 27
+            "stars": 27,
+            "topics": [
+              "confetti-animation",
+              "css",
+              "html",
+              "profile",
+              "quasar-framework",
+              "vuejs"
+            ]
           },
           "first_seen": "2026-08-28T13:31:58.112Z"
         },
@@ -1378,12 +2090,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "This project adopts a highly optimized hybrid programming paradigm, aiming to combine the structural benefits of Class syntax with the flexibility of the Composition API, ensuring maintainability and clarity in complex projects.",
+            "homepage": "https://dirkhe1051931999.github.io/v3-admin",
             "id": 283998058,
             "language": "Vue",
+            "license": null,
             "last_commit": "2026-06-18T09:15:27Z",
+            "open_issues": 1,
             "owner": "dirkhe1051931999",
             "repo": "quasar-typescript-admin-template",
-            "stars": 162
+            "stars": 162,
+            "topics": [
+              "quasar-admin",
+              "quasar-framework",
+              "spa",
+              "typescript",
+              "vue2",
+              "vue3"
+            ]
           },
           "first_seen": "2026-08-28T13:31:58.112Z"
         },
@@ -1394,12 +2118,19 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": null,
+            "homepage": null,
             "id": 163286337,
             "language": "Dart",
+            "license": null,
             "last_commit": "2024-11-27T10:42:29Z",
+            "open_issues": 4,
             "owner": "hugetiny",
             "repo": "webox",
-            "stars": 369
+            "stars": 369,
+            "topics": [
+              "dev"
+            ]
           },
           "first_seen": "2026-08-28T13:31:58.112Z"
         },
@@ -1410,12 +2141,28 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A distraction-free tool for novelists and writers",
+            "homepage": "https://zuck.github.io/alighieri/",
             "id": 100827370,
             "language": "Vue",
+            "license": "MIT",
             "last_commit": "2026-02-18T04:23:05Z",
+            "open_issues": 15,
             "owner": "zuck",
             "repo": "alighieri",
-            "stars": 133
+            "stars": 133,
+            "topics": [
+              "distraction-free",
+              "editor",
+              "novelist",
+              "quasar",
+              "quasar-framework",
+              "vuejs",
+              "writer",
+              "writing",
+              "writing-application",
+              "writing-software"
+            ]
           },
           "first_seen": "2026-08-28T13:31:58.112Z"
         },
@@ -1426,12 +2173,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Open Source platform to gather, expose and make use of weather forecast data",
+            "homepage": "https://weacast.github.io/weacast/",
             "id": 472423651,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2026-03-20T19:04:04Z",
+            "open_issues": 39,
             "owner": "weacast",
             "repo": "weacast",
-            "stars": 28
+            "stars": 28,
+            "topics": []
           },
           "first_seen": "2026-08-28T13:31:58.112Z"
         },
@@ -1442,12 +2194,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "An app for consulting price of crypto currencies, built with Quasar Framework",
+            "homepage": null,
             "id": 115567226,
             "language": "JavaScript",
+            "license": null,
             "last_commit": "2018-01-18T21:59:20Z",
+            "open_issues": 0,
             "owner": "lmfresneda",
             "repo": "crypto-price",
-            "stars": 10
+            "stars": 10,
+            "topics": [
+              "android",
+              "hybrid-apps",
+              "javascript",
+              "quasar-framework",
+              "vuejs",
+              "vuejs2"
+            ]
           },
           "first_seen": "2026-08-28T13:31:58.112Z"
         },
@@ -1458,12 +2222,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "[WIP]SHUHelper-校园助手",
+            "homepage": "https://cloud.shuosc.com/shuhelper/",
             "id": 67186502,
             "language": null,
+            "license": "GPL-3.0",
             "last_commit": "2020-08-19T20:05:59Z",
+            "open_issues": 8,
             "owner": "shuosc",
             "repo": "SHUhelper",
-            "stars": 112
+            "stars": 112,
+            "topics": [
+              "golang",
+              "vue"
+            ]
           },
           "first_seen": "2026-08-28T13:31:58.112Z"
         },
@@ -1474,12 +2246,23 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "We migrated to https://codeberg.org/karrot/karrot-frontend",
+            "homepage": "https://codeberg.org/karrot/karrot-frontend",
             "id": 63887706,
             "language": null,
+            "license": null,
             "last_commit": "2024-05-20T16:29:02Z",
+            "open_issues": 2,
             "owner": "karrot-dev",
             "repo": "karrot-frontend",
-            "stars": 436
+            "stars": 436,
+            "topics": [
+              "community",
+              "food",
+              "grassroots",
+              "organization",
+              "social"
+            ]
           },
           "first_seen": "2026-08-28T13:31:58.112Z"
         },
@@ -1490,12 +2273,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Sample onvif-nvt application using Profile S (PTZ), Sockets, Vue and Quasar.",
+            "homepage": null,
             "id": 121765064,
             "language": "Vue",
+            "license": "MIT",
             "last_commit": "2025-07-14T02:53:12Z",
+            "open_issues": 8,
             "owner": "hawkeye64",
             "repo": "onvif-nvt-snapshot-vue-sample",
-            "stars": 27
+            "stars": 27,
+            "topics": []
           },
           "first_seen": "2026-08-28T13:31:58.112Z"
         },
@@ -1506,12 +2294,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A simple and efficient To Do Lists generator.",
+            "homepage": null,
             "id": 90893845,
             "language": "JavaScript",
+            "license": null,
             "last_commit": "2017-05-15T00:16:53Z",
+            "open_issues": 0,
             "owner": "sergiuwd",
             "repo": "Taskista",
-            "stars": 7
+            "stars": 7,
+            "topics": []
           },
           "first_seen": "2026-08-28T13:31:58.112Z"
         },
@@ -1522,12 +2315,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Charging stations viewer hybrid app",
+            "homepage": null,
             "id": 115428415,
             "language": "JavaScript",
+            "license": null,
             "last_commit": "2020-07-23T10:54:37Z",
+            "open_issues": 2,
             "owner": "nestebe",
             "repo": "charging-stations-tracker",
-            "stars": 6
+            "stars": 6,
+            "topics": [
+              "chargingstation",
+              "quasar-framework",
+              "vue",
+              "vuejs"
+            ]
           },
           "first_seen": "2026-08-28T13:31:58.112Z"
         },
@@ -1538,12 +2341,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A chatbot for openHAB using machine-learning natural language processing from OpenNLP",
+            "homepage": null,
             "id": 153270765,
             "language": "Java",
+            "license": "EPL-1.0",
             "last_commit": "2019-02-08T12:35:55Z",
+            "open_issues": 0,
             "owner": "ghys",
             "repo": "habot",
-            "stars": 15
+            "stars": 15,
+            "topics": []
           },
           "first_seen": "2026-08-28T13:31:58.112Z"
         },
@@ -1554,12 +2362,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Quasar app with The Movie DB catalog ",
+            "homepage": "https://codingstones.github.io/tmdb-quasar",
             "id": 112670220,
             "language": "JavaScript",
+            "license": null,
             "last_commit": "2017-12-22T22:15:58Z",
+            "open_issues": 1,
             "owner": "codingstones",
             "repo": "tmdb-quasar",
-            "stars": 28
+            "stars": 28,
+            "topics": []
           },
           "first_seen": "2026-08-28T13:31:58.112Z"
         },
@@ -1570,12 +2383,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 110216204,
             "language": "JavaScript",
+            "license": null,
             "last_commit": "2022-12-22T04:55:43Z",
+            "open_issues": 5,
             "owner": "Vishwas1",
             "repo": "voting-daap-2017",
-            "stars": 25
+            "stars": 25,
+            "topics": []
           },
           "first_seen": "2026-08-28T13:31:58.112Z"
         },
@@ -1586,12 +2404,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Working Demo of Barcode/QR code scanner using VueJs+Quasaar+Cordova",
+            "homepage": null,
             "id": 97591144,
             "language": "Vue",
+            "license": null,
             "last_commit": "2018-07-29T14:26:59Z",
+            "open_issues": 3,
             "owner": "vikramIde",
             "repo": "stock_scan1",
-            "stars": 45
+            "stars": 45,
+            "topics": [
+              "checkins",
+              "mobile-app",
+              "offline-mode",
+              "scanner",
+              "sync",
+              "warehouse"
+            ]
           },
           "first_seen": "2026-08-28T13:31:58.112Z"
         },
@@ -1602,12 +2432,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Job scheduler designed for use in a docker container.",
+            "homepage": null,
             "id": 119206810,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2023-11-24T08:07:59Z",
+            "open_issues": 21,
             "owner": "rmetcalf9",
             "repo": "dockJob",
-            "stars": 21
+            "stars": 21,
+            "topics": []
           },
           "first_seen": "2026-08-28T13:31:58.112Z"
         },
@@ -1618,12 +2453,22 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "📋 Vuenote is the simplest note app",
+            "homepage": "https://exng.github.io/vuenote",
             "id": 120623210,
             "language": "Vue",
+            "license": "MIT",
             "last_commit": "2018-08-05T08:35:21Z",
+            "open_issues": 0,
             "owner": "ExNG",
             "repo": "vuenote",
-            "stars": 10
+            "stars": 10,
+            "topics": [
+              "electron",
+              "javascript",
+              "quasar-framework",
+              "vue"
+            ]
           },
           "first_seen": "2026-08-28T13:31:58.112Z"
         },
@@ -1634,12 +2479,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Starter kit for new RealWorld framework implementations",
+            "homepage": "https://realworld.io",
             "id": 117684916,
             "language": "Vue",
+            "license": null,
             "last_commit": "2018-05-11T14:37:18Z",
+            "open_issues": 0,
             "owner": "geoidesic",
             "repo": "realworld-quasar",
-            "stars": 17
+            "stars": 17,
+            "topics": []
           },
           "first_seen": "2026-08-28T13:31:58.112Z"
         },
@@ -1650,12 +2500,31 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Vue 2.0 admin-dashboard based on Quasar-Framework",
+            "homepage": "http://jaycewu.coding.me/vue-quasar-admin",
             "id": 133745808,
             "language": "Vue",
+            "license": "MIT",
             "last_commit": "2023-01-04T04:31:52Z",
+            "open_issues": 23,
             "owner": "wjkang",
             "repo": "vue-quasar-admin",
-            "stars": 581
+            "stars": 581,
+            "topics": [
+              "access-control",
+              "admin",
+              "admin-dashboard",
+              "admin-template",
+              "axios",
+              "quasar-admin",
+              "quasar-framework",
+              "rbac",
+              "vue-admin",
+              "vue-router",
+              "vue2",
+              "vuex",
+              "webpack2"
+            ]
           },
           "first_seen": "2026-08-28T13:31:58.112Z"
         },
@@ -1666,12 +2535,33 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A documentation rendering engine built with Vue 3, Quasar v2 and Vite with AI features.",
+            "homepage": "https://docsector.com",
             "id": 134342479,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2026-08-03T17:44:21Z",
+            "open_issues": 6,
             "owner": "docsector",
             "repo": "docsector-reader",
-            "stars": 21
+            "stars": 21,
+            "topics": [
+              "ai",
+              "ai-friendly",
+              "ai-tools",
+              "anchor-navigation",
+              "builder",
+              "documentation",
+              "examples",
+              "guide",
+              "mcp",
+              "mcp-server",
+              "quasar",
+              "quasar-framework",
+              "quasar-play",
+              "showcase",
+              "source-code"
+            ]
           },
           "first_seen": "2026-08-28T13:31:58.112Z"
         },
@@ -1682,12 +2572,19 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Ethereum based Dapp POS register",
+            "homepage": null,
             "id": 134941785,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2025-03-08T14:21:19Z",
+            "open_issues": 13,
             "owner": "Dappos",
             "repo": "Dappos",
-            "stars": 39
+            "stars": 39,
+            "topics": [
+              "ethereum"
+            ]
           },
           "first_seen": "2026-08-28T13:31:58.112Z"
         },
@@ -1698,12 +2595,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Hypersign is a cryptography based SingleSignOn Solution",
+            "homepage": "https://www.youtube.com/watch?v=Slhwunm4oT0",
             "id": 161156057,
             "language": "Vue",
+            "license": null,
             "last_commit": "2022-12-09T00:33:16Z",
+            "open_issues": 16,
             "owner": "vikramIde",
             "repo": "hypersign-mobile",
-            "stars": 5
+            "stars": 5,
+            "topics": [
+              "blockchain",
+              "security"
+            ]
           },
           "first_seen": "2026-08-28T13:31:58.112Z"
         },
@@ -1714,12 +2619,30 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Desktop Anwendung zum Erstellen von Schild-Reports. Installationsdateien unter 'releases'.",
+            "homepage": null,
             "id": 137659020,
             "language": "Svelte",
+            "license": "MIT",
             "last_commit": "2023-02-03T04:59:03Z",
+            "open_issues": 6,
             "owner": "schild-report",
             "repo": "schild.report",
-            "stars": 9
+            "stars": 9,
+            "topics": [
+              "dokument",
+              "electron",
+              "nrw",
+              "pdf",
+              "reporting",
+              "reporting-engine",
+              "reporting-tool",
+              "schild",
+              "schule",
+              "svelte",
+              "svelte-components",
+              "zeugnisse"
+            ]
           },
           "first_seen": "2026-08-28T13:31:58.112Z"
         },
@@ -1730,12 +2653,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "P4wnP1 A.L.O.A. by MaMe82 is a framework which turns a Rapsberry Pi Zero W into a flexible, low-cost platform for pentesting, red teaming and physical engagements ... or into \"A Little Offensive Appliance\".",
+            "homepage": null,
             "id": 131320370,
             "language": "JavaScript",
+            "license": "GPL-3.0",
             "last_commit": "2023-10-26T09:01:24Z",
+            "open_issues": 210,
             "owner": "RoganDawes",
             "repo": "P4wnP1_aloa",
-            "stars": 4423
+            "stars": 4424,
+            "topics": []
           },
           "first_seen": "2026-08-28T13:31:58.112Z"
         },
@@ -1746,12 +2674,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A (PWA) assistant application for ledger-cli",
+            "homepage": null,
             "id": 522917234,
             "language": "Vue",
+            "license": "GPL-3.0",
             "last_commit": "2024-12-18T14:32:31Z",
+            "open_issues": 1,
             "owner": "alensiljak",
             "repo": "cashier",
-            "stars": 37
+            "stars": 37,
+            "topics": []
           },
           "first_seen": "2026-08-28T13:31:58.112Z"
         },
@@ -1762,12 +2695,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Desktop wallpaper manager build with Quasar",
+            "homepage": null,
             "id": 190929298,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2021-08-03T03:20:50Z",
+            "open_issues": 28,
             "owner": "siamx",
             "repo": "exorcism",
-            "stars": 5
+            "stars": 5,
+            "topics": [
+              "electron",
+              "quasar-framework",
+              "vuejs"
+            ]
           },
           "first_seen": "2026-08-28T13:31:58.112Z"
         },
@@ -1778,12 +2720,37 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "SunEngine – site engine with blog, forum and articles sections features support.",
+            "homepage": null,
             "id": 165876092,
             "language": "C#",
+            "license": "NOASSERTION",
             "last_commit": "2023-11-15T16:55:32Z",
+            "open_issues": 5,
             "owner": "sunengine",
             "repo": "SunEngine",
-            "stars": 163
+            "stars": 163,
+            "topics": [
+              "articles",
+              "asp-net-core",
+              "blog",
+              "blog-engine",
+              "cms",
+              "csharp",
+              "dotnet",
+              "forum",
+              "forum-engine",
+              "high-performance",
+              "high-quality",
+              "high-security",
+              "javascript",
+              "portal-engine",
+              "quasar-framework",
+              "site-engine",
+              "spa",
+              "sunengine",
+              "vuejs"
+            ]
           },
           "first_seen": "2026-08-28T13:31:58.112Z"
         },
@@ -1794,12 +2761,30 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Self-hosted application to manage project reporting.",
+            "homepage": null,
             "id": 163708611,
             "language": "Vue",
+            "license": "NOASSERTION",
             "last_commit": "2025-07-29T09:32:57Z",
+            "open_issues": 30,
             "owner": "valasek",
             "repo": "timesheet",
-            "stars": 171
+            "stars": 171,
+            "topics": [
+              "consultant",
+              "gin-gonic",
+              "golang",
+              "hours-reporting",
+              "quasar",
+              "quasar-framework",
+              "reporting",
+              "reporting-tool",
+              "self-hosted",
+              "timesheet",
+              "timesheets",
+              "vue"
+            ]
           },
           "first_seen": "2026-08-28T13:31:58.112Z"
         },
@@ -1810,12 +2795,29 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": ":sparkles: Open-source Web platform built on top of Stelace backend Search, Automation and Real-Time APIs. Empowering super heroes in NYC.",
+            "homepage": null,
             "id": 193633689,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2024-01-23T08:27:18Z",
+            "open_issues": 3,
             "owner": "stelace",
             "repo": "heroes-platform-demo",
-            "stars": 17
+            "stars": 17,
+            "topics": [
+              "api",
+              "automation",
+              "jamstack",
+              "marketplace",
+              "platform",
+              "quasar",
+              "real-time",
+              "search",
+              "serverless",
+              "stelace-api",
+              "vue"
+            ]
           },
           "first_seen": "2026-08-28T13:31:58.112Z"
         },
@@ -1826,12 +2828,27 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "基于 GitHub API 的博客工具，尽情享受 GitHub Issue 带来的便利吧。",
+            "homepage": "https://ttop5.net/issue-blog",
             "id": 196179837,
             "language": "Vue",
+            "license": "MIT",
             "last_commit": "2023-12-26T12:12:44Z",
+            "open_issues": 10,
             "owner": "ttop5",
             "repo": "issue-blog",
-            "stars": 46
+            "stars": 46,
+            "topics": [
+              "blog",
+              "github",
+              "github-issue",
+              "issue",
+              "issue-blog",
+              "quasar",
+              "quasar-framework",
+              "tool",
+              "vue"
+            ]
           },
           "first_seen": "2026-08-28T13:31:58.112Z"
         },
@@ -1842,12 +2859,17 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Convert Vue HTML syntax to Pug.",
+            "homepage": "https://vugify.netlify.com",
             "id": 197433371,
             "language": "JavaScript",
+            "license": null,
             "last_commit": "2022-12-09T18:43:14Z",
+            "open_issues": 24,
             "owner": "blaconix",
             "repo": "vugify",
-            "stars": 7
+            "stars": 7,
+            "topics": []
           },
           "first_seen": "2026-08-28T13:31:58.112Z"
         },
@@ -1858,12 +2880,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Powerful UI for your Gist snippets stored on GitHub.",
+            "homepage": "https://gistlike.pro",
             "id": 216216253,
             "language": "Vue",
+            "license": "MIT",
             "last_commit": "2019-11-06T08:06:15Z",
+            "open_issues": 0,
             "owner": "mallgroup",
             "repo": "mal-gistor",
-            "stars": 5
+            "stars": 5,
+            "topics": []
           },
           "first_seen": "2026-08-28T13:31:58.112Z"
         },
@@ -1874,12 +2901,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "PWA for generating passwords while providing detailed information on how strong it is.",
+            "homepage": null,
             "id": 168633517,
             "language": "Vue",
+            "license": null,
             "last_commit": "2022-12-04T17:19:33Z",
+            "open_issues": 23,
             "owner": "silentsilas",
             "repo": "Privy",
-            "stars": 4
+            "stars": 4,
+            "topics": []
           },
           "first_seen": "2026-08-28T13:31:58.112Z"
         },
@@ -1890,12 +2922,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "MicroIoT物联网平台管理工具。https://www.microiot.top/studio",
+            "homepage": null,
             "id": 214786238,
             "language": "Vue",
+            "license": "MIT",
             "last_commit": "2023-11-12T01:53:32Z",
+            "open_issues": 1,
             "owner": "MicroIoT",
             "repo": "studio",
-            "stars": 21
+            "stars": 21,
+            "topics": [
+              "iot",
+              "microiot",
+              "vue"
+            ]
           },
           "first_seen": "2026-08-28T13:31:58.112Z"
         },
@@ -1906,12 +2947,31 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A Technology for Rest API Documentation :computer: :scroll: \"Dockerized\"",
+            "homepage": "https://hub.docker.com/r/joaomede/apidoc",
             "id": 230288627,
             "language": "Vue",
+            "license": "MIT",
             "last_commit": "2023-06-22T13:03:27Z",
+            "open_issues": 9,
             "owner": "joaomede",
             "repo": "Api-Doc",
-            "stars": 15
+            "stars": 15,
+            "topics": [
+              "api",
+              "client-electron",
+              "docker",
+              "docker-compose",
+              "documentation",
+              "documentation-tool",
+              "express",
+              "quasar",
+              "quasar-framework",
+              "register",
+              "rest",
+              "rest-api",
+              "vuejs"
+            ]
           },
           "first_seen": "2026-08-28T13:31:58.112Z"
         },
@@ -1922,12 +2982,17 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Browser Extension to Clean Website ADs in Quasar BEX",
+            "homepage": "https://www.cnblogs.com/farwish/p/12148808.html",
             "id": 231672278,
             "language": "JavaScript",
+            "license": "Apache-2.0",
             "last_commit": "2021-08-31T17:56:14Z",
+            "open_issues": 6,
             "owner": "farwish",
             "repo": "quacker",
-            "stars": 3
+            "stars": 3,
+            "topics": []
           },
           "first_seen": "2026-08-28T13:31:58.112Z"
         },
@@ -1938,12 +3003,33 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Dashblocks Vue Material Admin Template",
+            "homepage": "https://slanatech.github.io/dashblocks-template",
             "id": 190475750,
             "language": "Vue",
+            "license": "MIT",
             "last_commit": "2023-06-01T18:52:00Z",
+            "open_issues": 27,
             "owner": "slanatech",
             "repo": "dashblocks-template",
-            "stars": 186
+            "stars": 186,
+            "topics": [
+              "admin-dashboard",
+              "admin-template",
+              "analytics",
+              "chartjs",
+              "charts",
+              "d3",
+              "dashboard",
+              "dygraphs",
+              "material-design",
+              "material-ui",
+              "plotly",
+              "quasar-framework",
+              "quasar-template",
+              "vue",
+              "vue-template"
+            ]
           },
           "first_seen": "2026-08-28T13:31:58.112Z"
         },
@@ -1954,12 +3040,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Cool habit tracker",
+            "homepage": "https://github-method.web.app",
             "id": 258120223,
             "language": "Vue",
+            "license": "MIT",
             "last_commit": "2020-05-19T04:30:36Z",
+            "open_issues": 9,
             "owner": "cartovarc",
             "repo": "github-method",
-            "stars": 2
+            "stars": 2,
+            "topics": []
           },
           "first_seen": "2026-08-28T13:31:58.112Z"
         },
@@ -1970,12 +3061,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "🌕 Create beutiful docs in markdown and HTML from postman collection",
+            "homepage": "https://afterman.netlify.app",
             "id": 259151955,
             "language": "Vue",
+            "license": "MIT",
             "last_commit": "2024-10-31T01:48:58Z",
+            "open_issues": 3,
             "owner": "itsalb3rt",
             "repo": "afterman",
-            "stars": 48
+            "stars": 48,
+            "topics": [
+              "collection",
+              "docker",
+              "hacktoberfest",
+              "javascript",
+              "postman",
+              "quasar-framework",
+              "vue"
+            ]
           },
           "first_seen": "2026-08-28T13:31:58.112Z"
         },
@@ -1986,12 +3090,17 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "An online hexo blog editor.",
+            "homepage": "https://yujianghao.github.io/winwin-hexo-editor/",
             "id": 247964806,
             "language": "JavaScript",
+            "license": "GPL-3.0",
             "last_commit": "2021-12-30T18:37:09Z",
+            "open_issues": 6,
             "owner": "YuJianghao",
             "repo": "winwin-hexo-editor",
-            "stars": 28
+            "stars": 28,
+            "topics": []
           },
           "first_seen": "2026-08-28T13:31:58.112Z"
         },
@@ -2002,12 +3111,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Aldig - Al Quran digital ",
+            "homepage": null,
             "id": 272424497,
             "language": "CSS",
+            "license": "MIT",
             "last_commit": "2023-02-03T08:59:10Z",
+            "open_issues": 24,
             "owner": "sm-alfariz",
             "repo": "aldig",
-            "stars": 7
+            "stars": 7,
+            "topics": [
+              "alquran",
+              "islam",
+              "material",
+              "quasar-framework",
+              "vuejs"
+            ]
           },
           "first_seen": "2026-08-28T13:31:58.112Z"
         },
@@ -2018,12 +3138,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "An open-source productivity app using Quasar",
+            "homepage": null,
             "id": 267997036,
             "language": "Vue",
+            "license": "MPL-2.0",
             "last_commit": "2022-12-12T02:19:44Z",
+            "open_issues": 21,
             "owner": "yvhr",
             "repo": "qodo",
-            "stars": 78
+            "stars": 78,
+            "topics": []
           },
           "first_seen": "2026-08-28T13:31:58.112Z"
         },
@@ -2034,12 +3159,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A monitoring tool that gives you clarity over your application landscape.",
+            "homepage": "https://whoopsmonitor.app",
             "id": 297767059,
             "language": "Vue",
+            "license": "MIT",
             "last_commit": "2022-12-03T11:55:35Z",
+            "open_issues": 3,
             "owner": "whoopsmonitor",
             "repo": "whoopsmonitor",
-            "stars": 22
+            "stars": 22,
+            "topics": [
+              "alerting",
+              "docker",
+              "monitoring",
+              "scheduler"
+            ]
           },
           "first_seen": "2026-08-28T13:31:58.112Z"
         },
@@ -2050,12 +3185,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Application for registering employee entries with the possibility of generating reports, validating and storing users with minimal effort.",
+            "homepage": "https://agile-visitors.netlify.app",
             "id": 298894420,
             "language": "Vue",
+            "license": "MIT",
             "last_commit": "2022-07-13T02:05:03Z",
+            "open_issues": 1,
             "owner": "itsalb3rt",
             "repo": "agile-visitors",
-            "stars": 24
+            "stars": 24,
+            "topics": [
+              "docker",
+              "hacktoberfest",
+              "hacktoberfest2020",
+              "open-source",
+              "opensource",
+              "quasar-framework",
+              "vue"
+            ]
           },
           "first_seen": "2026-08-28T13:31:58.112Z"
         },
@@ -2066,12 +3214,34 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "🌍 Mipa is the strategic coordination web app from collective-change.org, which aims to help the world achieve sustainablility by 2030. ",
+            "homepage": "https://collective-change.org",
             "id": 199357548,
             "language": "Vue",
+            "license": "AGPL-3.0",
             "last_commit": "2023-01-10T04:07:07Z",
+            "open_issues": 35,
             "owner": "collective-change",
             "repo": "mipa",
-            "stars": 5
+            "stars": 5,
+            "topics": [
+              "climate-change",
+              "collaboration",
+              "corporate-social-responsibility",
+              "decision-support",
+              "firebase",
+              "global-warming",
+              "modeling-and-simulation",
+              "project-management",
+              "quasar",
+              "sdgs",
+              "strategic-coordination",
+              "strategic-management",
+              "sustainable-development-goals",
+              "system-dynamics",
+              "todo-list",
+              "vue"
+            ]
           },
           "first_seen": "2026-08-28T13:31:58.112Z"
         },
@@ -2082,12 +3252,28 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Yet another elegant Wiz Note Client, which was built with Quasar UI Framework and based on Electron. ",
+            "homepage": "https://tanknee.github.io/Memocast",
             "id": 242489047,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2023-03-05T04:52:37Z",
+            "open_issues": 42,
             "owner": "TankNee",
             "repo": "Memocast",
-            "stars": 367
+            "stars": 367,
+            "topics": [
+              "editor",
+              "electron",
+              "github",
+              "markdown",
+              "memocast",
+              "neeto-vue",
+              "quasar-framework",
+              "vue",
+              "wiz-community",
+              "wiznote"
+            ]
           },
           "first_seen": "2026-08-28T13:31:58.112Z"
         },
@@ -2098,12 +3284,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": "https://createvid.io",
             "id": 291102498,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2021-04-05T15:30:38Z",
+            "open_issues": 1,
             "owner": "newflight-co",
             "repo": "createvid",
-            "stars": 24
+            "stars": 24,
+            "topics": []
           },
           "first_seen": "2026-08-28T13:31:58.112Z"
         },
@@ -2114,12 +3305,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Office suite with file browser, document editor, spreadsheet editor, calendar and data tables with CRUDX API's ready to deploy",
+            "homepage": null,
             "id": 306237342,
             "language": "Vue",
+            "license": "AGPL-3.0",
             "last_commit": "2024-12-19T14:22:00Z",
+            "open_issues": 1,
             "owner": "daptin",
             "repo": "dadadash",
-            "stars": 169
+            "stars": 168,
+            "topics": [
+              "calendar",
+              "cms",
+              "crud-api",
+              "document-editor",
+              "file-manager",
+              "office-suite",
+              "spreadsheet-editor"
+            ]
           },
           "first_seen": "2026-08-28T13:31:58.112Z"
         },
@@ -2130,12 +3334,34 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "😊A full-featured management system based on Quasar2, Vue3, Go, Gin, Gorm.   😊Gin-Quasar-Admin是一个基于Quasar和Go语言的功能全面的管理系统.",
+            "homepage": "http://81.68.159.232/",
             "id": 420921138,
             "language": "Vue",
+            "license": "MIT",
             "last_commit": "2024-09-19T05:59:30Z",
+            "open_issues": 2,
             "owner": "Junvary",
             "repo": "gin-quasar-admin",
-            "stars": 264
+            "stars": 264,
+            "topics": [
+              "echarts",
+              "gin",
+              "gin-vue",
+              "go",
+              "golang",
+              "gorm",
+              "pinia",
+              "quasar",
+              "quasar-cli",
+              "quasar-framework",
+              "quasar2",
+              "script-setup",
+              "vue",
+              "vue3",
+              "vue3-admin",
+              "websocket"
+            ]
           },
           "first_seen": "2026-08-28T13:31:58.112Z"
         },
@@ -2146,12 +3372,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A NodeJs Project to download subtitles without scraping.",
+            "homepage": "https://mmarifat.github.io/__subtitle_downloader",
             "id": 281745052,
             "language": "Vue",
+            "license": null,
             "last_commit": "2021-08-28T06:16:14Z",
+            "open_issues": 0,
             "owner": "mmarifat",
             "repo": "__subtitle_downloader",
-            "stars": 2
+            "stars": 2,
+            "topics": [
+              "axios",
+              "moviedbapi",
+              "nodejs",
+              "opensubtitles",
+              "typescript",
+              "vuejs"
+            ]
           },
           "first_seen": "2026-08-28T13:31:58.112Z"
         },
@@ -2162,12 +3400,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A blockchain explorer, post viewer and general toolkit for the Hive blockchain",
+            "homepage": "https://hive.ausbit.dev",
             "id": 251264355,
             "language": "Vue",
+            "license": "Unlicense",
             "last_commit": "2026-02-11T10:58:47Z",
+            "open_issues": 1,
             "owner": "ausbitbank",
             "repo": "hive.ausbit.dev-src",
-            "stars": 13
+            "stars": 13,
+            "topics": [
+              "ausbit",
+              "blockchain",
+              "dapp",
+              "decentralized",
+              "explorer",
+              "hive"
+            ]
           },
           "first_seen": "2026-08-28T13:31:58.112Z"
         },
@@ -2178,12 +3428,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Generate and download invoice",
+            "homepage": "https://invoicegenerator.l-chnider.com",
             "id": 707481063,
             "language": "Vue",
+            "license": null,
             "last_commit": "2023-10-27T17:17:13Z",
+            "open_issues": 0,
             "owner": "lchnider",
             "repo": "invoice-generator",
-            "stars": 6
+            "stars": 6,
+            "topics": []
           },
           "first_seen": "2026-08-28T13:31:58.112Z"
         },
@@ -2194,12 +3449,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Easy, fast and reliable pet boarding software. ",
+            "homepage": "https://www.petboarding.app",
             "id": 385890867,
             "language": "TypeScript",
+            "license": "NOASSERTION",
             "last_commit": "2026-08-24T12:30:13Z",
+            "open_issues": 1,
             "owner": "simsustech",
             "repo": "petboarding",
-            "stars": 4
+            "stars": 4,
+            "topics": [
+              "boarding",
+              "booking",
+              "daycare",
+              "pet",
+              "petboarding"
+            ]
           },
           "first_seen": "2026-08-28T13:31:58.112Z"
         },
@@ -2210,12 +3476,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Streamlined invoicing made easy.",
+            "homepage": "https://www.slimfact.app",
             "id": 762213939,
             "language": "TypeScript",
+            "license": "NOASSERTION",
             "last_commit": "2026-08-26T10:28:11Z",
+            "open_issues": 3,
             "owner": "simsustech",
             "repo": "slimfact",
-            "stars": 6
+            "stars": 6,
+            "topics": [
+              "checkout",
+              "fastify",
+              "invoicing",
+              "quasar-framework",
+              "trpc",
+              "typescript",
+              "vite"
+            ]
           },
           "first_seen": "2026-08-28T13:31:58.112Z"
         },
@@ -2226,12 +3505,36 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "ChatGPT cross-platform client made with the Quasar Framework",
+            "homepage": null,
             "id": 811181067,
             "language": "Vue",
+            "license": "NOASSERTION",
             "last_commit": "2024-09-21T06:10:27Z",
+            "open_issues": 1,
             "owner": "timamus",
             "repo": "QChatGPT",
-            "stars": 18
+            "stars": 18,
+            "topics": [
+              "android",
+              "chatgpt",
+              "client",
+              "cross-platform",
+              "gpt",
+              "gpt-4",
+              "gpt-4o",
+              "gpt-4o-mini",
+              "ios",
+              "linux",
+              "macos",
+              "openai",
+              "qchatgpt",
+              "quasar-framework",
+              "vue",
+              "vue3",
+              "vuejs3",
+              "windows"
+            ]
           },
           "first_seen": "2026-08-28T13:31:58.112Z"
         },
@@ -2242,12 +3545,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "PileaX is an all-in-one AI knowledge base system. 🍀",
+            "homepage": "https://www.pileax.ai",
             "id": 1106027710,
             "language": "Vue",
+            "license": "MIT",
             "last_commit": "2026-08-28T08:24:30Z",
+            "open_issues": 0,
             "owner": "pileax-ai",
             "repo": "pileax",
-            "stars": 39
+            "stars": 39,
+            "topics": [
+              "ai",
+              "ai-agent",
+              "book-library",
+              "chat-assistant",
+              "ebook-reader",
+              "note",
+              "notion",
+              "reading"
+            ]
           },
           "first_seen": "2026-08-28T13:31:58.112Z"
         }
@@ -2256,15 +3573,31 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-28T13:31:58.112Z",
+    "last_updated": "2026-08-29T04:26:57.691Z",
     "original_repository_info": {
       "archived": false,
+      "description": "🎉 A list of awesome things related to Quasar",
+      "homepage": "https://quasar.dev",
       "id": 117342615,
       "language": null,
+      "license": "MIT",
       "last_commit": "2026-08-14T05:28:06Z",
+      "open_issues": 11,
       "owner": "quasarframework",
       "repo": "quasar-awesome",
-      "stars": 1871
+      "stars": 1871,
+      "topics": [
+        "cordova",
+        "electron",
+        "ios",
+        "material",
+        "material-design",
+        "quasar",
+        "quasar-framework",
+        "vue",
+        "vue2",
+        "vuejs"
+      ]
     },
     "original_repository_sha": "9dab436cb3c11c64a086d4f4c672622d09a1d325",
     "enhanced_repository": "enhansome/quasar-enhansome",
