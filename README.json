@@ -21,7 +21,7 @@
                 "open_issues": 214,
                 "owner": "quasarframework",
                 "repo": "quasar",
-                "stars": 27204,
+                "stars": 27205,
                 "topics": [
                   "android",
                   "browser-extension",
@@ -62,7 +62,7 @@
                 "open_issues": 214,
                 "owner": "quasarframework",
                 "repo": "quasar",
-                "stars": 27204,
+                "stars": 27205,
                 "topics": [
                   "android",
                   "browser-extension",
@@ -608,7 +608,7 @@
                     "open_issues": 78,
                     "owner": "axios",
                     "repo": "axios",
-                    "stars": 109192,
+                    "stars": 109194,
                     "topics": [
                       "hacktoberfest",
                       "http-client",
@@ -872,7 +872,7 @@
                     "id": 243010177,
                     "language": "JavaScript",
                     "license": "MIT",
-                    "last_commit": "2026-08-28T03:05:38Z",
+                    "last_commit": "2026-08-29T09:16:01Z",
                     "open_issues": 38,
                     "owner": "freddy38510",
                     "repo": "quasar-app-extension-ssg",
@@ -2662,7 +2662,7 @@
             "open_issues": 210,
             "owner": "RoganDawes",
             "repo": "P4wnP1_aloa",
-            "stars": 4424,
+            "stars": 4425,
             "topics": []
           },
           "first_seen": "2026-08-28T13:31:58.112Z"
@@ -3514,7 +3514,7 @@
             "open_issues": 1,
             "owner": "timamus",
             "repo": "QChatGPT",
-            "stars": 18,
+            "stars": 19,
             "topics": [
               "android",
               "chatgpt",
@@ -3573,7 +3573,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T08:25:18.812Z",
+    "last_updated": "2026-08-30T07:39:08.727Z",
     "original_repository_info": {
       "archived": false,
       "description": "🎉 A list of awesome things related to Quasar",
