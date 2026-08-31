@@ -21,7 +21,7 @@
                 "open_issues": 214,
                 "owner": "quasarframework",
                 "repo": "quasar",
-                "stars": 27205,
+                "stars": 27204,
                 "topics": [
                   "android",
                   "browser-extension",
@@ -62,7 +62,7 @@
                 "open_issues": 214,
                 "owner": "quasarframework",
                 "repo": "quasar",
-                "stars": 27205,
+                "stars": 27204,
                 "topics": [
                   "android",
                   "browser-extension",
@@ -605,10 +605,10 @@
                     "language": "JavaScript",
                     "license": "MIT",
                     "last_commit": "2026-08-28T19:18:21Z",
-                    "open_issues": 78,
+                    "open_issues": 80,
                     "owner": "axios",
                     "repo": "axios",
-                    "stars": 109194,
+                    "stars": 109192,
                     "topics": [
                       "hacktoberfest",
                       "http-client",
@@ -1577,11 +1577,11 @@
             "id": 420741081,
             "language": "Java",
             "license": "MPL-2.0",
-            "last_commit": "2026-08-26T10:08:23Z",
-            "open_issues": 8,
+            "last_commit": "2026-08-31T03:53:15Z",
+            "open_issues": 10,
             "owner": "Cap-go",
             "repo": "capacitor-updater",
-            "stars": 834,
+            "stars": 835,
             "topics": [
               "android",
               "capacitor",
@@ -2662,7 +2662,7 @@
             "open_issues": 210,
             "owner": "RoganDawes",
             "repo": "P4wnP1_aloa",
-            "stars": 4425,
+            "stars": 4427,
             "topics": []
           },
           "first_seen": "2026-08-28T13:31:58.112Z"
@@ -3305,8 +3305,8 @@
           "children": [],
           "repo_info": {
             "archived": false,
-            "description": "Office suite with file browser, document editor, spreadsheet editor, calendar and data tables with CRUDX API's ready to deploy",
-            "homepage": null,
+            "description": "Office-style application built on Daptin: workspaces, tables, files, documents, spreadsheets, and calendars.",
+            "homepage": "https://daptin.github.io/ecosystem/",
             "id": 306237342,
             "language": "Vue",
             "license": "AGPL-3.0",
@@ -3317,8 +3317,7 @@
             "stars": 168,
             "topics": [
               "calendar",
-              "cms",
-              "crud-api",
+              "daptin",
               "document-editor",
               "file-manager",
               "office-suite",
@@ -3573,7 +3572,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-30T07:39:08.727Z",
+    "last_updated": "2026-08-31T07:53:05.446Z",
     "original_repository_info": {
       "archived": false,
       "description": "🎉 A list of awesome things related to Quasar",
