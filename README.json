@@ -605,10 +605,10 @@
                     "language": "JavaScript",
                     "license": "MIT",
                     "last_commit": "2026-08-28T19:18:21Z",
-                    "open_issues": 80,
+                    "open_issues": 83,
                     "owner": "axios",
                     "repo": "axios",
-                    "stars": 109192,
+                    "stars": 109196,
                     "topics": [
                       "hacktoberfest",
                       "http-client",
@@ -876,7 +876,7 @@
                     "open_issues": 38,
                     "owner": "freddy38510",
                     "repo": "quasar-app-extension-ssg",
-                    "stars": 169,
+                    "stars": 168,
                     "topics": [
                       "jamstack",
                       "quasar",
@@ -1581,7 +1581,7 @@
             "open_issues": 10,
             "owner": "Cap-go",
             "repo": "capacitor-updater",
-            "stars": 835,
+            "stars": 838,
             "topics": [
               "android",
               "capacitor",
@@ -2178,7 +2178,7 @@
             "id": 472423651,
             "language": "JavaScript",
             "license": "MIT",
-            "last_commit": "2026-03-20T19:04:04Z",
+            "last_commit": "2026-08-31T19:39:05Z",
             "open_issues": 39,
             "owner": "weacast",
             "repo": "weacast",
@@ -2662,7 +2662,7 @@
             "open_issues": 210,
             "owner": "RoganDawes",
             "repo": "P4wnP1_aloa",
-            "stars": 4427,
+            "stars": 4426,
             "topics": []
           },
           "first_seen": "2026-08-28T13:31:58.112Z"
@@ -3572,7 +3572,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-31T07:53:05.446Z",
+    "last_updated": "2026-09-01T06:58:09.327Z",
     "original_repository_info": {
       "archived": false,
       "description": "🎉 A list of awesome things related to Quasar",
