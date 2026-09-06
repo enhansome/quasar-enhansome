@@ -18,10 +18,10 @@
                 "language": "JavaScript",
                 "license": "MIT",
                 "last_commit": "2026-09-04T17:19:20Z",
-                "open_issues": 145,
+                "open_issues": 146,
                 "owner": "quasarframework",
                 "repo": "quasar",
-                "stars": 27207,
+                "stars": 27206,
                 "topics": [
                   "android",
                   "browser-extension",
@@ -59,10 +59,10 @@
                 "language": "JavaScript",
                 "license": "MIT",
                 "last_commit": "2026-09-04T17:19:20Z",
-                "open_issues": 145,
+                "open_issues": 146,
                 "owner": "quasarframework",
                 "repo": "quasar",
-                "stars": 27207,
+                "stars": 27206,
                 "topics": [
                   "android",
                   "browser-extension",
@@ -604,11 +604,11 @@
                     "id": 23088740,
                     "language": "JavaScript",
                     "license": "MIT",
-                    "last_commit": "2026-09-04T07:05:45Z",
-                    "open_issues": 92,
+                    "last_commit": "2026-09-05T17:55:05Z",
+                    "open_issues": 84,
                     "owner": "axios",
                     "repo": "axios",
-                    "stars": 109190,
+                    "stars": 109200,
                     "topics": [
                       "hacktoberfest",
                       "http-client",
@@ -635,7 +635,7 @@
                     "open_issues": 48,
                     "owner": "donotebase",
                     "repo": "quasar-tiptap",
-                    "stars": 322,
+                    "stars": 321,
                     "topics": [
                       "donote",
                       "quasar",
@@ -1577,7 +1577,7 @@
             "id": 420741081,
             "language": "Java",
             "license": "MPL-2.0",
-            "last_commit": "2026-09-04T19:52:51Z",
+            "last_commit": "2026-09-05T06:46:14Z",
             "open_issues": 9,
             "owner": "Cap-go",
             "repo": "capacitor-updater",
@@ -2662,7 +2662,7 @@
             "open_issues": 210,
             "owner": "RoganDawes",
             "repo": "P4wnP1_aloa",
-            "stars": 4426,
+            "stars": 4427,
             "topics": []
           },
           "first_seen": "2026-08-28T13:31:58.112Z"
@@ -3572,7 +3572,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-05T06:30:03.833Z",
+    "last_updated": "2026-09-06T06:38:47.629Z",
     "original_repository_info": {
       "archived": false,
       "description": "🎉 A list of awesome things related to Quasar",
