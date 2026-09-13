@@ -605,10 +605,10 @@
                     "language": "JavaScript",
                     "license": "MIT",
                     "last_commit": "2026-09-10T12:21:16Z",
-                    "open_issues": 92,
+                    "open_issues": 94,
                     "owner": "axios",
                     "repo": "axios",
-                    "stars": 109219,
+                    "stars": 109215,
                     "topics": [
                       "hacktoberfest",
                       "http-client",
@@ -872,7 +872,7 @@
                     "id": 243010177,
                     "language": "JavaScript",
                     "license": "MIT",
-                    "last_commit": "2026-09-11T17:16:26Z",
+                    "last_commit": "2026-09-12T18:05:42Z",
                     "open_issues": 40,
                     "owner": "freddy38510",
                     "repo": "quasar-app-extension-ssg",
@@ -1581,7 +1581,7 @@
             "open_issues": 13,
             "owner": "Cap-go",
             "repo": "capacitor-updater",
-            "stars": 849,
+            "stars": 850,
             "topics": [
               "android",
               "capacitor",
@@ -2287,7 +2287,7 @@
             "open_issues": 2,
             "owner": "karrot-dev",
             "repo": "karrot-frontend",
-            "stars": 436,
+            "stars": 437,
             "topics": [
               "community",
               "food",
@@ -3604,7 +3604,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-12T06:40:45.838Z",
+    "last_updated": "2026-09-13T06:58:14.888Z",
     "original_repository_info": {
       "archived": false,
       "description": "🎉 A list of awesome things related to Quasar",
