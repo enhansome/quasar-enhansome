@@ -17,11 +17,11 @@
                 "id": 43695474,
                 "language": "JavaScript",
                 "license": "MIT",
-                "last_commit": "2026-09-15T17:10:18Z",
+                "last_commit": "2026-09-17T06:31:20Z",
                 "open_issues": 72,
                 "owner": "quasarframework",
                 "repo": "quasar",
-                "stars": 27211,
+                "stars": 27209,
                 "topics": [
                   "android",
                   "browser-extension",
@@ -58,11 +58,11 @@
                 "id": 43695474,
                 "language": "JavaScript",
                 "license": "MIT",
-                "last_commit": "2026-09-15T17:10:18Z",
+                "last_commit": "2026-09-17T06:31:20Z",
                 "open_issues": 72,
                 "owner": "quasarframework",
                 "repo": "quasar",
-                "stars": 27211,
+                "stars": 27209,
                 "topics": [
                   "android",
                   "browser-extension",
@@ -130,7 +130,7 @@
                   "description": "Medium, github Building an Electron File Explorer with Quasar (and Vue) v0.17.18",
                   "children": [],
                   "repo_info": {
-                    "archived": false,
+                    "archived": true,
                     "description": "A Simple File Explorer using Vue/Quasar/Electron",
                     "homepage": null,
                     "id": 157999025,
@@ -420,27 +420,6 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "qribbon",
-                  "description": "Customisable ribbons with a component builder. Allows ribbons at the top, corners, bottom etc.",
-                  "children": [],
-                  "repo_info": {
-                    "archived": true,
-                    "description": "A Ribbon component for Quasar Framework v1.0",
-                    "homepage": "https://quasarframework.github.io/quasar-ui-qribbon/docs",
-                    "id": 189302576,
-                    "language": "JavaScript",
-                    "license": "MIT",
-                    "last_commit": "2021-11-13T18:00:08Z",
-                    "open_issues": 0,
-                    "owner": "quasarframework",
-                    "repo": "quasar-ui-qribbon",
-                    "stars": 44,
-                    "topics": []
-                  },
-                  "first_seen": "2026-08-28T13:31:58.112Z"
-                },
-                {
-                  "node_type": "item",
                   "title": "http-authentication",
                   "description": "HTTP authentication using the Vuex store with basic login, registration and password reset pages.",
                   "children": [],
@@ -604,11 +583,11 @@
                     "id": 23088740,
                     "language": "JavaScript",
                     "license": "MIT",
-                    "last_commit": "2026-09-15T10:13:29Z",
-                    "open_issues": 93,
+                    "last_commit": "2026-09-16T19:05:23Z",
+                    "open_issues": 91,
                     "owner": "axios",
                     "repo": "axios",
-                    "stars": 109206,
+                    "stars": 109201,
                     "topics": [
                       "hacktoberfest",
                       "http-client",
@@ -872,7 +851,7 @@
                     "id": 243010177,
                     "language": "JavaScript",
                     "license": "MIT",
-                    "last_commit": "2026-09-15T19:49:14Z",
+                    "last_commit": "2026-09-16T13:41:30Z",
                     "open_issues": 42,
                     "owner": "freddy38510",
                     "repo": "quasar-app-extension-ssg",
@@ -928,6 +907,37 @@
                     "topics": []
                   },
                   "first_seen": "2026-08-28T13:31:58.112Z"
+                },
+                {
+                  "node_type": "item",
+                  "title": "Icon Diet",
+                  "description": "Optimize and reduce icon bundle sizes in your apps",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "description": "Quasar App Extension to optimize and reduce icon bundle sizes in your apps",
+                    "homepage": null,
+                    "id": 1303254979,
+                    "language": "JavaScript",
+                    "license": "MIT",
+                    "last_commit": "2026-08-17T17:26:01Z",
+                    "open_issues": 0,
+                    "owner": "CCTVcalc",
+                    "repo": "icon-diet",
+                    "stars": 0,
+                    "topics": [
+                      "bundle-size",
+                      "bundle-size-optimize",
+                      "icons",
+                      "optimization",
+                      "optimization-tools",
+                      "quasar",
+                      "quasar-app-extension",
+                      "quasar-framework",
+                      "vue"
+                    ]
+                  },
+                  "first_seen": "2026-09-17T06:54:04.363Z"
                 }
               ],
               "description": "Do not forget to read the official blog.",
@@ -1567,8 +1577,8 @@
         },
         {
           "node_type": "item",
-          "title": "OTA system",
-          "description": "github Auto update system for mobile app, send update to users without app store review v2",
+          "title": "Capgo",
+          "description": "github, website Live updates for Quasar Capacitor apps — ship JS/HTML/CSS without app store review v2",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1577,11 +1587,11 @@
             "id": 420741081,
             "language": "Java",
             "license": "MPL-2.0",
-            "last_commit": "2026-09-15T10:51:44Z",
-            "open_issues": 7,
+            "last_commit": "2026-09-17T00:58:46Z",
+            "open_issues": 5,
             "owner": "Cap-go",
             "repo": "capacitor-updater",
-            "stars": 852,
+            "stars": 853,
             "topics": [
               "android",
               "capacitor",
@@ -1723,8 +1733,8 @@
             "id": 1322120009,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-09-16T06:58:47Z",
-            "open_issues": 115,
+            "last_commit": "2026-09-17T06:48:56Z",
+            "open_issues": 120,
             "owner": "poveste-dev",
             "repo": "poveste",
             "stars": 2,
@@ -1742,6 +1752,86 @@
             ]
           },
           "first_seen": "2026-09-08T06:43:48.268Z"
+        },
+        {
+          "node_type": "item",
+          "title": "Quasar Extras SVG Icons",
+          "description": "github, docs Additional SVG icon sets packaged as tree-shakeable exports with TypeScript declarations for QIcon, QBtn and other Quasar components. v2",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Extra SVG icons for Quasar Framework",
+            "homepage": "https://quasar-extras-svg-icons.netlify.app/",
+            "id": 394298753,
+            "language": "JavaScript",
+            "license": "MIT",
+            "last_commit": "2026-09-16T12:44:11Z",
+            "open_issues": 0,
+            "owner": "hawkeye64",
+            "repo": "quasar-extras-svg-icons",
+            "stars": 23,
+            "topics": [
+              "icons",
+              "quasar-framework",
+              "svg-icons"
+            ]
+          },
+          "first_seen": "2026-09-17T06:54:04.363Z"
+        },
+        {
+          "node_type": "item",
+          "title": "Icon Explorer",
+          "description": "github, website Search and preview icons from Quasar Extras and Quasar Extras SVG Icons, collect icons in a library, and copy imports, SVGs and Quasar component snippets. v2.32.3",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": ":zap: Icon Explorer application for Quasar Framework SVG icons. Over 160,000+ searchable icons and growing.",
+            "homepage": "https://iconexplorer.app/",
+            "id": 283232855,
+            "language": "TypeScript",
+            "license": "MIT",
+            "last_commit": "2026-09-16T12:44:15Z",
+            "open_issues": 0,
+            "owner": "hawkeye64",
+            "repo": "iconexplorer.app",
+            "stars": 24,
+            "topics": [
+              "icons",
+              "quasar",
+              "svg",
+              "svg-icons"
+            ]
+          },
+          "first_seen": "2026-09-17T06:54:04.363Z"
+        },
+        {
+          "node_type": "item",
+          "title": "md-plugins",
+          "description": "github, docs Markdown-it and Vite plugins for documentation sites with Markdown routes, live Vue examples, static search and static site generation, plus Q-Press integration for Quasar. v2",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "MD-Plugins is a collection of Markdown and Vite plugins that make it easy to build markdown user interfaces in Vue and Quasar applications.",
+            "homepage": "https://md-plugins.netlify.app/",
+            "id": 907007530,
+            "language": "TypeScript",
+            "license": "MIT",
+            "last_commit": "2026-09-16T12:44:07Z",
+            "open_issues": 0,
+            "owner": "md-plugins",
+            "repo": "md-plugins",
+            "stars": 4,
+            "topics": [
+              "markdown",
+              "markdown-it",
+              "plugins",
+              "quasar",
+              "quasarframework",
+              "vite",
+              "vue"
+            ]
+          },
+          "first_seen": "2026-09-17T06:54:04.363Z"
         }
       ],
       "title": "Other Community Components and Tools"
@@ -2304,7 +2394,7 @@
           "description": "github An onvif-nvt (package) sample project for snapshots and PTZ using Vue 2.5 and Quasar 0.14.7 v0.14.7",
           "children": [],
           "repo_info": {
-            "archived": false,
+            "archived": true,
             "description": "Sample onvif-nvt application using Profile S (PTZ), Sockets, Vue and Quasar.",
             "homepage": null,
             "id": 121765064,
@@ -2694,7 +2784,7 @@
             "open_issues": 210,
             "owner": "RoganDawes",
             "repo": "P4wnP1_aloa",
-            "stars": 4437,
+            "stars": 4436,
             "topics": []
           },
           "first_seen": "2026-08-28T13:31:58.112Z"
@@ -3604,7 +3694,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-16T06:58:47.848Z",
+    "last_updated": "2026-09-17T06:54:04.363Z",
     "original_repository_info": {
       "archived": false,
       "description": "🎉 A list of awesome things related to Quasar",
@@ -3612,8 +3702,8 @@
       "id": 117342615,
       "language": null,
       "license": "MIT",
-      "last_commit": "2026-09-07T13:52:21Z",
-      "open_issues": 11,
+      "last_commit": "2026-09-16T12:08:57Z",
+      "open_issues": 9,
       "owner": "quasarframework",
       "repo": "quasar-awesome",
       "stars": 1873,
@@ -3630,7 +3720,7 @@
         "vuejs"
       ]
     },
-    "original_repository_sha": "a36b31a72d9113f436c344de5014a6b3c02e7bf6",
+    "original_repository_sha": "b3cf208526721e6b9805d2a2c45a9b0d0ab4534f",
     "enhanced_repository": "enhansome/quasar-enhansome",
     "enhanced_repository_description": null,
     "title": "Awesome Community App Extensions with stars"
