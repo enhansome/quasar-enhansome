@@ -17,11 +17,11 @@
                 "id": 43695474,
                 "language": "JavaScript",
                 "license": "MIT",
-                "last_commit": "2026-09-24T16:53:36Z",
-                "open_issues": 59,
+                "last_commit": "2026-09-25T17:50:33Z",
+                "open_issues": 60,
                 "owner": "quasarframework",
                 "repo": "quasar",
-                "stars": 27217,
+                "stars": 27215,
                 "topics": [
                   "android",
                   "browser-extension",
@@ -58,11 +58,11 @@
                 "id": 43695474,
                 "language": "JavaScript",
                 "license": "MIT",
-                "last_commit": "2026-09-24T16:53:36Z",
-                "open_issues": 59,
+                "last_commit": "2026-09-25T17:50:33Z",
+                "open_issues": 60,
                 "owner": "quasarframework",
                 "repo": "quasar",
-                "stars": 27217,
+                "stars": 27215,
                 "topics": [
                   "android",
                   "browser-extension",
@@ -584,10 +584,10 @@
                     "language": "JavaScript",
                     "license": "MIT",
                     "last_commit": "2026-09-24T07:24:33Z",
-                    "open_issues": 96,
+                    "open_issues": 95,
                     "owner": "axios",
                     "repo": "axios",
-                    "stars": 109216,
+                    "stars": 109218,
                     "topics": [
                       "hacktoberfest",
                       "http-client",
@@ -851,7 +851,7 @@
                     "id": 243010177,
                     "language": "JavaScript",
                     "license": "MIT",
-                    "last_commit": "2026-09-25T01:09:54Z",
+                    "last_commit": "2026-09-25T14:16:37Z",
                     "open_issues": 43,
                     "owner": "freddy38510",
                     "repo": "quasar-app-extension-ssg",
@@ -1587,11 +1587,11 @@
             "id": 420741081,
             "language": "Java",
             "license": "MPL-2.0",
-            "last_commit": "2026-09-24T13:49:02Z",
+            "last_commit": "2026-09-25T08:50:39Z",
             "open_issues": 6,
             "owner": "Cap-go",
             "repo": "capacitor-updater",
-            "stars": 858,
+            "stars": 859,
             "topics": [
               "android",
               "capacitor",
@@ -1733,8 +1733,8 @@
             "id": 1322120009,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-09-24T05:38:10Z",
-            "open_issues": 134,
+            "last_commit": "2026-09-25T17:06:45Z",
+            "open_issues": 105,
             "owner": "poveste-dev",
             "repo": "poveste",
             "stars": 3,
@@ -2784,7 +2784,7 @@
             "open_issues": 210,
             "owner": "RoganDawes",
             "repo": "P4wnP1_aloa",
-            "stars": 4437,
+            "stars": 4438,
             "topics": []
           },
           "first_seen": "2026-08-28T13:31:58.112Z"
@@ -3221,7 +3221,7 @@
             "open_issues": 6,
             "owner": "YuJianghao",
             "repo": "winwin-hexo-editor",
-            "stars": 28,
+            "stars": 27,
             "topics": []
           },
           "first_seen": "2026-08-28T13:31:58.112Z"
@@ -3694,7 +3694,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-25T06:50:08.364Z",
+    "last_updated": "2026-09-26T06:50:02.181Z",
     "original_repository_info": {
       "archived": false,
       "description": "🎉 A list of awesome things related to Quasar",
