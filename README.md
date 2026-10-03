@@ -1,6 +1,6 @@
 ![Quasar Framework logo](https://cdn.quasar.dev/logo/svg/quasar-logo-awesome.svg)
 
-## Awesome Quasar [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 513,802 | 🐛 106 | 📅 2026-09-02
+## Awesome Quasar [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 513,837 | 🐛 106 | 📅 2026-09-02
 
 > A list of awesome things related to Quasar
 
