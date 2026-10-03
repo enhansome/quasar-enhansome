@@ -8,7 +8,7 @@
             {
               "node_type": "item",
               "title": "Quasar GitHub Repo",
-              "description": null,
+              "description": "quasarframework/quasar",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -18,10 +18,10 @@
                 "language": "JavaScript",
                 "license": "MIT",
                 "last_commit": "2026-09-30T08:08:59Z",
-                "open_issues": 57,
+                "open_issues": 58,
                 "owner": "quasarframework",
                 "repo": "quasar",
-                "stars": 27210,
+                "stars": 27208,
                 "topics": [
                   "android",
                   "browser-extension",
@@ -49,7 +49,7 @@
             {
               "node_type": "item",
               "title": "Quasar Release Notes",
-              "description": null,
+              "description": "quasarframework/quasar",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -59,10 +59,10 @@
                 "language": "JavaScript",
                 "license": "MIT",
                 "last_commit": "2026-09-30T08:08:59Z",
-                "open_issues": 57,
+                "open_issues": 58,
                 "owner": "quasarframework",
                 "repo": "quasar",
-                "stars": 27210,
+                "stars": 27208,
                 "topics": [
                   "android",
                   "browser-extension",
@@ -553,7 +553,7 @@
                 {
                   "node_type": "item",
                   "title": "APIWrapper",
-                  "description": null,
+                  "description": "RobertoLangarica/quasar-app-extension-api-wrapper",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -583,11 +583,11 @@
                     "id": 23088740,
                     "language": "JavaScript",
                     "license": "MIT",
-                    "last_commit": "2026-10-01T12:53:46Z",
-                    "open_issues": 104,
+                    "last_commit": "2026-10-02T19:00:49Z",
+                    "open_issues": 99,
                     "owner": "axios",
                     "repo": "axios",
-                    "stars": 109249,
+                    "stars": 109246,
                     "topics": [
                       "hacktoberfest",
                       "http-client",
@@ -851,7 +851,7 @@
                     "id": 243010177,
                     "language": "JavaScript",
                     "license": "MIT",
-                    "last_commit": "2026-09-30T20:50:51Z",
+                    "last_commit": "2026-10-02T22:14:54Z",
                     "open_issues": 43,
                     "owner": "freddy38510",
                     "repo": "quasar-app-extension-ssg",
@@ -1442,7 +1442,7 @@
             "open_issues": 1,
             "owner": "mstaack",
             "repo": "quasar-cloud-demo",
-            "stars": 56,
+            "stars": 55,
             "topics": [
               "axios",
               "filemanager",
@@ -1587,11 +1587,11 @@
             "id": 420741081,
             "language": "Java",
             "license": "MPL-2.0",
-            "last_commit": "2026-10-01T17:06:46Z",
-            "open_issues": 3,
+            "last_commit": "2026-10-02T22:43:36Z",
+            "open_issues": 5,
             "owner": "Cap-go",
             "repo": "capacitor-updater",
-            "stars": 863,
+            "stars": 864,
             "topics": [
               "android",
               "capacitor",
@@ -1733,8 +1733,8 @@
             "id": 1322120009,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-10-01T18:33:20Z",
-            "open_issues": 131,
+            "last_commit": "2026-10-02T14:23:01Z",
+            "open_issues": 138,
             "owner": "poveste-dev",
             "repo": "poveste",
             "stars": 3,
@@ -2377,7 +2377,7 @@
             "open_issues": 2,
             "owner": "karrot-dev",
             "repo": "karrot-frontend",
-            "stars": 437,
+            "stars": 438,
             "topics": [
               "community",
               "food",
@@ -3053,7 +3053,7 @@
             "open_issues": 1,
             "owner": "MicroIoT",
             "repo": "studio",
-            "stars": 21,
+            "stars": 22,
             "topics": [
               "iot",
               "microiot",
@@ -3694,7 +3694,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-02T07:43:27.243Z",
+    "last_updated": "2026-10-03T05:17:31.107Z",
     "original_repository_info": {
       "archived": false,
       "description": "🎉 A list of awesome things related to Quasar",
