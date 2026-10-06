@@ -583,11 +583,11 @@
                     "id": 23088740,
                     "language": "JavaScript",
                     "license": "MIT",
-                    "last_commit": "2026-10-05T12:27:08Z",
+                    "last_commit": "2026-10-06T10:13:06Z",
                     "open_issues": 110,
                     "owner": "axios",
                     "repo": "axios",
-                    "stars": 109319,
+                    "stars": 109318,
                     "topics": [
                       "hacktoberfest",
                       "http-client",
@@ -1995,7 +1995,7 @@
             "open_issues": 0,
             "owner": "Singosgu",
             "repo": "GreaterWMS",
-            "stars": 77,
+            "stars": 78,
             "topics": []
           },
           "first_seen": "2026-08-28T13:31:58.112Z"
@@ -3694,7 +3694,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-06T08:18:01.552Z",
+    "last_updated": "2026-10-06T11:07:07.375Z",
     "original_repository_info": {
       "archived": false,
       "description": "🎉 A list of awesome things related to Quasar",
