@@ -18,10 +18,10 @@
                 "language": "JavaScript",
                 "license": "MIT",
                 "last_commit": "2026-10-07T08:54:07Z",
-                "open_issues": 58,
+                "open_issues": 59,
                 "owner": "quasarframework",
                 "repo": "quasar",
-                "stars": 27203,
+                "stars": 27202,
                 "topics": [
                   "android",
                   "browser-extension",
@@ -59,10 +59,10 @@
                 "language": "JavaScript",
                 "license": "MIT",
                 "last_commit": "2026-10-07T08:54:07Z",
-                "open_issues": 58,
+                "open_issues": 59,
                 "owner": "quasarframework",
                 "repo": "quasar",
-                "stars": 27203,
+                "stars": 27202,
                 "topics": [
                   "android",
                   "browser-extension",
@@ -584,7 +584,7 @@
                     "language": "JavaScript",
                     "license": "MIT",
                     "last_commit": "2026-10-09T17:31:50Z",
-                    "open_issues": 104,
+                    "open_issues": 105,
                     "owner": "axios",
                     "repo": "axios",
                     "stars": 109347,
@@ -851,7 +851,7 @@
                     "id": 243010177,
                     "language": "JavaScript",
                     "license": "MIT",
-                    "last_commit": "2026-10-08T09:37:58Z",
+                    "last_commit": "2026-10-10T10:12:03Z",
                     "open_issues": 43,
                     "owner": "freddy38510",
                     "repo": "quasar-app-extension-ssg",
@@ -1210,7 +1210,7 @@
             "open_issues": 23,
             "owner": "patrickmonteiro",
             "repo": "quasar-speech-api",
-            "stars": 68,
+            "stars": 67,
             "topics": [
               "hacktoberfest",
               "quasar-framework",
@@ -1587,8 +1587,8 @@
             "id": 420741081,
             "language": "Java",
             "license": "MPL-2.0",
-            "last_commit": "2026-10-10T07:35:37Z",
-            "open_issues": 13,
+            "last_commit": "2026-10-11T06:07:23Z",
+            "open_issues": 11,
             "owner": "Cap-go",
             "repo": "capacitor-updater",
             "stars": 869,
@@ -1995,7 +1995,7 @@
             "open_issues": 0,
             "owner": "Singosgu",
             "repo": "GreaterWMS",
-            "stars": 78,
+            "stars": 77,
             "topics": []
           },
           "first_seen": "2026-08-28T13:31:58.112Z"
@@ -2142,7 +2142,7 @@
             "open_issues": 17,
             "owner": "mayur091193",
             "repo": "quasar-shopping",
-            "stars": 105,
+            "stars": 104,
             "topics": []
           },
           "first_seen": "2026-08-28T13:31:58.112Z"
@@ -2631,7 +2631,7 @@
             "open_issues": 23,
             "owner": "wjkang",
             "repo": "vue-quasar-admin",
-            "stars": 578,
+            "stars": 577,
             "topics": [
               "access-control",
               "admin",
@@ -3383,7 +3383,7 @@
             "open_issues": 42,
             "owner": "TankNee",
             "repo": "Memocast",
-            "stars": 367,
+            "stars": 366,
             "topics": [
               "editor",
               "electron",
@@ -3694,7 +3694,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-10T07:53:33.968Z",
+    "last_updated": "2026-10-11T08:00:24.327Z",
     "original_repository_info": {
       "archived": false,
       "description": "🎉 A list of awesome things related to Quasar",
