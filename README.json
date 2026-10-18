@@ -584,10 +584,10 @@
                     "language": "JavaScript",
                     "license": "MIT",
                     "last_commit": "2026-10-15T16:05:17Z",
-                    "open_issues": 100,
+                    "open_issues": 104,
                     "owner": "axios",
                     "repo": "axios",
-                    "stars": 109301,
+                    "stars": 109299,
                     "topics": [
                       "hacktoberfest",
                       "http-client",
@@ -1587,7 +1587,7 @@
             "id": 420741081,
             "language": "Java",
             "license": "MPL-2.0",
-            "last_commit": "2026-10-16T22:05:44Z",
+            "last_commit": "2026-10-17T19:18:04Z",
             "open_issues": 7,
             "owner": "Cap-go",
             "repo": "capacitor-updater",
@@ -2784,7 +2784,7 @@
             "open_issues": 209,
             "owner": "RoganDawes",
             "repo": "P4wnP1_aloa",
-            "stars": 4445,
+            "stars": 4447,
             "topics": []
           },
           "first_seen": "2026-08-28T13:31:58.112Z"
@@ -3694,7 +3694,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-17T06:22:51.680Z",
+    "last_updated": "2026-10-18T06:47:23.351Z",
     "original_repository_info": {
       "archived": false,
       "description": "🎉 A list of awesome things related to Quasar",
