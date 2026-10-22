@@ -21,7 +21,7 @@
                 "open_issues": 52,
                 "owner": "quasarframework",
                 "repo": "quasar",
-                "stars": 27202,
+                "stars": 27204,
                 "topics": [
                   "android",
                   "browser-extension",
@@ -62,7 +62,7 @@
                 "open_issues": 52,
                 "owner": "quasarframework",
                 "repo": "quasar",
-                "stars": 27202,
+                "stars": 27204,
                 "topics": [
                   "android",
                   "browser-extension",
@@ -583,8 +583,8 @@
                     "id": 23088740,
                     "language": "JavaScript",
                     "license": "MIT",
-                    "last_commit": "2026-10-20T18:21:48Z",
-                    "open_issues": 111,
+                    "last_commit": "2026-10-21T14:02:53Z",
+                    "open_issues": 115,
                     "owner": "axios",
                     "repo": "axios",
                     "stars": 109303,
@@ -1237,7 +1237,7 @@
             "open_issues": 5,
             "owner": "snowyu",
             "repo": "qinputex",
-            "stars": 12,
+            "stars": 13,
             "topics": [
               "qinput-component",
               "quasar"
@@ -1587,8 +1587,8 @@
             "id": 420741081,
             "language": "Java",
             "license": "MPL-2.0",
-            "last_commit": "2026-10-21T06:07:28Z",
-            "open_issues": 7,
+            "last_commit": "2026-10-22T00:55:26Z",
+            "open_issues": 9,
             "owner": "Cap-go",
             "repo": "capacitor-updater",
             "stars": 876,
@@ -1733,8 +1733,8 @@
             "id": 1322120009,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-10-20T16:56:17Z",
-            "open_issues": 144,
+            "last_commit": "2026-10-21T22:34:56Z",
+            "open_issues": 143,
             "owner": "poveste-dev",
             "repo": "poveste",
             "stars": 3,
@@ -2272,7 +2272,7 @@
             "open_issues": 15,
             "owner": "zuck",
             "repo": "alighieri",
-            "stars": 133,
+            "stars": 134,
             "topics": [
               "distraction-free",
               "editor",
@@ -3694,7 +3694,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-21T06:46:18.899Z",
+    "last_updated": "2026-10-22T06:48:26.719Z",
     "original_repository_info": {
       "archived": false,
       "description": "🎉 A list of awesome things related to Quasar",
