@@ -21,7 +21,7 @@
                 "open_issues": 54,
                 "owner": "quasarframework",
                 "repo": "quasar",
-                "stars": 27204,
+                "stars": 27205,
                 "topics": [
                   "android",
                   "browser-extension",
@@ -62,7 +62,7 @@
                 "open_issues": 54,
                 "owner": "quasarframework",
                 "repo": "quasar",
-                "stars": 27204,
+                "stars": 27205,
                 "topics": [
                   "android",
                   "browser-extension",
@@ -583,8 +583,8 @@
                     "id": 23088740,
                     "language": "JavaScript",
                     "license": "MIT",
-                    "last_commit": "2026-10-23T06:32:57Z",
-                    "open_issues": 118,
+                    "last_commit": "2026-10-23T22:11:48Z",
+                    "open_issues": 122,
                     "owner": "axios",
                     "repo": "axios",
                     "stars": 109305,
@@ -1210,7 +1210,7 @@
             "open_issues": 23,
             "owner": "patrickmonteiro",
             "repo": "quasar-speech-api",
-            "stars": 67,
+            "stars": 68,
             "topics": [
               "hacktoberfest",
               "quasar-framework",
@@ -1587,7 +1587,7 @@
             "id": 420741081,
             "language": "Java",
             "license": "MPL-2.0",
-            "last_commit": "2026-10-23T01:57:22Z",
+            "last_commit": "2026-10-24T03:24:15Z",
             "open_issues": 9,
             "owner": "Cap-go",
             "repo": "capacitor-updater",
@@ -1733,8 +1733,8 @@
             "id": 1322120009,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-10-22T21:48:00Z",
-            "open_issues": 135,
+            "last_commit": "2026-10-23T13:47:56Z",
+            "open_issues": 127,
             "owner": "poveste-dev",
             "repo": "poveste",
             "stars": 3,
@@ -3694,7 +3694,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-23T06:43:05.328Z",
+    "last_updated": "2026-10-24T06:39:32.326Z",
     "original_repository_info": {
       "archived": false,
       "description": "🎉 A list of awesome things related to Quasar",
