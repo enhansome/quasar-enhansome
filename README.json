@@ -21,7 +21,7 @@
                 "open_issues": 54,
                 "owner": "quasarframework",
                 "repo": "quasar",
-                "stars": 27205,
+                "stars": 27209,
                 "topics": [
                   "android",
                   "browser-extension",
@@ -62,7 +62,7 @@
                 "open_issues": 54,
                 "owner": "quasarframework",
                 "repo": "quasar",
-                "stars": 27205,
+                "stars": 27209,
                 "topics": [
                   "android",
                   "browser-extension",
@@ -584,10 +584,10 @@
                     "language": "JavaScript",
                     "license": "MIT",
                     "last_commit": "2026-10-23T22:11:48Z",
-                    "open_issues": 122,
+                    "open_issues": 125,
                     "owner": "axios",
                     "repo": "axios",
-                    "stars": 109305,
+                    "stars": 109314,
                     "topics": [
                       "hacktoberfest",
                       "http-client",
@@ -1128,7 +1128,7 @@
             "open_issues": 7,
             "owner": "patrickmonteiro",
             "repo": "quasar-apexcharts",
-            "stars": 204,
+            "stars": 203,
             "topics": [
               "apexcharts",
               "charts",
@@ -1587,8 +1587,8 @@
             "id": 420741081,
             "language": "Java",
             "license": "MPL-2.0",
-            "last_commit": "2026-10-24T03:24:15Z",
-            "open_issues": 9,
+            "last_commit": "2026-10-25T01:11:51Z",
+            "open_issues": 7,
             "owner": "Cap-go",
             "repo": "capacitor-updater",
             "stars": 876,
@@ -1855,7 +1855,7 @@
             "open_issues": 4,
             "owner": "pratik227",
             "repo": "quasar-admin",
-            "stars": 864,
+            "stars": 863,
             "topics": [
               "vue",
               "vuejs"
@@ -2118,7 +2118,7 @@
             "open_issues": 4,
             "owner": "pratik227",
             "repo": "quasar-admin",
-            "stars": 864,
+            "stars": 863,
             "topics": [
               "vue",
               "vuejs"
@@ -3694,7 +3694,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-24T06:39:32.326Z",
+    "last_updated": "2026-10-25T07:05:36.092Z",
     "original_repository_info": {
       "archived": false,
       "description": "🎉 A list of awesome things related to Quasar",
