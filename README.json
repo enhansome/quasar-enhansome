@@ -18,10 +18,10 @@
                 "language": "JavaScript",
                 "license": "MIT",
                 "last_commit": "2026-10-19T09:32:37Z",
-                "open_issues": 55,
+                "open_issues": 57,
                 "owner": "quasarframework",
                 "repo": "quasar",
-                "stars": 27214,
+                "stars": 27213,
                 "topics": [
                   "android",
                   "browser-extension",
@@ -59,10 +59,10 @@
                 "language": "JavaScript",
                 "license": "MIT",
                 "last_commit": "2026-10-19T09:32:37Z",
-                "open_issues": 55,
+                "open_issues": 57,
                 "owner": "quasarframework",
                 "repo": "quasar",
-                "stars": 27214,
+                "stars": 27213,
                 "topics": [
                   "android",
                   "browser-extension",
@@ -583,11 +583,11 @@
                     "id": 23088740,
                     "language": "JavaScript",
                     "license": "MIT",
-                    "last_commit": "2026-10-27T17:47:23Z",
-                    "open_issues": 111,
+                    "last_commit": "2026-10-28T11:43:41Z",
+                    "open_issues": 110,
                     "owner": "axios",
                     "repo": "axios",
-                    "stars": 109308,
+                    "stars": 109309,
                     "topics": [
                       "hacktoberfest",
                       "http-client",
@@ -1587,7 +1587,7 @@
             "id": 420741081,
             "language": "Java",
             "license": "MPL-2.0",
-            "last_commit": "2026-10-28T03:45:47Z",
+            "last_commit": "2026-10-29T03:43:08Z",
             "open_issues": 7,
             "owner": "Cap-go",
             "repo": "capacitor-updater",
@@ -1733,8 +1733,8 @@
             "id": 1322120009,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-10-27T13:24:23Z",
-            "open_issues": 112,
+            "last_commit": "2026-10-28T11:41:56Z",
+            "open_issues": 116,
             "owner": "poveste-dev",
             "repo": "poveste",
             "stars": 3,
@@ -2784,7 +2784,7 @@
             "open_issues": 208,
             "owner": "RoganDawes",
             "repo": "P4wnP1_aloa",
-            "stars": 4449,
+            "stars": 4448,
             "topics": []
           },
           "first_seen": "2026-08-28T13:31:58.112Z"
@@ -3152,27 +3152,6 @@
               "vue",
               "vue-template"
             ]
-          },
-          "first_seen": "2026-08-28T13:31:58.112Z"
-        },
-        {
-          "node_type": "item",
-          "title": "Github Method",
-          "description": "github, website Cool habit tracker based on Github concept v1",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "Cool habit tracker",
-            "homepage": "https://github-method.web.app",
-            "id": 258120223,
-            "language": "Vue",
-            "license": "MIT",
-            "last_commit": "2020-05-19T04:30:36Z",
-            "open_issues": 9,
-            "owner": "cartovarc",
-            "repo": "github-method",
-            "stars": 2,
-            "topics": []
           },
           "first_seen": "2026-08-28T13:31:58.112Z"
         },
@@ -3694,7 +3673,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-28T07:43:14.880Z",
+    "last_updated": "2026-10-29T07:47:19.907Z",
     "original_repository_info": {
       "archived": false,
       "description": "🎉 A list of awesome things related to Quasar",
