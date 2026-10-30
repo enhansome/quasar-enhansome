@@ -18,7 +18,7 @@
                 "language": "JavaScript",
                 "license": "MIT",
                 "last_commit": "2026-10-19T09:32:37Z",
-                "open_issues": 57,
+                "open_issues": 58,
                 "owner": "quasarframework",
                 "repo": "quasar",
                 "stars": 27213,
@@ -59,7 +59,7 @@
                 "language": "JavaScript",
                 "license": "MIT",
                 "last_commit": "2026-10-19T09:32:37Z",
-                "open_issues": 57,
+                "open_issues": 58,
                 "owner": "quasarframework",
                 "repo": "quasar",
                 "stars": 27213,
@@ -584,10 +584,10 @@
                     "language": "JavaScript",
                     "license": "MIT",
                     "last_commit": "2026-10-28T11:43:41Z",
-                    "open_issues": 110,
+                    "open_issues": 111,
                     "owner": "axios",
                     "repo": "axios",
-                    "stars": 109309,
+                    "stars": 109310,
                     "topics": [
                       "hacktoberfest",
                       "http-client",
@@ -1587,11 +1587,11 @@
             "id": 420741081,
             "language": "Java",
             "license": "MPL-2.0",
-            "last_commit": "2026-10-29T03:43:08Z",
+            "last_commit": "2026-10-30T06:45:13Z",
             "open_issues": 7,
             "owner": "Cap-go",
             "repo": "capacitor-updater",
-            "stars": 876,
+            "stars": 878,
             "topics": [
               "android",
               "capacitor",
@@ -1733,8 +1733,8 @@
             "id": 1322120009,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-10-28T11:41:56Z",
-            "open_issues": 116,
+            "last_commit": "2026-10-29T20:18:21Z",
+            "open_issues": 123,
             "owner": "poveste-dev",
             "repo": "poveste",
             "stars": 3,
@@ -2353,7 +2353,7 @@
             "open_issues": 8,
             "owner": "shuosc",
             "repo": "SHUhelper",
-            "stars": 111,
+            "stars": 112,
             "topics": [
               "golang",
               "vue"
@@ -3673,7 +3673,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-29T07:47:19.907Z",
+    "last_updated": "2026-10-30T07:52:58.195Z",
     "original_repository_info": {
       "archived": false,
       "description": "🎉 A list of awesome things related to Quasar",
