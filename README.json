@@ -21,7 +21,7 @@
                 "open_issues": 61,
                 "owner": "quasarframework",
                 "repo": "quasar",
-                "stars": 27212,
+                "stars": 27211,
                 "topics": [
                   "android",
                   "browser-extension",
@@ -62,7 +62,7 @@
                 "open_issues": 61,
                 "owner": "quasarframework",
                 "repo": "quasar",
-                "stars": 27212,
+                "stars": 27211,
                 "topics": [
                   "android",
                   "browser-extension",
@@ -497,7 +497,7 @@
                     "open_issues": 2,
                     "owner": "pratik227",
                     "repo": "quasar-qgrid",
-                    "stars": 117,
+                    "stars": 116,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T13:31:58.112Z"
@@ -584,10 +584,10 @@
                     "language": "JavaScript",
                     "license": "MIT",
                     "last_commit": "2026-10-28T11:43:41Z",
-                    "open_issues": 116,
+                    "open_issues": 119,
                     "owner": "axios",
                     "repo": "axios",
-                    "stars": 109307,
+                    "stars": 109310,
                     "topics": [
                       "hacktoberfest",
                       "http-client",
@@ -1237,7 +1237,7 @@
             "open_issues": 5,
             "owner": "snowyu",
             "repo": "qinputex",
-            "stars": 13,
+            "stars": 12,
             "topics": [
               "qinput-component",
               "quasar"
@@ -1587,11 +1587,11 @@
             "id": 420741081,
             "language": "Java",
             "license": "MPL-2.0",
-            "last_commit": "2026-11-01T05:59:35Z",
-            "open_issues": 12,
+            "last_commit": "2026-11-02T02:52:27Z",
+            "open_issues": 14,
             "owner": "Cap-go",
             "repo": "capacitor-updater",
-            "stars": 880,
+            "stars": 881,
             "topics": [
               "android",
               "capacitor",
@@ -1733,11 +1733,11 @@
             "id": 1322120009,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-10-31T09:47:22Z",
-            "open_issues": 126,
+            "last_commit": "2026-11-02T08:34:37Z",
+            "open_issues": 118,
             "owner": "poveste-dev",
             "repo": "poveste",
-            "stars": 3,
+            "stars": 4,
             "topics": [
               "component-explorer",
               "histoire",
@@ -2784,7 +2784,7 @@
             "open_issues": 209,
             "owner": "RoganDawes",
             "repo": "P4wnP1_aloa",
-            "stars": 4447,
+            "stars": 4448,
             "topics": []
           },
           "first_seen": "2026-08-28T13:31:58.112Z"
@@ -3673,7 +3673,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-01T08:23:34.083Z",
+    "last_updated": "2026-11-02T08:36:36.597Z",
     "original_repository_info": {
       "archived": false,
       "description": "🎉 A list of awesome things related to Quasar",
