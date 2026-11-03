@@ -21,7 +21,7 @@
                 "open_issues": 61,
                 "owner": "quasarframework",
                 "repo": "quasar",
-                "stars": 27211,
+                "stars": 27210,
                 "topics": [
                   "android",
                   "browser-extension",
@@ -62,7 +62,7 @@
                 "open_issues": 61,
                 "owner": "quasarframework",
                 "repo": "quasar",
-                "stars": 27211,
+                "stars": 27210,
                 "topics": [
                   "android",
                   "browser-extension",
@@ -583,11 +583,11 @@
                     "id": 23088740,
                     "language": "JavaScript",
                     "license": "MIT",
-                    "last_commit": "2026-10-28T11:43:41Z",
+                    "last_commit": "2026-11-03T07:29:11Z",
                     "open_issues": 119,
                     "owner": "axios",
                     "repo": "axios",
-                    "stars": 109310,
+                    "stars": 109318,
                     "topics": [
                       "hacktoberfest",
                       "http-client",
@@ -851,7 +851,7 @@
                     "id": 243010177,
                     "language": "JavaScript",
                     "license": "MIT",
-                    "last_commit": "2026-10-30T18:48:50Z",
+                    "last_commit": "2026-11-02T23:55:25Z",
                     "open_issues": 48,
                     "owner": "freddy38510",
                     "repo": "quasar-app-extension-ssg",
@@ -1587,11 +1587,11 @@
             "id": 420741081,
             "language": "Java",
             "license": "MPL-2.0",
-            "last_commit": "2026-11-02T02:52:27Z",
-            "open_issues": 14,
+            "last_commit": "2026-11-03T06:05:10Z",
+            "open_issues": 7,
             "owner": "Cap-go",
             "repo": "capacitor-updater",
-            "stars": 881,
+            "stars": 883,
             "topics": [
               "android",
               "capacitor",
@@ -1733,11 +1733,11 @@
             "id": 1322120009,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-11-02T08:34:37Z",
+            "last_commit": "2026-11-03T08:32:55Z",
             "open_issues": 118,
             "owner": "poveste-dev",
             "repo": "poveste",
-            "stars": 4,
+            "stars": 5,
             "topics": [
               "component-explorer",
               "histoire",
@@ -2163,7 +2163,7 @@
             "open_issues": 7,
             "owner": "mayank091193",
             "repo": "quasar-admin-crm",
-            "stars": 462,
+            "stars": 461,
             "topics": [
               "crm",
               "css",
@@ -2377,7 +2377,7 @@
             "open_issues": 2,
             "owner": "karrot-dev",
             "repo": "karrot-frontend",
-            "stars": 437,
+            "stars": 436,
             "topics": [
               "community",
               "food",
@@ -2784,7 +2784,7 @@
             "open_issues": 209,
             "owner": "RoganDawes",
             "repo": "P4wnP1_aloa",
-            "stars": 4448,
+            "stars": 4449,
             "topics": []
           },
           "first_seen": "2026-08-28T13:31:58.112Z"
@@ -3673,7 +3673,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-02T08:36:36.597Z",
+    "last_updated": "2026-11-03T08:48:42.309Z",
     "original_repository_info": {
       "archived": false,
       "description": "🎉 A list of awesome things related to Quasar",
