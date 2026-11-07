@@ -21,7 +21,7 @@
                 "open_issues": 57,
                 "owner": "quasarframework",
                 "repo": "quasar",
-                "stars": 27206,
+                "stars": 27203,
                 "topics": [
                   "android",
                   "browser-extension",
@@ -62,7 +62,7 @@
                 "open_issues": 57,
                 "owner": "quasarframework",
                 "repo": "quasar",
-                "stars": 27206,
+                "stars": 27203,
                 "topics": [
                   "android",
                   "browser-extension",
@@ -583,11 +583,11 @@
                     "id": 23088740,
                     "language": "JavaScript",
                     "license": "MIT",
-                    "last_commit": "2026-11-05T07:47:21Z",
+                    "last_commit": "2026-11-06T12:05:11Z",
                     "open_issues": 120,
                     "owner": "axios",
                     "repo": "axios",
-                    "stars": 109311,
+                    "stars": 109309,
                     "topics": [
                       "hacktoberfest",
                       "http-client",
@@ -1587,11 +1587,11 @@
             "id": 420741081,
             "language": "Java",
             "license": "MPL-2.0",
-            "last_commit": "2026-11-06T08:11:51Z",
-            "open_issues": 7,
+            "last_commit": "2026-11-07T06:08:59Z",
+            "open_issues": 8,
             "owner": "Cap-go",
             "repo": "capacitor-updater",
-            "stars": 883,
+            "stars": 884,
             "topics": [
               "android",
               "capacitor",
@@ -1733,7 +1733,7 @@
             "id": 1322120009,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-11-05T18:22:43Z",
+            "last_commit": "2026-11-06T19:25:15Z",
             "open_issues": 111,
             "owner": "poveste-dev",
             "repo": "poveste",
@@ -2221,7 +2221,7 @@
             "open_issues": 1,
             "owner": "dirkhe1051931999",
             "repo": "quasar-typescript-admin-template",
-            "stars": 162,
+            "stars": 160,
             "topics": [
               "quasar-admin",
               "quasar-framework",
@@ -2784,7 +2784,7 @@
             "open_issues": 209,
             "owner": "RoganDawes",
             "repo": "P4wnP1_aloa",
-            "stars": 4448,
+            "stars": 4450,
             "topics": []
           },
           "first_seen": "2026-08-28T13:31:58.112Z"
@@ -3673,7 +3673,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-06T08:44:10.904Z",
+    "last_updated": "2026-11-07T07:58:37.639Z",
     "original_repository_info": {
       "archived": false,
       "description": "🎉 A list of awesome things related to Quasar",
@@ -3685,7 +3685,7 @@
       "open_issues": 10,
       "owner": "quasarframework",
       "repo": "quasar-awesome",
-      "stars": 1869,
+      "stars": 1870,
       "topics": [
         "cordova",
         "electron",
