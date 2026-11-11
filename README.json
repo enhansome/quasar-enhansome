@@ -21,7 +21,7 @@
                 "open_issues": 55,
                 "owner": "quasarframework",
                 "repo": "quasar",
-                "stars": 27205,
+                "stars": 27206,
                 "topics": [
                   "android",
                   "browser-extension",
@@ -62,7 +62,7 @@
                 "open_issues": 55,
                 "owner": "quasarframework",
                 "repo": "quasar",
-                "stars": 27205,
+                "stars": 27206,
                 "topics": [
                   "android",
                   "browser-extension",
@@ -583,11 +583,11 @@
                     "id": 23088740,
                     "language": "JavaScript",
                     "license": "MIT",
-                    "last_commit": "2026-11-10T06:44:47Z",
-                    "open_issues": 118,
+                    "last_commit": "2026-11-10T12:28:09Z",
+                    "open_issues": 119,
                     "owner": "axios",
                     "repo": "axios",
-                    "stars": 109297,
+                    "stars": 109325,
                     "topics": [
                       "hacktoberfest",
                       "http-client",
@@ -1587,8 +1587,8 @@
             "id": 420741081,
             "language": "Java",
             "license": "MPL-2.0",
-            "last_commit": "2026-11-09T19:38:57Z",
-            "open_issues": 9,
+            "last_commit": "2026-11-11T06:04:59Z",
+            "open_issues": 7,
             "owner": "Cap-go",
             "repo": "capacitor-updater",
             "stars": 885,
@@ -1733,8 +1733,8 @@
             "id": 1322120009,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-11-10T07:17:56Z",
-            "open_issues": 112,
+            "last_commit": "2026-11-11T06:38:32Z",
+            "open_issues": 98,
             "owner": "poveste-dev",
             "repo": "poveste",
             "stars": 6,
@@ -2377,7 +2377,7 @@
             "open_issues": 2,
             "owner": "karrot-dev",
             "repo": "karrot-frontend",
-            "stars": 436,
+            "stars": 437,
             "topics": [
               "community",
               "food",
@@ -2784,7 +2784,7 @@
             "open_issues": 209,
             "owner": "RoganDawes",
             "repo": "P4wnP1_aloa",
-            "stars": 4450,
+            "stars": 4449,
             "topics": []
           },
           "first_seen": "2026-08-28T13:31:58.112Z"
@@ -3554,7 +3554,7 @@
             "id": 385890867,
             "language": "TypeScript",
             "license": "NOASSERTION",
-            "last_commit": "2026-11-10T07:47:02Z",
+            "last_commit": "2026-11-10T11:03:21Z",
             "open_issues": 2,
             "owner": "simsustech",
             "repo": "petboarding",
@@ -3673,7 +3673,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-10T08:56:49.894Z",
+    "last_updated": "2026-11-11T08:37:36.936Z",
     "original_repository_info": {
       "archived": false,
       "description": "🎉 A list of awesome things related to Quasar",
